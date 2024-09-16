@@ -11,7 +11,7 @@
 - vgrajeni sistemi: [[vgs]]
 
 - obveznosti: [[Obveznosti - 3. semester]]
-### Ostalo:
+### Skupno:
 
 | <font color="#4bacc6">Datum</font> | <font color="#92cddc">Naslov</font> | Vsebina |
 |:----------------------------------:| ----------------------------------- | ------- |
