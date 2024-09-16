@@ -1,5 +1,5 @@
 Wow kako noro.
-- [] kako se uporablja to?
+- [ ] kako se uporablja to?
 
 ### Wow to pa je noro
 # Wow
@@ -84,14 +84,14 @@ x = 1 + y + \sin(x)
 ```handwritten-ink
 {
 	"versionAtEmbed": "0.2.6",
-	"filepath": "Ink/Writing/2024.9.15 - 20.26pm.writing"
+	"filepath": "temp/Ink/Writing/2024.9.15 - 20.26pm.writing"
 }
 ```
 
 ```handdrawn-ink
 {
 	"versionAtEmbed": "0.2.6",
-	"filepath": "Ink/Drawing/2024.9.15 - 20.26pm.drawing"
+	"filepath": "temp/Ink/Drawing/2024.9.15 - 20.26pm.drawing"
 }
 ```
 ## Kako nardit backlink na določeno stran pdf-ja?
@@ -118,3 +118,4 @@ x = 1 + y + \sin(x)
 no zdej pa ga mamo
 
 
+#zapiski so zelo kul

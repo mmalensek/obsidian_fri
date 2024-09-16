@@ -1,0 +1,53 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiPenLine",
+      "LiBookTemplate",
+      "LiArchive",
+      "LiAlarmClock",
+      "🟣"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false
+  },
+  "1-letnik": "🟢",
+  "2-letnik": "🟡",
+  "3-letnik": "🔴",
+  "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1": "LiAlignEndHorizontal",
+  "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost": "LiCalculator",
+  "2-letnik/3-semester/organizacija-računalniških-sistemov": "LiHourglass",
+  "2-letnik/3-semester/osnove-podatkovnih-baz": "LiDatabase",
+  "2-letnik/3-semester/verjetnost-in-statistika": "LiLineChart",
+  "2-letnik/3-semester/vgrajeni-sistemi": "LiComputer",
+  "2-letnik/4-semester/algoritmi-in-podatkovne-strukture-2": "LiAlignEndHorizontal",
+  "2-letnik/4-semester/operacijski-sistemi": "LiMousePointerSquareDashed",
+  "2-letnik/4-semester/principi-programskih-jezikov": "LiLanguages",
+  "2-letnik/4-semester/teorija-informacij-in-sistemov": "LiInfo",
+  "temp": "LiArchive",
+  "imp": "LiAlarmClock",
+  "temp/templates": "LiBookTemplate",
+  "temp/Ink": "LiPenLine"
+}

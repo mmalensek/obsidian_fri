@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "ab5aed3891295238",
+    "type": "split",
+    "children": [
+      {
+        "id": "10ec4246a8421211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f744fb298c47466f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp/templates/predavanje-template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d0aaa088e2f428c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d827073b061f8000",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3681eed52612b9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f25bb222c5a4f99",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be298559873cd3dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42b90c525f19d2f7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e09e350161e4cf5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea72d8413c4851f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "temp/templates/predavanje-template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be78836e4a2ac021",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "temp/templates/predavanje-template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbc13aaf4473910b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "95606af6a6b14b83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "temp/templates/predavanje-template.md"
+              }
+            }
+          },
+          {
+            "id": "170891ce6c60e80d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f744fb298c47466f",
+  "lastOpenFiles": [
+    "temp/templates/predavanje-template.md",
+    "dasda.md",
+    "temp/templates/osnovna-datum-tabela-template.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vgs-osnovno.md",
+    "imp/Pomembni datumi - 3. semester.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vs-osnovno.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-osnovno.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-osnovno.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-osnovno.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-osnovno.md",
+    "Untitled",
+    "temp/Priprave na novi semester.md",
+    "aps-osnovno",
+    "temp/templates/test-template.md",
+    "temp/Screenshot from 2024-08-31 17-31-30.png",
+    "temp/templates/pomembno-o-predmetu-template.md",
+    "Test.md",
+    "imp/Pomembni datumi - 3. semester 1.md",
+    "imp/markdown-cheat-sheet.md",
+    "temp/izpit3.pdf",
+    "temp/izpit1.pdf",
+    "[[izpit1.pdf.md",
+    "temp/Ink/Drawing/2024.9.15 - 20.26pm.drawing",
+    "temp/Ink/Drawing",
+    "temp/Ink/Writing/2024.9.15 - 20.26pm.writing",
+    "temp/Ink/Writing",
+    "temp/Ink",
+    "temp/abc.excalidraw",
+    "Temp/Untitled.md",
+    "Untitled.canvas",
+    "Welcome.md"
+  ]
+}
