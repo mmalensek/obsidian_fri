@@ -6,7 +6,64 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#NEpregledano  ",
+      "color": {
+        "a": 1,
+        "rgb": 15874717
+      }
+    },
+    {
+      "query": "tag:#pregledano  ",
+      "color": {
+        "a": 1,
+        "rgb": 2413301
+      }
+    },
+    {
+      "query": "tag:#mormŠeObdelat  ",
+      "color": {
+        "a": 1,
+        "rgb": 16743956
+      }
+    },
+    {
+      "query": "tag:#znam  ",
+      "color": {
+        "a": 1,
+        "rgb": 1890645
+      }
+    },
+    {
+      "query": "path:imp  ",
+      "color": {
+        "a": 1,
+        "rgb": 9323156
+      }
+    },
+    {
+      "query": "path:temp  ",
+      "color": {
+        "a": 1,
+        "rgb": 12500667
+      }
+    },
+    {
+      "query": "path:2-letnik  ",
+      "color": {
+        "a": 1,
+        "rgb": 11173805
+      }
+    },
+    {
+      "query": "tag:#dokončano  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,

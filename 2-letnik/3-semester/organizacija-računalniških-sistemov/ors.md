@@ -1,5 +1,5 @@
 
-### Vgrajeni sistemi
+### Organizacija računalniških sistemov
 
 ---
 
@@ -13,6 +13,9 @@
 |                                    |                                     |         |
 |                                    |                                     |         |
 
+#### To-do: 
+
+[[Obveznosti - 3. semester]]
 
 #### Ostalo:
 

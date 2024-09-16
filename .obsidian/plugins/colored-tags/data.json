@@ -1,0 +1,22 @@
+{
+  "palette": {
+    "seed": 3,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "zapiski": 1,
+    "NEpregledano": 2,
+    "pregledano": 3,
+    "mormŠeObdelat": 4,
+    "znam": 5,
+    "dokončano": 6,
+    "ors": 7
+  },
+  "_version": 3
+}

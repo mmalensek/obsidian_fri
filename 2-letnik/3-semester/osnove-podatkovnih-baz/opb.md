@@ -1,5 +1,5 @@
 
-### Verjetnost in statistika
+### Osnove podatkovnih baz
 
 ---
 
@@ -13,6 +13,9 @@
 |                                    |                                     |         |
 |                                    |                                     |         |
 
+#### To-do: 
+
+[[Obveznosti - 3. semester]]
 
 #### Ostalo:
 

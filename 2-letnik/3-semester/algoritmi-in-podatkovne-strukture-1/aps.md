@@ -13,7 +13,9 @@
 |                                    |                                     |         |
 |                                    |                                     |         |
 
+#### To-do: 
 
+[[Obveznosti - 3. semester]]
 #### Ostalo:
 
 

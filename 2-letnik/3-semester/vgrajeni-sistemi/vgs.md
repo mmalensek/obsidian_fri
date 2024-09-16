@@ -1,5 +1,5 @@
 
-### Osnove podatkovnih baz
+### Vgrajeni sistemi
 
 ---
 
@@ -13,6 +13,9 @@
 |                                    |                                     |         |
 |                                    |                                     |         |
 
+#### To-do: 
+
+[[Obveznosti - 3. semester]]
 
 #### Ostalo:
 

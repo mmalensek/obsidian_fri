@@ -1,18 +1,17 @@
-### Ime predmeta, teden predavanja, {{date}}
+### link do predmeta, teden predavanja, {{date}}
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano #pregledano #mormŠeObdelat #znam
-
----
-
-#### Vsebina:
-
-
+<font color="#92cddc">Status/tags:</font> #NEpregledano #pregledano #mormŠeObdelat #znam #dokončano
 
 ---
 
-##### Linki:
+### Vsebina:
 
+
+
+---
+
+<font color="#92cddc">Linki:</font>
 
 
 ---

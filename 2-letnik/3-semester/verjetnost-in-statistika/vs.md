@@ -1,5 +1,5 @@
 
-### Organizacija računalniških sistemov
+### Verjetnost in statistika
 
 ---
 
@@ -13,6 +13,9 @@
 |                                    |                                     |         |
 |                                    |                                     |         |
 
+#### To-do: 
+
+[[Obveznosti - 3. semester]]
 
 #### Ostalo:
 
