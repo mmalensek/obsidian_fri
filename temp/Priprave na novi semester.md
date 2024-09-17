@@ -74,7 +74,7 @@ image: https://img.rtvslo.si/_static/r102/novi/img/rtvslo-share3.jpg
 
 ## Desmos graf?!
 ``` desmos-graph
-x = 1 + y + \sin(x)
+x = y + \sin(x)
 ```
 
 
