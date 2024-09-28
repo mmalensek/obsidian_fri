@@ -16,7 +16,8 @@
     "mormŠeObdelat": 4,
     "znam": 5,
     "dokončano": 6,
-    "ors": 7
+    "ors": 7,
+    "excalidraw": 8
   },
   "_version": 3
 }

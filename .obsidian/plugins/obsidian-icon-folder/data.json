@@ -7,10 +7,10 @@
     "iconColor": null,
     "recentlyUsedIcons": [
       "LiPenLine",
-      "LiBookTemplate",
-      "LiArchive",
-      "LiAlarmClock",
-      "🟣"
+      "LiCalculator",
+      "LiPi",
+      "LiAreaChart",
+      "LiAccessibility"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,9 +33,8 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "1-letnik": "🟢",
-  "2-letnik": "🟡",
-  "3-letnik": "🔴",
+  "1-letnik": "LiCalculator",
+  "2-letnik": "LiDraftingCompass",
   "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1": "LiAlignEndHorizontal",
   "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost": "LiCalculator",
   "2-letnik/3-semester/organizacija-računalniških-sistemov": "LiHourglass",
@@ -46,8 +45,9 @@
   "2-letnik/4-semester/operacijski-sistemi": "LiMousePointerSquareDashed",
   "2-letnik/4-semester/principi-programskih-jezikov": "LiLanguages",
   "2-letnik/4-semester/teorija-informacij-in-sistemov": "LiInfo",
-  "temp": "LiArchive",
-  "imp": "LiAlarmClock",
-  "temp/templates": "LiBookTemplate",
-  "temp/Ink": "LiPenLine"
+  "3-letnik": "LiAreaChart",
+  "4-imp": "LiAlarmClock",
+  "5-temp": "LiArchive",
+  "5-temp/templates": "LiBookTemplate",
+  "5-temp/Excalidraw": "LiPenLine"
 }

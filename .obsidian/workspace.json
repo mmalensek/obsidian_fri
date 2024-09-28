@@ -4,15 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "ffa7203313edc491",
+        "id": "5a935f6027edc9f5",
         "type": "tabs",
         "children": [
           {
-            "id": "e65713e14bf30f6c",
+            "id": "4a5508c2028e0471",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "novo predavanje ors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37042b61bf5b333d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "5-temp/Excalidraw/novo predavanje ors 2024-09-28 10.36.14.excalidraw.md"
+              }
             }
           }
         ]
@@ -81,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "novo predavanje ors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "novo predavanje ors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "novo predavanje ors.md"
+              }
             }
           },
           {
@@ -128,9 +146,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "74ebb4e265e1d3f6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -146,48 +172,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e65713e14bf30f6c",
+  "active": "4a5508c2028e0471",
   "lastOpenFiles": [
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/aps-1.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden",
+    "5-temp/Excalidraw/novo predavanje ors 2024-09-28 10.36.14.excalidraw.md",
+    "novo predavanje ors.md",
+    "5-temp/Excalidraw/Drawing 2024-09-28 10.30.17.excalidraw.md",
+    "2024-10-24.md",
+    "5-temp/Excalidraw",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps.md",
-    "imp/Pomembni datumi - 3. semester.md",
-    "imp/Obveznosti - 3. semester.md",
-    "temp/templates/predavanje-template.md",
-    "temp/primer-latex.md",
+    "home/mmalensek/Documents/OBSIDIAN/fonts/webfonts",
+    "/home/mmalensek/Documents/OBSIDIAN/fonts/webfonts/",
+    "/home/mmalensek/Documents/OBSIDIAN/fonts/webfonts",
+    "home/mmalensek/Documents/OBSIDIAN/fonts/variable",
+    "/home/mmalensek/Documents/OBSIDIAN/fonts/variable/",
+    "/home/mmalensek/Documents/OBSIDIAN/fonts/variable",
+    "home/mmalensek/Documents/OBSIDIAN/fonts/ttf",
+    "/home/mmalensek/Documents/OBSIDIAN/fonts/ttf/",
+    "/home/mmalensek/Documents/OBSIDIAN/fonts/ttf",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/aps-1.md",
+    "4-imp/Pomembni datumi - 3. semester.md",
+    "4-imp/Obveznosti - 3. semester.md",
+    "5-temp/templates/predavanje-template.md",
+    "5-temp/primer-latex.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vgs.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
-    "temp/Priprave na novi semester.md",
-    "temp/markdown-cheat-sheet.md",
+    "5-temp/Priprave na novi semester.md",
+    "5-temp/markdown-cheat-sheet.md",
     "ausad.md",
-    "Ink/Drawing/2024.9.16 - 16.50pm.drawing",
-    "Ink/Drawing",
-    "Ink/Writing/2024.9.16 - 16.49pm.writing",
-    "Ink/Writing",
-    "Ink",
     "ors, 1.teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors.md",
-    "temp/izpit3.pdf",
-    "temp/templates/pomembno-o-predmetu-template.md",
-    "temp/templates/osnovna-datum-tabela-template.md",
+    "5-temp/templates/pomembno-o-predmetu-template.md",
+    "5-temp/templates/osnovna-datum-tabela-template.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vs.md",
     "neko predavanje.md",
     "ors.md",
-    "temp/templates/to-do-list-template.md",
+    "5-temp/templates/to-do-list-template.md",
     "dasda.md",
-    "aps-osnovno",
-    "temp/templates/test-template.md",
-    "temp/Screenshot from 2024-08-31 17-31-30.png",
-    "Test.md",
-    "imp/Pomembni datumi - 3. semester 1.md",
-    "temp/izpit1.pdf",
-    "[[izpit1.pdf.md",
-    "temp/Ink/Drawing/2024.9.15 - 20.26pm.drawing",
-    "Temp/Untitled.md",
+    "5-temp/templates/test-template.md",
+    "5-temp/Screenshot from 2024-08-31 17-31-30.png",
     "Untitled.canvas"
   ]
 }
