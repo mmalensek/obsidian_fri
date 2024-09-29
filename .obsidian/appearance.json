@@ -1,4 +1,11 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Things"
+  "cssTheme": "Vanilla AMOLED",
+  "interfaceFontFamily": "",
+  "enabledCssSnippets": [
+    "Colored Sidebar Items",
+    "center",
+    "Center",
+    "Notebook Backgrounds"
+  ]
 }

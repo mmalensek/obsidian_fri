@@ -5,7 +5,11 @@
   "editing-toolbar",
   "obsidian-desmos",
   "obsidian-git",
-  "ink",
   "obsidian-html-tags-autocomplete",
-  "colored-tags"
+  "colored-tags",
+  "url-into-selection",
+  "custom-font-loader",
+  "calendar",
+  "obsidian-excalidraw-plugin",
+  "obsidian-spaced-repetition"
 ]
