@@ -157,10 +157,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2976a06e5b530afa",
+  "active": "e3681eed52612b9c",
   "lastOpenFiles": [
-    "imp/Pomembni datumi - 3. semester.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps.md",
+    "bla.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vs.md",
+    "imp/Pomembni datumi - 3. semester.md",
     "imp/Obveznosti - 3. semester.md",
     "temp/templates/predavanje-template.md",
     "temp/primer-latex.md",
@@ -180,7 +182,6 @@
     "temp/izpit3.pdf",
     "temp/templates/pomembno-o-predmetu-template.md",
     "temp/templates/osnovna-datum-tabela-template.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vs.md",
     "neko predavanje.md",
     "ors.md",
     "temp/templates/to-do-list-template.md",
@@ -195,7 +196,6 @@
     "[[izpit1.pdf.md",
     "temp/Ink/Drawing/2024.9.15 - 20.26pm.drawing",
     "Temp/Untitled.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }
