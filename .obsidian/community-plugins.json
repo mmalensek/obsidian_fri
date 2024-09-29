@@ -10,5 +10,6 @@
   "url-into-selection",
   "custom-font-loader",
   "calendar",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-spaced-repetition"
 ]

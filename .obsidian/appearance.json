@@ -3,6 +3,9 @@
   "cssTheme": "Vanilla AMOLED",
   "interfaceFontFamily": "",
   "enabledCssSnippets": [
-    "Colored Sidebar Items"
+    "Colored Sidebar Items",
+    "center",
+    "Center",
+    "Notebook Backgrounds"
   ]
 }

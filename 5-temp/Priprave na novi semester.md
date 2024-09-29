@@ -1,3 +1,11 @@
+---
+cssclasses:
+  - notebook-pen-blue
+tags:
+  - dokončano
+aliases:
+---
+
 Wow kako noro.
 - [ ] kako se uporablja to?
 
@@ -23,7 +31,7 @@ C³PO
 
 Zelo ===pomembne=== besede podčrtaš z ===
 
-![Neka slika](https://www.pc-komenda.si/uploads/zemljevidi/slovenija_komenda.jpg)
+![Neka slika | 500](https://www.pc-komenda.si/uploads/zemljevidi/slovenija_komenda.jpg)
 wow nora slika
 
 ![[izpit3.pdf]]
@@ -119,3 +127,9 @@ no zdej pa ga mamo
 
 
 #zapiski so zelo kul
+
+![[Screenshot from 2024-08-31 17-31-30.png]]
+Pol pa <font color="#92cddc">dodamo še to...</font>
+
+![[Priprave na novi semester 2024-09-29 10.11.28.excalidraw]]
+

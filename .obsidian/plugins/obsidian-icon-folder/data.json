@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCalendar",
       "LiPenLine",
       "LiCalculator",
       "LiPi",
-      "LiAreaChart",
-      "LiAccessibility"
+      "LiAreaChart"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -49,5 +49,6 @@
   "4-imp": "LiAlarmClock",
   "5-temp": "LiArchive",
   "5-temp/templates": "LiBookTemplate",
-  "5-temp/Excalidraw": "LiPenLine"
+  "5-temp/Excalidraw": "LiPenLine",
+  "4-imp/koledar": "LiCalendar"
 }
