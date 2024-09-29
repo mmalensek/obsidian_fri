@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cea5158b0248937f",
+        "id": "aed46c724af2e30a",
         "type": "tabs",
         "children": [
           {
-            "id": "1fa5681d16d4441b",
+            "id": "0a03465856fc0949",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,10 +149,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fa5681d16d4441b",
+  "active": "0a03465856fc0949",
   "lastOpenFiles": [
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps.md",
+    "4-imp/urnik_temp.png",
+    "urnik_temp.png",
     "conflict-files-obsidian-git.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps.md",
     "5-temp/templates/to-do-list-template.md",
     "5-temp/templates/test-template.md",
     "5-temp/templates/predavanje-template.md",
@@ -193,7 +187,6 @@
     "imp/Obveznosti - 3. semester.md",
     "temp/templates/predavanje-template.md",
     "temp/primer-latex.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vgs.md",
     "Ink/Drawing/2024.9.16 - 16.50pm.drawing",
     "Ink/Drawing",
     "temp/Screenshot from 2024-08-31 17-31-30.png",
