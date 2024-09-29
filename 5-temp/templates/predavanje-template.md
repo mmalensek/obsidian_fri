@@ -1,7 +1,7 @@
 ### link do predmeta, teden predavanja, {{date}}
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano #pregledano #mormŠeObdelat #znam #dokončano
+<font color="#92cddc">Status/tags:</font> #NEpregledano #flashcard
 
 ---
 
@@ -11,7 +11,8 @@
 
 ---
 
-<font color="#92cddc">Linki:</font>
+<font color="#92cddc">Flashcards:</font>
 
+vprasanje;; odgovor
 
 ---

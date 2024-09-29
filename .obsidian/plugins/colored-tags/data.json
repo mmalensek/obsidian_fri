@@ -17,7 +17,9 @@
     "znam": 5,
     "dokončano": 6,
     "ors": 7,
-    "excalidraw": 8
+    "excalidraw": 8,
+    "ors-flashcards": 9,
+    "flashcard": 10
   },
   "_version": 3
 }

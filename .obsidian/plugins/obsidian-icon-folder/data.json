@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCodepen",
       "LiCalendar",
       "LiPenLine",
       "LiCalculator",
-      "LiPi",
-      "LiAreaChart"
+      "LiPi"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,7 +34,7 @@
     "debugMode": false
   },
   "1-letnik": "LiCalculator",
-  "2-letnik": "LiDraftingCompass",
+  "2-letnik": "LiCodepen",
   "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1": "LiAlignEndHorizontal",
   "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost": "LiCalculator",
   "2-letnik/3-semester/organizacija-računalniških-sistemov": "LiHourglass",

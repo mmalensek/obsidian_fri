@@ -1,6 +1,5 @@
 ---
-cssclasses:
-  - notebook-pen-blue
+cssclasses: []
 tags:
   - dokončano
 aliases:
