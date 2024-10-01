@@ -7,8 +7,8 @@
 - izračunljivost in računska zahtevnost: [[irz]]
 - organizacija računalniških sistemov: [[ors]]
 - osnove podatkovnih baz: [[opb]]
-- verjetnost in statistika: [[vs]]
-- vgrajeni sistemi: [[vgs]]
+- verjetnost in statistika: [[vis]]
+- vgrajeni sistemi: [[vs]]
 
 - obveznosti: [[Obveznosti - 3. semester]]
 ### Skupno:
