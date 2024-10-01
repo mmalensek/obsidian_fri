@@ -1,0 +1,2 @@
+[[osnovni-pojmi-verjetnosti]];
+$$n$$

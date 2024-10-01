@@ -7,4 +7,8 @@ img {
 
 img[alt*="inv"] {
     filter: invert(1);
-} 
+}
+
+.markdown-preview-view {
+    text-align: center;
+}

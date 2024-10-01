@@ -1,19 +1,40 @@
 ### [[vis]], 1.teden, 01-10-2024
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano #flashcard
+<font color="#92cddc">Status/tags:</font> #NEpregledano #vis-flashcards
 
 ---
 
 ### Vsebina:
+$$\Omega = \{w_{1}, w_2, ..., w_n\}$$je [[množica vseh izidov]] (ozr. rezultatov) nekega <font color="#92cddc">slučajnega poskusa,</font> kjer so $w_1, w_2, ..., w_n$ <font color="#92cddc">elementarni</font> izidi in so vsi <font color="#92cddc">enako</font> verjetni.
+$$A = \{w_1, w_2, ..., w_k\}$$
+je [[slučajni dogodek]], katerega elementi so <font color="#92cddc">ugodni izidi</font> za dogodek A.
 
-$\Omega$ je množica vseh <font color="#92cddc">izidov</font> (ozr. rezultatov) nekega <font color="#92cddc">slučajnega poskusa.</font>
-Kjer so 
+$n$ je [[število vseh možnih izidov]].
+
+$k$ je [[število ugodnih izidov]].
+
+$$P(A) = \frac{k}{n}$$
+je [[verjetnost slučajnega dogodka]] A.
+
+Ponovi tudi [[Binomski simbol]]!
+
+Verjetnost nasprotnega dogodka 
+### Primeri:
+
+4) meče se kocka dokler ni enaka 6, a največ 3-krat, kolikšna je verjetnost uspešnega poskusa?
+	$P(A) = \frac{1}{6} + \frac{5 \cdot 1}{6^2} + \frac{5 \cdot 5 \cdot 1}{6^3} = \frac{91}{216}$
 
 ---
 
-<font color="#92cddc">Flashcards:</font>
+### Flashcards:
 
-vprasanje;; odgovor
+Kaj mora veljati za množico vseh izidov nekega slučajnega poskusa $\Omega = \{w_1, w_2, ..., w_n\}$?;; Mora veljati da so $w_1, w_2, ..., w_n$ elementarni izidi in so vsi enako verjetni
+
+Kakšna je enačba za verjetnost slučajnega dogodka?;; $P(A) = \frac{k}{n}$
+
+Kaj predstavlja binomski simbol $\binom{n}{k}$?;; Predstavlja število načinov na katere lahko izmed $n$ predmetov izberemo $k$ predmetov, ne glede na vrstni red.
+
+Meče se kocka dokler ni enaka 6, a največ 3-krat, kolikšna je verjetnost uspešnega poskusa?;; $P(A) = \frac{1}{6} + \frac{5 \cdot 1}{6^2} + \frac{5 \cdot 5 \cdot 1}{6^3} = \frac{91}{216}$
 
 ---
