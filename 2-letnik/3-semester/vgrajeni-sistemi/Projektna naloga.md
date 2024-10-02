@@ -1,6 +1,7 @@
 	- uporablja se C ozr. C++
-	- RTOS
+	- RTOS (real time operating system)
 	- procesor H750
 	- zaslon + GUI
 	- V/I naprave
 
+[[vs]];
