@@ -8,6 +8,8 @@
 
 #### Obveznosti pri predmetu:
 
+Vaje so tretji teden.
+
 Namesto pisnega izpita je <font color="#92cddc">projektna naloga + ustni pogovor.</font> Vaje so obvezne (kot tudi načeloma predavanja). Velik del snovi je tudi v učbeniku (v knjižnici ali pa tudi v pdf obliki - [[Understanding Computer Organisation]] - libgen - link) 
 
 O [[Projektna naloga|projektni nalogi.]]

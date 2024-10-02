@@ -30,9 +30,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e8189163a49a0b8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Programski model ARM Cortex-M.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb2825b893c55612",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20ae5e9dc887d625",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b976ddddb708ca2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/predavanje-vs-1-teden.md"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md"
               }
             }
           },
@@ -143,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/predavanje-vs-1-teden.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/predavanje-vs-1-teden.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,11 +243,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d973e129aaa47556",
+  "active": "20ae5e9dc887d625",
   "lastOpenFiles": [
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/Projektna naloga.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Programski model ARM Cortex-M.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/predavanje-vs-1-teden.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Registri-ARM-Cortex-M.png",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Past.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Cevovod.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/Projektna naloga.md",
     "4-imp/Obveznosti - 3. semester.md",
     "2-letnik/3-semester/vgrajeni-sistemi/Understanding Computer Organisation.md",
     "5-temp/templates/test-template.md",
@@ -218,23 +275,15 @@
     "5-temp/primer-latex.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden",
-    "4-imp/koledar/29-09-2024.md",
     "4-imp/urnik_temp.png",
-    "5-temp/templates/predavanje-template.md",
-    "test-1.md",
-    "ors-flashcards.md",
     "5-temp/Screenshot from 2024-08-31 17-31-30.png",
     "Untitled.canvas",
-    "5-temp/Excalidraw/Drawing 2024-09-29 10.31.58.excalidraw.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps.md",
-    "4-imp/koledar/01-10-2024.md",
     "4-imp/koledar",
     "5-temp/Excalidraw",
     "home/mmalensek/Documents/OBSIDIAN/fonts/webfonts",
     "/home/mmalensek/Documents/OBSIDIAN/fonts/webfonts/",
     "/home/mmalensek/Documents/OBSIDIAN/fonts/webfonts",
     "home/mmalensek/Documents/OBSIDIAN/fonts/variable",
-    "/home/mmalensek/Documents/OBSIDIAN/fonts/variable/",
-    "/home/mmalensek/Documents/OBSIDIAN/fonts/variable"
+    "/home/mmalensek/Documents/OBSIDIAN/fonts/variable/"
   ]
 }
