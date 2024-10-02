@@ -4,35 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "e4559a18c30d1b9b",
+        "id": "cffcbc75c10371ff",
         "type": "tabs",
         "children": [
           {
-            "id": "02e26200264b37e1",
+            "id": "c026da89072daf1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Binomski simbol.md",
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "98356178c7585de8",
+            "id": "bbc61c1e369ee888",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/Projektna naloga.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d973e129aaa47556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/o-vgrajenih-sistemih.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md"
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs.md"
               }
             }
           },
@@ -143,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,17 +206,26 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "98356178c7585de8",
+  "active": "c026da89072daf1b",
   "lastOpenFiles": [
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Binomski simbol.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/slučajni dogodek.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/množica vseh izidov.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/število ugodnih izidov.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/število vseh možnih izidov.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/verjetnost slučajnega dogodka.md",
-    "5-temp/primer-latex.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/Projektna naloga.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/o-vgrajenih-sistemih.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/Understanding Computer Organisation.md",
+    "5-temp/templates/test-template.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Verjetnost nasprotnega dogodka.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Binomski simbol.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Geometrijska verjetnost.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Verjetnost unije dogodkov.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/slučajni dogodek.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/število ugodnih izidov.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/verjetnost slučajnega dogodka.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/verjetnost.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/množica vseh izidov.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/število vseh možnih izidov.md",
+    "5-temp/primer-latex.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden",
     "4-imp/koledar/29-09-2024.md",
@@ -219,22 +239,13 @@
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps.md",
     "4-imp/koledar/01-10-2024.md",
     "4-imp/koledar/15-10-2024.md",
-    "5-temp/Priprave na novi semester.md",
-    "5-temp/Priprave na novi semester 2024-09-29 10.11.28.excalidraw.md",
-    "5-temp/templates/koledar-template.md",
-    "4-imp/koledar/koledar.md",
     "4-imp/koledar",
-    "2024-10-30.md",
-    "novo predavanje ors.md",
-    "5-temp/Excalidraw/novo predavanje ors 2024-09-28 10.36.14.excalidraw.md",
-    "5-temp/Excalidraw/Drawing 2024-09-28 10.30.17.excalidraw.md",
     "5-temp/Excalidraw",
     "home/mmalensek/Documents/OBSIDIAN/fonts/webfonts",
     "/home/mmalensek/Documents/OBSIDIAN/fonts/webfonts/",
     "/home/mmalensek/Documents/OBSIDIAN/fonts/webfonts",
     "home/mmalensek/Documents/OBSIDIAN/fonts/variable",
     "/home/mmalensek/Documents/OBSIDIAN/fonts/variable/",
-    "/home/mmalensek/Documents/OBSIDIAN/fonts/variable",
-    "home/mmalensek/Documents/OBSIDIAN/fonts/ttf"
+    "/home/mmalensek/Documents/OBSIDIAN/fonts/variable"
   ]
 }
