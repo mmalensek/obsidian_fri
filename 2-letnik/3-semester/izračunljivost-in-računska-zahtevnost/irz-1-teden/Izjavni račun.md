@@ -5,3 +5,11 @@
 - logični vezniki:
 - logične formule:
 - tavtologije:
+
+---
+
+#irz-flashcards 
+
+vprasanje;; odgovor
+
+---

@@ -8,7 +8,7 @@
 
 #### O predmetu:
 
-Na spletni učilnici so prosojnice. Vaje se začnejo <font color="#92cddc">drugi</font> teden. Za oceno sta <font color="#92cddc">dva kolokvija</font> (novembra in januarja), kolokvija sta <font color="#92cddc">pogoj za izpit.</font>
+Na spletni učilnici so [[irz_prosojnice.pdf|prosojnice]]. Vaje se začnejo <font color="#92cddc">drugi</font> teden. Za oceno sta <font color="#92cddc">dva kolokvija</font> (novembra in januarja), kolokvija sta <font color="#92cddc">pogoj za izpit.</font>
 
 <font color="#92cddc">Dobro ponoviti:</font>
 	- izjavni in predikatni račun
@@ -16,6 +16,7 @@ Na spletni učilnici so prosojnice. Vaje se začnejo <font color="#92cddc">drugi
 	- relacije
 	- funkcije in
 	- metode dokazovanja
+
 
 #### Datumi:
 

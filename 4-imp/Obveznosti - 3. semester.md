@@ -15,10 +15,8 @@
 ---
 ### Naloge, obveznosti in to-do:
 
-- [ ] A
-- [ ] B
-- [ ] C
-- [ ] D
+- [ ] ponovi osnovne matematične pojme za IRZ
+- [ ] naredi flashcarde za vs in irz
 
 ---
 

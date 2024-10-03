@@ -4,83 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cffcbc75c10371ff",
+        "id": "26d513660aecb028",
         "type": "tabs",
         "children": [
           {
-            "id": "c026da89072daf1b",
+            "id": "752f7bd789cec37d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d973e129aaa47556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/predavanje-vs-1-teden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e8189163a49a0b8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Programski model ARM Cortex-M.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb2825b893c55612",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20ae5e9dc887d625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b976ddddb708ca2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,22 +174,32 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "20ae5e9dc887d625",
+  "active": "752f7bd789cec37d",
   "lastOpenFiles": [
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Metode dokazovanja.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Programski model ARM Cortex-M.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Graf.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Formalni jezik.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Relacija.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Množica.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Predikatni račun.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
+    "5-temp/templates/flashcards-template.md",
+    "4-imp/Obveznosti - 3. semester.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/predavanje-vs-1-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs.md",
+    "4-imp/Pomembni datumi - 3. semester.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/Understanding_Computer_Organization.pdf",
+    "2-letnik/3-semester/vgrajeni-sistemi/Understanding Computer Organisation.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Programski model ARM Cortex-M.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Registri-ARM-Cortex-M.png",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Past.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Cevovod.md",
     "2-letnik/3-semester/vgrajeni-sistemi/Projektna naloga.md",
-    "4-imp/Obveznosti - 3. semester.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/Understanding Computer Organisation.md",
     "5-temp/templates/test-template.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Verjetnost nasprotnega dogodka.md",
@@ -266,14 +207,6 @@
     "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Binomski simbol.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Geometrijska verjetnost.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Verjetnost unije dogodkov.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/slučajni dogodek.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/število ugodnih izidov.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/verjetnost slučajnega dogodka.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/verjetnost.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/množica vseh izidov.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/število vseh možnih izidov.md",
-    "5-temp/primer-latex.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden",
     "4-imp/urnik_temp.png",
     "5-temp/Screenshot from 2024-08-31 17-31-30.png",
@@ -282,8 +215,6 @@
     "5-temp/Excalidraw",
     "home/mmalensek/Documents/OBSIDIAN/fonts/webfonts",
     "/home/mmalensek/Documents/OBSIDIAN/fonts/webfonts/",
-    "/home/mmalensek/Documents/OBSIDIAN/fonts/webfonts",
-    "home/mmalensek/Documents/OBSIDIAN/fonts/variable",
-    "/home/mmalensek/Documents/OBSIDIAN/fonts/variable/"
+    "/home/mmalensek/Documents/OBSIDIAN/fonts/webfonts"
   ]
 }

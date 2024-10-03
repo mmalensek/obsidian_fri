@@ -1,0 +1,8 @@
+
+---
+
+#flashcard 
+
+vprasanje;; odgovor
+
+---
