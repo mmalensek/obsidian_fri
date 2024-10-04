@@ -3,7 +3,7 @@
 
 ### Link do predmetnih datumov:
 
-- algoritmi in podatkovne strukture: [[aps]]
+- algoritmi in podatkovne strukture: [[aps1]]
 - izračunljivost in računska zahtevnost: [[irz]]
 - organizacija računalniških sistemov: [[ors]]
 - osnove podatkovnih baz: [[opb]]

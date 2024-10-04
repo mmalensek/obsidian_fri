@@ -1,0 +1,3 @@
+[[Relacijska algebra]];
+
+Količnik med relacijama R in S vrne relacijo z atributi C, ki jo sestavljajo n-terice ...

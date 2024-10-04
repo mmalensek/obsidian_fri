@@ -11,5 +11,5 @@ Vsebuje pet (šest?) osnovnih operacij:
 	- [[presek]].
 
 In tudi izpeljane operacije:
-	- 
-	- 
+	- [[stik]] - kartezijski produkt in selekcija
+	- [[količnik]]
