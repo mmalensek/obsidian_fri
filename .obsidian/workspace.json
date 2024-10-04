@@ -18,8 +18,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1277f4c37d06a17c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "801158e11803be65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/predavanje-aps1-1-teden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5388883031a6194e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df23cce7465c48fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Selection sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3eb486ca794a4dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Bubble sort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95b395fda29a7283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5-temp/primer-latex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps1.md"
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md"
               }
             }
           },
@@ -130,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps1.md",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps1.md",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,8 +255,15 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "305dff36a5eabcff",
+  "active": "5388883031a6194e",
   "lastOpenFiles": [
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Selection sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Bubble sort.md",
+    "5-temp/primer-latex.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Random sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Permutation sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/predavanje-aps1-1-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps1.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden",
@@ -206,14 +286,7 @@
     "2-letnik/3-semester/vgrajeni-sistemi/Projektna naloga.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_skripta.pdf",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/Kako CPE \"vidi\" vzhodno-izhodne naprave?.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/Kako CPE \"vidi\" vzhodno-izhodne naprave? 2024-10-04 08.12.31.excalidraw.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/Kako CPE \"vidi\" vzhodno-izhodne naprave? 2024-10-04 07.48.04.excalidra.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/predavanje-vis-1-teden.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/R-project.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/vgrajeni-sistemi/Understanding_Computer_Organization.pdf",
