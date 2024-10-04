@@ -4,52 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "746719cfab76317f",
+        "id": "a41f056ed12b3830",
         "type": "tabs",
         "children": [
           {
-            "id": "cec293152cd4a3fc",
+            "id": "239e5a8657614e6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/Kako CPE \"vidi\" vzhodno-izhodne naprave?.md",
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cb3d537ad22ed627",
+            "id": "c53c96a4685baac7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/Kako CPE \"vidi\" vzhodno-izhodne naprave?.md",
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/predavanje-opb-1-teden.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c42685bbde1d5c9d",
+            "id": "12b2f5507901d8b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/Kako CPE \"vidi\" vzhodno-izhodne naprave?.md",
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski podatkovni model.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "488edf12026ec8c5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis_skripta.pdf"
               }
             }
           }
@@ -131,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/Kako CPE \"vidi\" vzhodno-izhodne naprave?.md"
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski podatkovni model.md"
               }
             }
           },
@@ -165,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/Kako CPE \"vidi\" vzhodno-izhodne naprave?.md",
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski podatkovni model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/Kako CPE \"vidi\" vzhodno-izhodne naprave?.md",
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski podatkovni model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,19 +207,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c42685bbde1d5c9d",
+  "active": "12b2f5507901d8b9",
   "lastOpenFiles": [
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/Kako CPE \"vidi\" vzhodno-izhodne naprave? 2024-10-04 08.12.31.excalidraw.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski podatkovni model.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/predavanje-opb-1-teden.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/Projektna naloga.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis_skripta.pdf",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/Kako CPE \"vidi\" vzhodno-izhodne naprave?.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/Kako CPE \"vidi\" vzhodno-izhodne naprave? 2024-10-04 08.12.31.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/Kako CPE \"vidi\" vzhodno-izhodne naprave? 2024-10-04 07.48.04.excalidra.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis_skripta.pdf",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/predavanje-vis-1-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/R-project.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Cevovod.md",
@@ -245,11 +239,8 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
     "5-temp/templates/flashcards-template.md",
     "4-imp/Obveznosti - 3. semester.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/predavanje-vs-1-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
-    "4-imp/Pomembni datumi - 3. semester.md",
     "2-letnik/3-semester/vgrajeni-sistemi/Understanding_Computer_Organization.pdf",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Programski model ARM Cortex-M.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Registri-ARM-Cortex-M.png",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden",
@@ -257,7 +248,6 @@
     "4-imp/urnik_temp.png",
     "5-temp/Screenshot from 2024-08-31 17-31-30.png",
     "Untitled.canvas",
-    "4-imp/koledar",
-    "5-temp/Excalidraw"
+    "4-imp/koledar"
   ]
 }

@@ -1,0 +1,51 @@
+[[predavanje-opb-1-teden]];
+
+---
+
+<font color="#92cddc">Relacija</font>;; dvodimenzionalna tabela s stolpci in vrsticami, je <font color="#92cddc">logična struktura</font> podatkovne baze in ne fizična.
+
+<font color="#92cddc">Atribut</font>;; poimenovan stolpec relacije
+
+<font color="#92cddc">Domena</font>;; množica dovoljenih vrednosti enega ali več atributov npr. domena za EMŠO je število (13 cifer)
+
+<font color="#92cddc">N-terica</font>;; je ena vrstica v relaciji
+
+<font color="#92cddc">Števnost relacije</font>;; število n-teric relacije
+
+<font color="#92cddc">Stopnja relacije</font>;; število atributov v relaciji
+
+<font color="#92cddc">Relacijska podatkovna baza</font>;; množica normaliziranih relacij z enoličnimi imeni
+
+Zakaj pravimo da je relacija <font color="#92cddc">podmnožica</font> kartezičnega produkta vseh atributov? ($r \subset x_1 \times x_2 \times ...$);; Ker s kartezičnim produktom vseh atributov, generiramo veliko več variacij relacij, kot jih pa je npr. v neki podatkovni bazi.
+
+| <font color="#92cddc">Ime</font> | <font color="#92cddc">Starost (leta)</font> | <font color="#92cddc">Teža (kg)</font> |
+| -------------------------------- | ------------------------------------------- | -------------------------------------- |
+| Bojan                            | 20                                          | 75                                     |
+| Vid                              | 14                                          | 43                                     |
+| Smeh                             | 29                                          | 69                                     |
+
+<font color="#92cddc">Relacijska shema:</font>
+
+	- predstavlja semantiko ali pomen relacije
+	- del konceptualnih ali zunanjih shem,
+	- semantika ni bogata, zato tudi besedni opisi
+	- R(A1:D1, A2:D2, ..., An:Dn)
+	^ <font color="#92cddc">oznaka sheme</font>          ^ <font color="#92cddc">oznaka domene</font>, ...
+	- npr. Študent(VpŠt: number(8), Ime: char(20), ...)
+
+
+<font color="#92cddc">Lastnosti relacij:</font>
+?
+	- ime relacije je enolično (znotraj sheme),
+	- celica tabele vsebuje natančno eno atomarno vrednost,
+	- ime atributa relacije je enolično (znotraj relacije),
+	- vrednosti atributa so iz iste domene,
+	- n-terica je enolična (znotraj relacije),
+	- vrstni red atributov v relaciji je nepomemben,
+	- vrstni red n-teric v relaciji je nepomemben.
+
+---
+
+#opb-flashcards 
+
+---
