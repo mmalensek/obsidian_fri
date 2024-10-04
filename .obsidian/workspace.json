@@ -4,15 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "26d513660aecb028",
+        "id": "746719cfab76317f",
         "type": "tabs",
         "children": [
           {
-            "id": "752f7bd789cec37d",
+            "id": "cec293152cd4a3fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
+            }
+          },
+          {
+            "id": "488edf12026ec8c5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis_skripta.pdf"
+              }
             }
           }
         ]
@@ -174,8 +184,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "752f7bd789cec37d",
+  "active": "cec293152cd4a3fc",
   "lastOpenFiles": [
+    "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis_skripta.pdf",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/predavanje-vis-1-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/R-project.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/Kako CPE \"vidi\" vzhodno-izhodne naprave?.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Cevovod.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden",
+    "2-letnik/3-semester/vgrajeni-sistemi/Understanding Computer Organisation.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Metode dokazovanja.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Graf.md",
@@ -187,34 +211,19 @@
     "5-temp/templates/flashcards-template.md",
     "4-imp/Obveznosti - 3. semester.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/predavanje-vs-1-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs.md",
     "4-imp/Pomembni datumi - 3. semester.md",
     "2-letnik/3-semester/vgrajeni-sistemi/Understanding_Computer_Organization.pdf",
-    "2-letnik/3-semester/vgrajeni-sistemi/Understanding Computer Organisation.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Programski model ARM Cortex-M.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Registri-ARM-Cortex-M.png",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Past.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Cevovod.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/Projektna naloga.md",
-    "5-temp/templates/test-template.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Verjetnost nasprotnega dogodka.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Binomski simbol.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Geometrijska verjetnost.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Verjetnost unije dogodkov.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden",
     "4-imp/urnik_temp.png",
     "5-temp/Screenshot from 2024-08-31 17-31-30.png",
     "Untitled.canvas",
     "4-imp/koledar",
-    "5-temp/Excalidraw",
-    "home/mmalensek/Documents/OBSIDIAN/fonts/webfonts",
-    "/home/mmalensek/Documents/OBSIDIAN/fonts/webfonts/",
-    "/home/mmalensek/Documents/OBSIDIAN/fonts/webfonts"
+    "5-temp/Excalidraw"
   ]
 }

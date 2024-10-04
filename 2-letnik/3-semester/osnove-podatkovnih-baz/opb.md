@@ -1,5 +1,10 @@
 
 ### Osnove podatkovnih baz
+<font color="#92cddc">Predavatelj:</font> 
+<font color="#92cddc">Asistent:</font> 
+<font color="#92cddc">Spletna učilnica:</font> 
+<font color="#92cddc">Predavanje:</font> P01 - PET - 9:00-12:00
+<font color="#92cddc">Vaje:</font> P17 - ČET - 7:00-9:00
 
 ---
 

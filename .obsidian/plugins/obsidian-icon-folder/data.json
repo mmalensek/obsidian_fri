@@ -33,17 +33,14 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "1-letnik": "🟢",
-  "2-letnik": "🟡",
-  "3-letnik": "🔴",
   "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1": "LiAlignEndHorizontal",
   "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost": "LiCalculator",
   "2-letnik/3-semester/organizacija-računalniških-sistemov": "LiHourglass",
   "2-letnik/3-semester/osnove-podatkovnih-baz": "LiDatabase",
-  "2-letnik/3-semester/verjetnost-in-statistika": "LiLineChart",
   "2-letnik/3-semester/vgrajeni-sistemi": "LiComputer",
   "2-letnik/4-semester/algoritmi-in-podatkovne-strukture-2": "LiAlignEndHorizontal",
   "2-letnik/4-semester/operacijski-sistemi": "LiMousePointerSquareDashed",
   "2-letnik/4-semester/principi-programskih-jezikov": "LiLanguages",
-  "2-letnik/4-semester/teorija-informacij-in-sistemov": "LiInfo"
+  "2-letnik/4-semester/teorija-informacij-in-sistemov": "LiInfo",
+  "2-letnik/3-semester/verjetnost-in-statistika": "LiLineChart"
 }

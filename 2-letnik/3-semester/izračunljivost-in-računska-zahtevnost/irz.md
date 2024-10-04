@@ -3,6 +3,8 @@
 <font color="#92cddc">Predavatelj:</font> Borut Robič
 <font color="#92cddc">Asistent:</font> Uroš Čibej / Luka Fürst
 <font color="#92cddc">Spletna učilnica:</font> https://ucilnica.fri.uni-lj.si/course/view.php?id=226
+<font color="#92cddc">Predavanje:</font> P01 - SRE - 13:00-16:00
+<font color="#92cddc">Vaje:</font> P06 - TOR - 7:00-9:00
 
 ---
 

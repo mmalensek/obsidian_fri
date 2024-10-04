@@ -3,6 +3,8 @@
 <font color="#92cddc">Predavatelj:</font> Patricio Buljić: pa3cio@fri.uni-lj.si
 <font color="#92cddc">Asistent:</font> Rok Česnovar: rok.cesnovar@fri.uni-lj.si
 <font color="#92cddc">Spletna učilnica:</font> https://ucilnica.fri.uni-lj.si/course/view.php?id=43
+<font color="#92cddc">Predavanje:</font> P21 - SRE - 10:00-13:00
+<font color="#92cddc">Vaje:</font> P07 - TOR - 12:00-14:00
 
 ---
 
