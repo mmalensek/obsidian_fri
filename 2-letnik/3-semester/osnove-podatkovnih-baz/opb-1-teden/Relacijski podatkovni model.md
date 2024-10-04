@@ -25,7 +25,7 @@ Zakaj pravimo da je relacija <font color="#92cddc">podmnožica</font> kartezičn
 | Smeh                             | 29                                          | 69                                     |
 
 <font color="#92cddc">Relacijska shema:</font>
-
+?
 	- predstavlja semantiko ali pomen relacije
 	- del konceptualnih ali zunanjih shem,
 	- semantika ni bogata, zato tudi besedni opisi
@@ -43,6 +43,26 @@ Zakaj pravimo da je relacija <font color="#92cddc">podmnožica</font> kartezičn
 	- n-terica je enolična (znotraj relacije),
 	- vrstni red atributov v relaciji je nepomemben,
 	- vrstni red n-teric v relaciji je nepomemben.
+
+
+<font color="#92cddc">Funkcionalne odvisnosti:</font>
+?
+	- predpostavimo, da obstaja relacijska shema $R$ z množico atributov, katere podmnožici sta $X$ in $Y$,
+	- v relacijski shemi $R$ velja $X\rightarrow Y$ ($X$ funkcionalno določa $Y$ oziroma je funkcionalno odvisen od $X$),
+	- množico funkcionalnih odvisnosti označimo s $F$
+	- npr. Izpit(VpŠt, Priimek, Ime, ŠifraPredmeta, ...)
+	V tem primeru VpŠt določa Priimek in Ime; VpŠt skupaj z ŠifraPredmeta in DatumIzpita pa določa OcenaPisno in OcenaUstno.
+
+<font color="#92cddc">Ključ relacije</font>;; je najmanjši nabor atributov, ki funkcionalno določa ostale atribute
+
+Poznamo več <font color="#92cddc">konceptov</font>, ki jih poimenujemo ključ:
+?
+	- kandidat za ključ - npr. EMŠO in vpisna številka, mi izberemo enega
+	- primarni ključ
+	- superključ / nadključ
+	- tuji ključ - ključ iz neke druge relacije
+
+
 
 ---
 
