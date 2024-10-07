@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Množica.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Graf.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Množica.md"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Graf.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Množica.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Graf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Množica.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Graf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,12 +219,14 @@
       }
     ]
   },
-  "active": "e3681eed52612b9c",
+  "active": "4d7032e698588ac3",
   "lastOpenFiles": [
-    "4-imp/latex_sheet.pdf",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Množica.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Formalni jezik.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Relacija.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Množica.md",
+    "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Predikatni račun.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Pasted image 20241007113014.png",
@@ -248,8 +250,6 @@
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps1.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/predavanje-aps1-1-teden.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Selection sort.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Permutation sort.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_skripta.pdf",
@@ -258,7 +258,6 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Registri-ARM-Cortex-M.png",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden",
     "4-imp/urnik_temp.png",
     "5-temp/Screenshot from 2024-08-31 17-31-30.png",
     "Untitled.canvas"
