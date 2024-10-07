@@ -1,15 +1,20 @@
 [[osnovni-matematični-pojmi-irz]];
 
-- logične vrednosti: $true, false$
-- logične spremenljivke:
+- logični vrednosti: 
+	- $true, false$
+- logične spremenljivke: 
+	- $A, B, C, ..., Z, a, b, c, ..., z$ ...imajo lahko neko logično vrednost
 - logični vezniki:
-- logične formule:
-- tavtologije:
+	- $\neg, \land, \lor, \implies, \iff, \oplus, ...$ 
+	- neg, \land, \nor, \implies, \iff, \oplus (xor)
+- logični izrazi
+- tavtologije
 
 ---
 
 #irz-flashcards 
 
-vprasanje;; odgovor
+XOR (tabelca);; 0, 1, 1, 0
+implikacija (tabelca);; 1, 1, 0, 1
 
 ---

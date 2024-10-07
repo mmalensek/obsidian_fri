@@ -2,15 +2,22 @@
 
 - [[Izjavni račun]],
 - Predikati:
+	- imajo neko logično vrednost $P, Q, R$
 - Kvantifikatorji:
+	- $\forall, \exists, \exists!$
+	- forall, exists, exists only 1
 - Formule:
-- Tavtologije:
+	- $\forall m \exists n: P(m, n)$ za vsak m, obstaja n, da je P(m, n resnično)
+	- ![[Pasted image 20241007113014.png]]
+- Tavtologije
 
 ---
 
 #irz-flashcards
 
-vprasanje;; odgovor
+Kaj pomeni: $\forall m \exists n: P(m, n)$?;; Za vsak m, obstaja n, da je P(m, n resnično)
+Kaj pomeni: $\exists x : (A(x) \land \neg B(x))$?;; Nekateri A niso B
+
 
 ---
 

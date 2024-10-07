@@ -1,7 +1,7 @@
 ### [[vs]], 1.teden, 02-10-2024
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano #flashcard
+<font color="#92cddc">Status/tags:</font> #dokončano  #vs-flashcards
 
 ---
 
@@ -27,6 +27,9 @@ Kako lahko računalnik <font color="#92cddc">hkrati</font> upravlja motor in hkr
 
 <font color="#92cddc">Flashcards:</font>
 
-vprasanje;; odgovor
+Katera dva načina programiranja embedded sistemov poznamo?;; "super" loop in RTOS
+Na kaj vpliva arhitektura procesorja?;; Na vrste ukazov, tipe podatkov, s katerimi dela in ali zna delati s skladom (problematično glede cevovoda).
+Kaj je past?;; Poseben ukaz, ki spremeni PC na vrednost "trap handlerja" in se izvede v primeru neveljavnega ukaza.
+Kaj je prekinitev?;; Povzroči jo nek zunanji dogodek (npr. signal miške), ki omogoča delovanje "interrupt handlerja" in s tem branje iz V/I naprav npr.
 
 ---

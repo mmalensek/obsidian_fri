@@ -19,7 +19,6 @@ Na spletni učilnici so [[irz_prosojnice.pdf|prosojnice]]. Vaje se začnejo <fon
 	- funkcije in
 	- metode dokazovanja
 
-
 #### Datumi:
 
 
