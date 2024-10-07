@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Graf.md",
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50c41abf41589ba5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Graf.md"
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md"
               }
             }
           },
@@ -131,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Graf.md",
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Graf.md",
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,53 +196,29 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "floating": {
-    "id": "54c1fcc8cac6a81b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8d8c6952fb8b2732",
-        "type": "window",
-        "children": [
-          {
-            "id": "631b68e88bbf7a25",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d318e325248b4387",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 724,
-        "y": 39,
-        "width": 708,
-        "height": 853,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "4d7032e698588ac3",
   "lastOpenFiles": [
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav 2024-10-07 18.11.02.excalidraw.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Formalni jezik.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors.md",
+    "Untitled.canvas",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Matematična indukcija.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Metode dokazovanja.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Pasted image 20241007135559.png",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Graf.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Pasted image 20241007134245.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Pasted image 20241007133825.png",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Pasted image 20241007133454.png",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Formalni jezik.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Relacija.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Množica.md",
     "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Predikatni račun.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Pasted image 20241007113014.png",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Programski model ARM Cortex-M.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/predavanje-vs-1-teden.md",
     "5-temp/templates/predavanje-template.md",
@@ -245,11 +233,6 @@
     "2-letnik/3-semester/vgrajeni-sistemi/Understanding_Computer_Organization.pdf",
     "2-letnik/3-semester/vgrajeni-sistemi/Understanding Computer Organisation.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors.md",
-    "4-imp/Obveznosti - 3. semester.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps1.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/predavanje-aps1-1-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_skripta.pdf",
@@ -259,7 +242,6 @@
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Registri-ARM-Cortex-M.png",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden",
     "4-imp/urnik_temp.png",
-    "5-temp/Screenshot from 2024-08-31 17-31-30.png",
-    "Untitled.canvas"
+    "5-temp/Screenshot from 2024-08-31 17-31-30.png"
   ]
 }

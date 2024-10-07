@@ -1,7 +1,7 @@
 ### [[irz]], 1.teden, 02-10-2024
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano  #irz-flashcards
+<font color="#92cddc">Status/tags:</font> #dokončano   #irz-flashcards
 
 ---
 
