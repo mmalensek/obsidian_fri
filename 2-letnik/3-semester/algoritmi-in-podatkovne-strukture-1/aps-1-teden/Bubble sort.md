@@ -1,1 +1,2 @@
 [[Algoritmi za sortiranje]];
+Gremo po seznamu levo proti desno in primerjamo pare in ju zamenjamo, če sta v napačnem vrstnem redu in se to ponavlja, dokler sortirano. Po prvem prehodu, bo največji element vedno prišel do konca.

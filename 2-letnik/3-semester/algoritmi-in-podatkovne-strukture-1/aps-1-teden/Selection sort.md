@@ -1,5 +1,5 @@
 [[Algoritmi za sortiranje]];
-Sprehodim se po vrsti in iščem minimum. (na skici in-placed-sort)
+Sprehodim se po vrsti in iščem minimum. (na skici in-placed-sort, v tem algoritem ni stabilen)
 $$[4, 8, 1, 7]$$
 $$[1, 8, 4, 7]$$
 $$[1, 4, 8, 7]$$
