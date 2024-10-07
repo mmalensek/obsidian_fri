@@ -1,7 +1,7 @@
 
 ### Verjetnost in statistika
-<font color="#92cddc">Profesor:</font> Aleksandar Jurišić
-<font color="#92cddc">Asistent:</font> Kristina Veljković
+<font color="#92cddc">Profesor:</font> Aleksandar Jurišić : aj@fri.uni-lj.si
+<font color="#92cddc">Asistent:</font> Kristina Veljković : kristina.veljkovic@fri.uni-lj.si
 <font color="#92cddc">Spletna učilnica:</font> https://ucilnica.fri.uni-lj.si/course/view.php?id=165
 <font color="#92cddc">Predavanje:</font> P01 - ČET - 16:00-19:00
 <font color="#92cddc">Vaje:</font> P05 - TOR - 9:00-11:00

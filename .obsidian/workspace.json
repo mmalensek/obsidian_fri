@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "14401708295232c2",
+        "id": "b7103904cb4ac76f",
         "type": "tabs",
         "children": [
           {
-            "id": "4d7032e698588ac3",
+            "id": "0015788563a99f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/predavanje-vis-1-teden.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "50c41abf41589ba5",
+            "id": "1807f4bf8b4cb021",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
-                "mode": "source",
-                "source": false
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf"
               }
             }
           }
@@ -81,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -109,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md"
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/predavanje-vis-1-teden.md"
               }
             }
           },
@@ -143,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/predavanje-vis-1-teden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/predavanje-vis-1-teden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,11 +192,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "4d7032e698588ac3",
+  "active": "0015788563a99f3f",
   "lastOpenFiles": [
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav 2024-10-07 18.11.02.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/predavanje-vis-1-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilnik.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
+    "5-temp/templates/osnovna-datum-tabela-template.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilnik 2024-10-07 18.37.32.excalidraw.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav 2024-10-07 18.11.02.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors.md",
     "Untitled.canvas",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Matematična indukcija.md",
@@ -223,20 +226,12 @@
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/predavanje-vs-1-teden.md",
     "5-temp/templates/predavanje-template.md",
     "5-temp/templates/pomembno-o-predmetu-template.md",
-    "5-temp/templates/osnovna-datum-tabela-template.md",
     "5-temp/templates/flashcards-template.md",
     "5-temp/templates/koledar-template.md",
-    "5-temp/templates/to-do-list-template.md",
-    "5-temp/templates/test-template.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Cevovod.md",
     "2-letnik/3-semester/vgrajeni-sistemi/Understanding_Computer_Organization.pdf",
-    "2-letnik/3-semester/vgrajeni-sistemi/Understanding Computer Organisation.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_skripta.pdf",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Registri-ARM-Cortex-M.png",
