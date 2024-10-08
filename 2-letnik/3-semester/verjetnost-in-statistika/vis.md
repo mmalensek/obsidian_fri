@@ -16,12 +16,14 @@ Na vajah se uporablja program [[R-project]].
 
 Za domače branje so na voljo [[vis_prosojnice.pdf|prosojnice iz predavanj]] in [[vis_skripta.pdf|knjiga]].
 
+Računske naloge so podobne tistim na e-kvizu, medtem ko na esejsko vprašanje, se lahko pripraviš s "teoretičnimi" vprašanji za "ustni" del na spletni učilnici.
+
 #### Datumi:
 
-| <font color="#4bacc6">Datum</font> | <font color="#92cddc">Naslov</font> | Vsebina    |
-| :--------------------------------: | ----------------------------------- | ---------- |
-|               25.10.               | 1.kolokvij                          | Verjetnost |
-|                                    |                                     |            |
+| <font color="#4bacc6">Datum</font> | <font color="#92cddc">Naslov</font> | Vsebina                                                                                         |
+| :--------------------------------: | ----------------------------------- | ----------------------------------------------------------------------------------------------- |
+|               25.10.               | 1.kolokvij                          | Verjetnost, pogojna verjetnost, popolna verjetnost, to je 2. in 3. poglavje v nalogah iz zbirke |
+|                                    |                                     |                                                                                                 |
 Ostali datumi: [[Pomembni datumi - 3. semester]]
 
 #### To-do: 

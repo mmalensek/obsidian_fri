@@ -11,7 +11,11 @@ Najlažji je [[direktni dokaz]].
 
 [[golobnjak|Golobnjak]].
 
-Nekatere izreke lahko dokažemo z [[indukcija|matematično indukcijo]]. 
+Nekatere izreke lahko dokažemo z [[indukcija|matematično indukcijo]].
+
+[[dokazovanje s protislovjem|Dokazovanje s protislovjem]].
+
+Dokazovanje enakosti [[moč množic|moči množic]].
 
 ---
 

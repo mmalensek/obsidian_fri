@@ -19,10 +19,17 @@ Primer:
 	Baza: 1
 	Pravilo: $n\in \mathbb{N} \rightarrow n+1 \in \mathbb{N}$ 
 
-> Primer: Zid
+> Primer: Zid, ali je katerikoli zid rdeč?
 > Baza: $opeka \in Zid$
-> Pravila: 
-> 	1) $z\in Zid \rightarrow z$
+> Pravilo: $z\in Zid \rightarrow z + opeka \in Zid$
+
+> Primer: Drevo z $n$ vozlišči ima $n - 1$ povezav
+> Baza: $Vozlišče$
+> Pravilo: Dodamo vozlišče in ga povežemo s katerimkoli prejšnjim
+> 
+> $n = 1$ povezav je $0$, baza drži.
+> imamo drevo $T$, ki ima $n$ vozlišč in $n-1$ povezav $\rightarrow$ $T': n + 1$ in $n$ povezav.  
+
 ---
 
 #irz-flashcards 

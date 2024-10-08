@@ -10,7 +10,7 @@
 - $2^{A}$, je potenčna množica množice $A$, je enaka: 
 	- $\{X | X \subseteq A\}$
 	- primer naj bo $A = \{1, 2\}$, potem je $\mathcal{P}(A) = \{\emptyset,\{1\},\{2\}, \{1, 2\} \}$
-- če sta $A, B$ končni množici in $A\subset B$, potem imata $A$ in $B$ različni moči (št. elementov)
+- če sta $A, B$ končni množici in $A\subset B$, potem imata $A$ in $B$ različni [[moč množic|moči]] (št. elementov)
 
 ---
 
