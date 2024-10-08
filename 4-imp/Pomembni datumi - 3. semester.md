@@ -13,10 +13,10 @@
 - obveznosti: [[Obveznosti - 3. semester]]
 ### Skupno:
 
-| <font color="#4bacc6">Datum</font> | <font color="#92cddc">Naslov</font> | Vsebina |
-|:----------------------------------:| ----------------------------------- | ------- |
-|                                    |                                     |         |
-|                                    |                                     |         |
+| <font color="#4bacc6">Datum</font> | <font color="#92cddc">Naslov</font> | Vsebina    |
+| :--------------------------------: | ----------------------------------- | ---------- |
+|               25.10.               | ViS 1.kolokvij                      | Verjetnost |
+|                                    |                                     |            |
 
 
 ---

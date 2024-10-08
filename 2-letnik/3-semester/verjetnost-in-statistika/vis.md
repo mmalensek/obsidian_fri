@@ -18,10 +18,10 @@ Za domače branje so na voljo [[vis_prosojnice.pdf|prosojnice iz predavanj]] in 
 
 #### Datumi:
 
-| <font color="#4bacc6">Datum</font> | <font color="#92cddc">Naslov</font> | Vsebina |
-|:----------------------------------:| ----------------------------------- | ------- |
-|                                    |                                     |         |
-|                                    |                                     |         |
+| <font color="#4bacc6">Datum</font> | <font color="#92cddc">Naslov</font> | Vsebina    |
+| :--------------------------------: | ----------------------------------- | ---------- |
+|               25.10.               | 1.kolokvij                          | Verjetnost |
+|                                    |                                     |            |
 Ostali datumi: [[Pomembni datumi - 3. semester]]
 
 #### To-do: 
