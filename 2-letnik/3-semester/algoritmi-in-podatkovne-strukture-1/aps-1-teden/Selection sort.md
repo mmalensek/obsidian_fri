@@ -7,8 +7,8 @@ $$[1, 4, 7, 8]$$
 
 ---
 
-#flashcard 
+#aps1-flashcards 
 
-vprasanje;; odgovor
+Zahtevnost selection sort algoritma in kako deluje?;; V vseh primerih je $O(n²)$, saj deluje tako, da se sprehaja po vrsti in išče minimum, ko pride do konca, minimum postavi na začetek (oziroma na $i$-to mesto $i$-te iteracije).
 
 ---

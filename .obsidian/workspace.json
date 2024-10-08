@@ -4,79 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3cc70166b89898ba",
+        "id": "b06b74c435a37082",
         "type": "tabs",
         "children": [
           {
-            "id": "0fc8252f2eaae982",
+            "id": "cc8354a15561d17f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb.md",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "29c154b280e870d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/predavanje-opb-1-teden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acdb643eefcacb53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/stik.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b498866d5a560c81",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijska_algebra.pdf"
-              }
-            }
-          },
-          {
-            "id": "7e3362ba8baac900",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski račun.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18798f23ecdbe032",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijski_račun.pdf"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijska_algebra.pdf"
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md"
               }
             }
           },
@@ -187,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijska_algebra.pdf",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijska_algebra.pdf",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,31 +182,43 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b498866d5a560c81",
+  "active": "cc8354a15561d17f",
   "lastOpenFiles": [
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/stik.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241008161958.png",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijska_algebra.pdf",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Bubble sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Insertion sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/predavanje-aps1-1-teden.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Selection sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Random sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Permutation sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps1.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/predavanje-opb-1-teden.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/količnik.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski račun.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijski_račun.pdf",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijska_algebra.pdf",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241008162540.png",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijska algebra.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/stik.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski podatkovni model.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/razlika.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241008162056.png",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241008161958.png",
     "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241008161742.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241008161616.png",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/predavanje-opb-1-teden.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijska algebra.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/kartezijski produkt.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241008161440.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/presek.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/razlika.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/unija.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/projekcija.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241008155617.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/selekcija.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241008155521.png",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski podatkovni model.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski račun.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijski_podatkovni_model.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Omejitve nad podatki.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_sql.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_qbe.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/diski_in_diskovna_polja.pdf",
@@ -273,19 +228,8 @@
     "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Metode dokazovanja.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/golobnjak.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/vaje-irz-2-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/moč množic.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Množica.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/dokazovanje s protislovjem.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/indukcija.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/direktni dokaz.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
     "Untitled.canvas",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Pasted image 20241007135559.png",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Pasted image 20241007134245.png",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Pasted image 20241007133825.png",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Pasted image 20241007133454.png"
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Pasted image 20241007134245.png"
   ]
 }

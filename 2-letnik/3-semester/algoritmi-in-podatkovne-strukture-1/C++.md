@@ -1,4 +1,4 @@
-[[aps1]];
+t[[aps1]];
 
 
 ```c++
@@ -18,7 +18,8 @@ int main(){
 	return 0;
 }
 ```
-Za prevajanje se uporablja g++.
+Za prevajanje se uporablja;; g++.
+Za input output?;; cin in cout
 
 
 ```c++
@@ -30,6 +31,7 @@ int main(){
 
 ```
 Stringe lahko seštevaš!
+	Katero operacijo nad stringi omogoča c++?;; Seštevanje.
 
 
 ```c++
@@ -38,7 +40,7 @@ pair<int, int> koordinata1;
 koordinata1 = make_pair(2, 3);
 cout << koordinata1.first << " " << kordinata1_second << endl;
 ```
-Nov tip "pair", par dveh (lahko različnih) nekih vrednosti.
+Nov tip "pair"?;; par dveh (lahko različnih) nekih vrednosti.
 
 
 ```c++
@@ -53,6 +55,7 @@ auto ocena2 = ocena;
 cout << ocena.first.first << endl;
 ```
 Auto določitev tipa.
+	Tip lahko določamo tudi kako??; auto
 
 
 ```c++
@@ -65,6 +68,7 @@ for(int i = 0; i < v.size(); i++){
 }
 ```
 Sezname nam reši "vector" - podobno ArrayList
+	namesto ArrayList imamo?;; vector
 
 
 ```c++
