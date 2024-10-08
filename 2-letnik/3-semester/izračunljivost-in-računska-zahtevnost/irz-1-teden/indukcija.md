@@ -11,7 +11,18 @@ Primer:
 
 ![[Pasted image 20241007135559.png]]
 
+### Induktivni razredi
+1. <font color="#92cddc">Baza</font>
+2. <font color="#92cddc">Pravila</font>, npr: $a\in I \rightarrow f(a) \in I$
 
+> Primer: $\mathbb{N}$
+	Baza: 1
+	Pravilo: $n\in \mathbb{N} \rightarrow n+1 \in \mathbb{N}$ 
+
+> Primer: Zid
+> Baza: $opeka \in Zid$
+> Pravila: 
+> 	1) $z\in Zid \rightarrow z$
 ---
 
 #irz-flashcards 

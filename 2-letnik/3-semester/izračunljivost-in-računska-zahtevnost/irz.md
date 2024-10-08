@@ -10,7 +10,7 @@
 
 #### O predmetu:
 
-Na spletni učilnici so [[irz_prosojnice.pdf|prosojnice]]. Vaje se začnejo <font color="#92cddc">drugi</font> teden. Za oceno sta <font color="#92cddc">dva kolokvija</font> (novembra in januarja), kolokvija sta <font color="#92cddc">pogoj za izpit.</font>
+Na spletni učilnici so [[irz_prosojnice.pdf|prosojnice]]. Vaje se začnejo <font color="#92cddc">drugi</font> teden. Za oceno sta <font color="#92cddc">dva kolokvija</font> (novembra in januarja), kolokvija sta <font color="#92cddc">pogoj za izpit</font>, če pišeš oba kolokvija nad 80%, načeloma nimaš izpita, na izpitu pa rabiš opraviti teoretični in računski del nad 50%.
 
 <font color="#92cddc">Dobro ponoviti:</font>
 	- izjavni in predikatni račun
