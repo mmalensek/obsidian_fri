@@ -1,5 +1,16 @@
 [[Relacijska algebra]];
 
-Vrne samo tiste atribute (stolpce), ki so določeni s seznamom in tudi eleminira duplikate.
+Vrne samo tiste <font color="#92cddc">atribute</font> (stolpce), ki so določeni s seznamom in tudi <font color="#92cddc">eleminira duplikate</font>.
 Oznaka:
-$$\Pi$$ 
+$$\Pi_{s_1, ..., s_n}(R)$$
+
+Primer:
+![[Pasted image 20241008155617.png]]
+
+---
+
+#opb-flashcards 
+
+Kaj vrne projekcija?;; Vrne samo tiste <font color="#92cddc">atribute</font> (stolpce), ki so določeni s seznamom in tudi <font color="#92cddc">eleminira duplikate</font>.
+
+---

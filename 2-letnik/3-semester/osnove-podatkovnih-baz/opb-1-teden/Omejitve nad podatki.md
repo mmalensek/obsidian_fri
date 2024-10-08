@@ -8,12 +8,12 @@
 	- kakovost podatkov ključnega pomena,
 	- celovitost podatkov - skrbimo s <font color="#92cddc">pomočjo omejitev</font>
 	- vrste omejitev:
-		- omejitve domene (EMŠO ne samo int, ampak tudi kontroliramo zadnje tri števke)
-		- pravila za celovitost podatkov - npr. določimo da SUPB določi atribute kot obvezne:
+		- <font color="#92cddc">omejitve domene </font>(EMŠO ne samo int, ampak tudi kontroliramo zadnje tri števke)
+		- <font color="#92cddc">pravila za celovitost podatkov</font> - npr. določimo da SUPB določi atribute kot obvezne:
 			- entitet - npr. omejeno brisanje entitet
 			- povezav
-		- števnost
-		- splošne omejitve
+		- <font color="#92cddc">števnost</font>
+		- <font color="#92cddc">splošne omejitve</font>
 
 ---
 

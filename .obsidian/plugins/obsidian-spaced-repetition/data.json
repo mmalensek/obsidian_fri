@@ -11,7 +11,8 @@
       "#opb-flashcards",
       "#vs-flashcards",
       "#irz-flashcards",
-      "#vis-flashcards"
+      "#vis-flashcards",
+      "#test"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
@@ -29,7 +30,7 @@
     "singleLineReversedCardSeparator": ":::",
     "multilineCardSeparator": "?",
     "multilineReversedCardSeparator": "??",
-    "multilineCardEndMarker": "",
+    "multilineCardEndMarker": "!!",
     "editLaterTag": "#edit-later",
     "enableNoteReviewPaneOnStartup": true,
     "tagsToReview": [

@@ -25,13 +25,13 @@ Obstajajo različne vrste (relacijski, objektni, XML, noSQL, vektorski, ...).
 Posebnost - <font color="#92cddc">oznaka "null"</font>:
 	- predstavlja vrednost, ki je trenutno neznana ali irelevantna za n-terico,
 	- gre za nepopolne podatke,
-	- predstavlja odsotnost podatka in ni enako '0' ali ''.
+	- predstavlja odsotnost podatka in <font color="#92cddc">ni</font> enako '0' ali ''.
 
 ---
 
 <font color="#92cddc">Pogledi</font> - prilagojen dostop za uporabnike, iste relacije vidne na različne načine, če tudi ni nujno, da takšen pogled izraža dejansko sestavo baze.
 
-Ali lahko spreminjamo podatke v pogledu? ;; Samo če pogled zavzame vse obvezne atribute.
+Ali lahko spreminjamo podatke v pogledu? ;; <font color="#92cddc">Samo če</font> pogled zavzame vse obvezne atribute.
 
 ---
 
@@ -39,6 +39,3 @@ Ali lahko spreminjamo podatke v pogledu? ;; Samo če pogled zavzame vse obvezne 
 
 ---
 
-<font color="#92cddc">Flashcards:</font>
-
----

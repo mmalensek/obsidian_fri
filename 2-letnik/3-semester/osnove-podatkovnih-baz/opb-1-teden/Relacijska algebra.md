@@ -1,15 +1,16 @@
-[[predavanje-opb-1-teden]];
+[[predavanje-opb-1-teden]]; #opb-flashcards 
 
-Vhod in izhod so relacije.
+Vhod in izhod so relacije in je (formalni poizvedovalni) <font color="#92cddc">visoko-nivojski postopkovni jezik</font>.
 
-Vsebuje pet (šest?) osnovnih operacij:
+Vsebuje pet osnovnih operacij:
 	- [[selekcija]],
 	- [[projekcija]],
 	- [[kartezijski produkt]],
 	- [[unija]],
-	- [[razlika]],
-	- [[presek]].
+	- [[razlika]].
+	
 
 In tudi izpeljane operacije:
-	- [[stik]] - kartezijski produkt in selekcija
-	- [[količnik]]
+	- [[stik]] - kartezijski produkt in selekcija,
+	- [[presek]],
+	- [[količnik]].
