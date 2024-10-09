@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis.md"
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,19 +182,20 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "e3681eed52612b9c",
+  "active": "90f2a06f5e2bb1d3",
   "lastOpenFiles": [
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/predavanje-aps1-1-teden.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Bubble sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Insertion sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps1.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Bubble sort.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Insertion sort.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/predavanje-aps1-1-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Selection sort.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Random sort.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Permutation sort.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps1.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/predavanje-opb-1-teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/količnik.md",
@@ -225,8 +226,6 @@
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_qbe.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/diski_in_diskovna_polja.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/upravljanje_z_diskom_in_pomnilnikom.pdf",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/organizacija_datotek_in_indeksi.pdf",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Metode dokazovanja.md",
     "Untitled.canvas",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Pasted image 20241007135559.png",
