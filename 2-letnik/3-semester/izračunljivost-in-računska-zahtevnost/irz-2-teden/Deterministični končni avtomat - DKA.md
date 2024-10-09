@@ -1,4 +1,4 @@
-[[Končni avtomat]];
+[[Končni avtomat]]; #irz-flashcards 
 
 ima končno množico stanj in končno množico prehodov med stanji, ki se zgodijo po branju simbolov iz vhodne abecede.
 
@@ -34,4 +34,5 @@ Primer za $\delta(q, wa)$.
 
 - DKA $M = (Q, \Sigma, \delta, q_0, F)$ sprejme besedo x, če je $\delta(q_0, x) = p$ za neki $p \in F$ (množici končnih stanj). Torej sprejme besedo, če beseda iz začetnega stanja pride po koncu branja v končno stanje.
 - jezik, sprejet z DKA $M$ je množica $L(M)$ vseh besed, ki jih sprejme $M$: $$L(M) = \{x \in \Sigma^* \mid \delta(q_0, x)\in F\}$$ tukaj je [[Formalni jezik|$\Sigma^*$]].
-- jezik $L'$ je regularen (oz. je regularna množica), $$
+- jezik $L'$ je regularen (oz. je regularna množica), če $L'$ sprejme kak DKA (tj. če $\exists$ DKA $M : L'  = L(M)$)
+
