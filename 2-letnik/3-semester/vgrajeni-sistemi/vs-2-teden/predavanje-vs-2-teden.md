@@ -11,10 +11,6 @@
 
 [[načini delovanja CPE|Načini delovanja CPE]];
 
----
-
-<font color="#92cddc">Flashcards:</font>
-
-
+[[izjeme pri ARM Cortex|Izjeme pri ARM Cortex]];
 
 ---

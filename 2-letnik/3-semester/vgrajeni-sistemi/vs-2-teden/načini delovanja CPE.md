@@ -11,5 +11,17 @@ Handler:
 - uporablja Main Stack Pointer (MSP)
 - delujejo prekinitveni servisni programi
 
+Iz thread v handler način se preide lahko z <font color="#92cddc">izjemo</font> ([[Prekinitve|prekinitev]] ali [[Past|past]]), v tem primeru vedno shranimo kontekst, prekinjenega programa. Procesor avtomatično spremenil dva bita v Control registru. 
+
+Nazaj pa se vračamo z <font color="#92cddc">Exception return</font> in hkrati obnovimo kontekst.
+
+
+---
+
+#vs-flashcards
+
+vprasanje;; odgovor
+
+---
 
 
