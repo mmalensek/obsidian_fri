@@ -1,0 +1,37 @@
+[[Končni avtomat]];
+
+ima končno množico stanj in končno množico prehodov med stanji, ki se zgodijo po branju simbolov iz vhodne abecede.
+
+Pri tem velja:
+- za vsak vhodni simbol in vsako stanje obstaja <font color="#92cddc">natanko en prehod</font>,
+- eno stanje, označeno s $q_0$, je <font color="#92cddc">začetno stanje</font>, kjer DKA začne delovanje.
+- nekatera stanja so končna.
+
+![[Pasted image 20241009133029.png]]
+
+- Točke predstavljajo stanja DKA
+- usmerjene povezave pa prehode
+
+V tem primeru je začetno stanje tudi končno (črn krogec).
+
+Povezava $q_i \rightarrow q_j$ obstaja. če DKA lahko preide iz stanja $q_i$ v $q_j$ pri prebranem $a$
+		   $a$ 
+
+<font color="#92cddc">Definicija</font>: DKA je peterka, kjer so:
+- $Q$ končna množica stanj,
+- $\Sigma$ vhodna abeceda,
+- $q_0 \in Q$ začetno stanje,
+- $F \subseteq Q$ množica končnih stanj,
+- $\delta$ funkcija prehodov, $\delta : Q \times \Sigma \rightarrow Q$. (stanje v katerega DKA, preide iz stanja $q$ če prebere $a$).
+
+Če je $\delta(q,a)$ končno stanje, pravimo, da je DKA <font color="#92cddc">sprejel</font> predpono vhodne besede vključno do prebranega $a$. Lahko sprejme več predpon vhodne besede.
+
+$\delta$ razširimo, da je lahko njen drugi argument <font color="#92cddc">niz simbolov</font> (ne le en simbol). 
+
+![[Pasted image 20241009135029.png]]
+
+Primer za $\delta(q, wa)$.
+
+- DKA $M = (Q, \Sigma, \delta, q_0, F)$ sprejme besedo x, če je $\delta(q_0, x) = p$ za neki $p \in F$ (množici končnih stanj). Torej sprejme besedo, če beseda iz začetnega stanja pride po koncu branja v končno stanje.
+- jezik, sprejet z DKA $M$ je množica $L(M)$ vseh besed, ki jih sprejme $M$: $$L(M) = \{x \in \Sigma^* \mid \delta(q_0, x)\in F\}$$ tukaj je [[Formalni jezik|$\Sigma^*$]].
+- jezik $L'$ je regularen (oz. je regularna množica), $$

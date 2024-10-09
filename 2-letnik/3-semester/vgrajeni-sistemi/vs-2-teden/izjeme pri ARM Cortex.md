@@ -13,10 +13,11 @@ Tej trdožičeni logiki se reče "<font color="#92cddc">Hardware stacking</font>
 Ko se PC shrani na sklad se začne <font color="#92cddc">prevzem naslova PSP</font>:
 - PC <- M[4x številka prekinitvenega vektorja] *M - velikost pomnilniške besede
 - CPE to dobi od ...
+- LR <- vstavimo EXC_RETURN (glede na to v kerem modu smo)
 
 Nato pa se <font color="#92cddc">začne izvajanje PSP</font> - prekinitveno servisni program.
 
-Vsi podprogrami (navadni in prekinitveni) se zaključijo z ukazom
+Vsi podprogrami (navadni in prekinitveni) se zaključijo z ukazom (ret), ki v PC <- r14(LR), (v primeru <font color="#ff0000">prekinitev</font>) kjer bo LR s samimi enicami, procesorju povedal da potrebuje narediti <font color="#92cddc">hardware destacking</font> ozr. EXC_RETURN (exceptional return). 
 
 ---
 
