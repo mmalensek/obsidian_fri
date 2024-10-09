@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90f2a06f5e2bb1d3",
+            "id": "6947f0a01ec77a72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/predavanje-vs-2-teden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e52ec6db5c388e99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/načini delovanja CPE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0a062a292f1f551",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Programski model ARM Cortex-M.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c280e7cc8b0cb31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/control register.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md"
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/načini delovanja CPE.md"
               }
             }
           },
@@ -130,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/načini delovanja CPE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/načini delovanja CPE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,14 +219,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "90f2a06f5e2bb1d3",
+  "active": "e52ec6db5c388e99",
   "lastOpenFiles": [
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/predavanje-vs-2-teden.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/načini delovanja CPE.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Programski model ARM Cortex-M.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/control register.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/base priority mask register.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/program status register.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/predavanje-vs-1-teden.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/predavanje-aps1-1-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Bubble sort.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Insertion sort.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps1.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/C++.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
@@ -214,19 +259,12 @@
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241008161616.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/kartezijski produkt.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241008161440.png",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/presek.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/unija.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/projekcija.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241008155617.png",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/selekcija.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241008155521.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijski_podatkovni_model.pdf",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Omejitve nad podatki.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_sql.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_qbe.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/diski_in_diskovna_polja.pdf",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/upravljanje_z_diskom_in_pomnilnikom.pdf",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Metode dokazovanja.md",
     "Untitled.canvas",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Pasted image 20241007135559.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Pasted image 20241007134245.png"

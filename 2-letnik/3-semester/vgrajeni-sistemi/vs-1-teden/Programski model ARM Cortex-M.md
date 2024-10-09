@@ -10,4 +10,31 @@ image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/STM32F100C4T6B-
 
 ![[Registri-ARM-Cortex-M.png]]
 
-Se razlikuje od RISC procesorja s tem, da ima ukaze za sklad (push in pop). 
+Se razlikuje od RISC procesorja s tem, da <font color="#92cddc">ima ukaze za sklad</font> (push in pop).
+
+<font color="#92cddc">Programski model</font> pomeni, kako kot programer vidiš procesor.
+
+ARM ima;; <font color="#92cddc">16</font> - 32 bitnih splošno namenskih registrov, kjer je $R15$ <font color="#92cddc">programski števec</font>, $R14$ je <font color="#92cddc">link-register</font>, za vračanje pri skokih, $R13$ je <font color="#92cddc">stack-pointer</font>. To je samo dogovor (ABI - application binary interface), ARM omogoča, da lahko uporabljaš tudi druge, a je dobro da se uporablja dogovor ABI, zaradi univerzalnosti, in premostljivosti na druge naprave.
+
+$R13$ je nekakšen "virtualni" register, poglej si [[control register]].
+
+Prvi štirje registri se uporabljajo;; <font color="#92cddc">za prenašanje argumentov</font>, če jih je več kot štiri, se to dela preko skladu.
+
+Od $R4$ do $R11$ so;; "pure general purpose" registers.
+
+Za delovanje samega procesorja mora ta imeti tudi nekaj <font color="#92cddc">kontrolnih registrov</font>:
+- [[program status register]],
+- [[base priority mask register]],
+- [[control register]],
+- interrupt mask register,
+- fault mask register.
+
+Za vse zadnje štiri registre velja, da jih pri prekinjanju programov ne shranjujemo.
+
+Te <font color="#92cddc">ne morejo</font> biti operandi za AL, Load/Store in branch ukaze. Ampak se za <font color="#92cddc">dostop do njih</font> uporabljajo posebni ukazi (vsi so 32 bitni).
+
+---
+
+#vs-flashcards 
+
+---
