@@ -11,4 +11,6 @@
 
 [[pomnilniška slika računalnika STM32H750]];
 
+[[GPIO]];
+
 ---
