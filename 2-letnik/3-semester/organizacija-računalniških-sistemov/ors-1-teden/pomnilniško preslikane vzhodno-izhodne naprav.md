@@ -1,7 +1,7 @@
 ### [[ors]], 1.teden, 03-10-2024
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano #ors-flashcards 
+<font color="#92cddc">Status/tags:</font> #dokončano #ors-flashcards 
 
 ---
 
@@ -13,9 +13,22 @@
 
 > Edini pametni način, da CPE "vidi" V/I enote, je kot pomnilniške besede v operandnem pomnilniku.
 
+> Ta logika na skici velja, samo za pisanje v eno bitna registra
+
 ^ Zato ima vsaka V/I naprava najmanj eno pomnilniško besedo vgrajeno vase, torej vsaka vsebuje majhen [[pomnilnik]], do katerega dostopamo z *<font color="#92cddc">load</font>* in *<font color="#92cddc">store</font>* ukazi.
 
 Nato pa z naslovnim dekodiranjem, neki neki...
+
+Malo drugačen primer, kjer bomo da bo možno tudi branje imeli 4 1-bitne besede na naslovih: $0x00, 0x40, 0x80, 0xC0$ :
+![[pomnilniško preslikane vzhodno-izhodne naprav 2024-10-10 10.27.35.excalidraw]]
+
+- <font color="#92cddc">OE - output enable</font> - ...
+- <font color="#92cddc">CE - clock enable</font> - ...
+- <font color="#92cddc">CS - chip select</font> - ...
+- če bi pri naslovnem dekodiranju preverjali vse bite naslova -> <font color="#92cddc">Popolno naslovno dekodiranje</font>
+- če preverjamo le podmnožico -> <font color="#92cddc">Nepopolno naslovno dekodiranje</font>, kar je drastično zmanjša kompleksnost logike za naslovno dekodiranje, a povzroči, da je določeno območje naslovov preslikano v isti naslov, določeno število <font color="#92cddc">aliasov</font>
+
+[[pomnilniška slika računalnika STM32H750|Pomnilniška slika računalnika STM32H]].
 
 ---
 
