@@ -14,3 +14,5 @@ In tudi izpeljane operacije:
 	- [[stik]] - kartezijski produkt in selekcija,
 	- [[presek]],
 	- [[količnik]].
+
+Imamo pa tudi [[preimenovanje]].

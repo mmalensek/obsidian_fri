@@ -12,6 +12,6 @@ Primer:
 
 #opb-flashcards 
 
-Kaj vrne selekcija?;; Vrne relacijo, ki vsebuje samo tiste n-terice iz relacije R, ki zadoščajo nekemu pogoju.
+Kaj vrne selekcija ($\sigma$)$?;; Vrne relacijo, ki vsebuje samo tiste n-terice iz relacije R, ki zadoščajo nekemu pogoju.
 
 ---
