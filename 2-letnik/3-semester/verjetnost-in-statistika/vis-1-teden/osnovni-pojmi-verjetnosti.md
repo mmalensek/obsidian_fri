@@ -36,6 +36,7 @@ Ponovi tudi [[Binomski simbol]]!
 
 [[Verjetnost unije dogodkov]]:
 	$$P(A\cup B) = P(A) + P(B) - P(A\cap B)$$
+	če pa sta dogodka nezdružljiva pa velja: $$P(A+B) = P(A) + P(B)$$
 
 ---
 
