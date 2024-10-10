@@ -8,7 +8,7 @@ Kaj se v CPE <font color="#92cddc">zgodi</font>, ko se <font color="#92cddc">pro
 
 <font color="#92cddc">Shranjevanje konteksta prekinjenega programa?</font>;; Z zagotovostjo bo prekinitveno-servisni program moral shraniti najmanj 8 registrov (prve štiri, link, PC, pa še dva). Zato ARM hardwersko (trdo-kodirano) na sklad porine teh 8 registrov. Po vrsti: PSR, PC, LR, R12, R3, R2, R1, R0. <font color="#92cddc">Sklad narašča v smeri padajočih naslovov. Torej (^ "navzgor").</font> 
 
-Tej trdožičeni logiki se reče "<font color="#92cddc">Hardware stacking</font>". Ta del sklada je "<font color="#92cddc">hardware stack frame</font>".
+Kako se reče tej trdožičeni logiki shranjevanja konteksta prekinjenega programa?;; Temu se reče "<font color="#92cddc">Hardware stacking</font>". Ta del sklada pa je "<font color="#92cddc">hardware stack frame</font>".
 
 Ko se PC shrani na sklad se začne <font color="#92cddc">prevzem naslova PSP</font>:
 - PC <- M[4x številka prekinitvenega vektorja] *M - velikost pomnilniške besede

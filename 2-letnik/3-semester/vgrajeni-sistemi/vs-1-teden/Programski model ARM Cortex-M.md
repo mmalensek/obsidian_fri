@@ -1,4 +1,4 @@
-[[predavanje-vs-1-teden]];
+[[predavanje-vs-1-teden]]; #vs-flashcards
 
 ```cardlink
 url: https://en.wikipedia.org/wiki/ARM_Cortex-M
@@ -34,7 +34,4 @@ Za vse zadnje štiri registre velja, da jih pri prekinjanju programov ne shranju
 Te <font color="#92cddc">ne morejo</font> biti operandi za AL, Load/Store in branch ukaze. Ampak se za <font color="#92cddc">dostop do njih</font> uporabljajo posebni ukazi (vsi so 32 bitni).
 
 ---
-
-#vs-flashcards 
-
----
+Katere registre ima procesor poleg prvih šestnajst (general-purpose)?;; Ima tudi 5 drugih posebnih kontrolnih registrov, ki določajo kontekst programa.

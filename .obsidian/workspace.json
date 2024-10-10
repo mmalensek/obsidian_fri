@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4afd062b28bf4169",
+        "id": "c48ac82f1b596cf0",
         "type": "tabs",
         "children": [
           {
-            "id": "a6a06521417d6c07",
+            "id": "2acc4c2ed3248e41",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,53 +20,7 @@
             }
           },
           {
-            "id": "0ac1026ed4e79792",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Končni avtomat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "813e2e2ac1b9a405",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Deterministični končni avtomat - DKA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bfd54309e497f72c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Nedeterministični končni avtomat - NKA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5c4b405f4bdf624",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf"
-              }
-            }
-          },
-          {
-            "id": "a8cc03e33a7d8258",
+            "id": "d0e4ba122480e9bd",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -75,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Končni avtomat.md"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/predavanje-irz-2-teden.md"
               }
             }
           },
@@ -187,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Končni avtomat.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/predavanje-irz-2-teden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Končni avtomat.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/predavanje-irz-2-teden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,40 +192,40 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "0ac1026ed4e79792",
+  "active": "2acc4c2ed3248e41",
   "lastOpenFiles": [
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Nedeterministični končni avtomat - NKA.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Končni avtomat.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Deterministični končni avtomat - DKA.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Nedeterministični končni avtomat - NKA.md",
+    "4-imp/latex_sheet.pdf",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/predavanje-irz-2-teden.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/predavanje-vs-2-teden.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/izjeme pri ARM Cortex.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/načini delovanja CPE.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Programski model ARM Cortex-M.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/control register.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/base priority mask register.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/program status register.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/vaje-vis-2-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/pogojna odvisnost.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/neodvisnost dogodkov.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009145057.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Končni avtomat.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009143258.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/vaje-irz-2-teden.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/izjeme pri ARM Cortex.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/predavanje-vs-2-teden.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/načini delovanja CPE.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/predavanje-irz-2-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Metode dokazovanja.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/indukcija.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Deterministični končni avtomat - DKA 2024-10-09 14.08.26.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Formalni jezik.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009135029.png",
-    "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009133029.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Graf.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/golobnjak.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/moč množic.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Množica.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/control register.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Programski model ARM Cortex-M.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/predavanje-vs-1-teden.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Past.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/base priority mask register.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/program status register.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijski_račun.pdf",

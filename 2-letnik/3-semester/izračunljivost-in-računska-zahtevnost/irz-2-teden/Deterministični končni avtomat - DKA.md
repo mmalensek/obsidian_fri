@@ -14,8 +14,7 @@ Pri tem velja:
 
 V tem primeru je začetno stanje tudi končno (črn krogec).
 
-Povezava $q_i \rightarrow q_j$ obstaja. če DKA lahko preide iz stanja $q_i$ v $q_j$ pri prebranem $a$
-		   $a$ 
+Kdaj povezava $\frac{q_i \rightarrow q_j}{a}$ obstaja?;; če DKA lahko preide iz stanja $q_i$ v $q_j$ pri prebranem $a$.
 
 <font color="#92cddc">Definicija</font>: DKA je peterka, kjer so:
 - $Q$ končna množica stanj,
@@ -36,3 +35,13 @@ Primer za $\delta(q, wa)$.
 - jezik, sprejet z DKA $M$ je množica $L(M)$ vseh besed, ki jih sprejme $M$: $$L(M) = \{x \in \Sigma^* \mid \delta(q_0, x)\in F\}$$ tukaj je [[Formalni jezik|$\Sigma^*$]].
 - jezik $L'$ je regularen (oz. je regularna množica), če $L'$ sprejme kak DKA (tj. če $\exists$ DKA $M : L'  = L(M)$)
 
+---
+Kako označimo končno stanje končnih avtomatov?;; S črnim krogcem
+Kaj velja za DKA?;; Ima končno množico stanj in končno množico prehodov med stanji. Za vsak vhodni simbol in vsako stanje obstaja <font color="#92cddc">natanko en prehod</font>, eno stanje, označeno s $q_0$, je <font color="#92cddc">začetno stanje</font>, kjer DKA začne delovanje. Nekatera stanja so končna. Točke predstavljajo stanja DKA in usmerjene povezave pa prehode.
+Kaj je $Q$?;; Končna množica stanj.
+Kaj je $\Sigma$?;; Vhodna abeceda.
+Kaj je $q_0$?;; Začetno stanje.
+Kaj je $F$ in kaj zanj velja?;; Je množica končnih stanj in je podmnožica $Q$.
+Kaj je $\delta$? Je funkcija prehodov. 
+Kaj je jezik, sprejet z DKA? je množica vseh besed, ki jih sprejme nek DKA.
+Kaj pomeni da je jezik regularen?;; Je jezik, ki ga lahko prepoznamo s končnim avtomatom.
