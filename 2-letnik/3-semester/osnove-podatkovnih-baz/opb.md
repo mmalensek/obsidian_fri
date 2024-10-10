@@ -12,7 +12,9 @@
 
 Drugi teden so vaje.
 
-Tri sprotna preverjanja znanja.
+Tri sprotna preverjanja znanja, s katerimi opraviš vaje, minimum 50% vseh treh, vsak pa mora bit nad 25%.
+
+Na vajah se tudi uporablja orodje ([v spletni učilnici](https://timotejk.github.io/OPB-RA/)).
 
 #### Datumi:
 
