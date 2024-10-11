@@ -32,48 +32,12 @@
             }
           },
           {
-            "id": "8789af5f7908bec2",
+            "id": "3a9d39ba34486c2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Quick sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00f77a0c4aa1db09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Merge sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e16e09c04d5c537a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Selection sort.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95ad53d294bad985",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden/Računska zahtevnost.md",
+                "file": "Bucket /Bucket ali Bin sort (radix).md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -167,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md"
+                "file": "Bucket /Bucket ali Bin sort (radix).md"
               }
             }
           },
@@ -201,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
+                "file": "Bucket /Bucket ali Bin sort (radix).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
+                "file": "Bucket /Bucket ali Bin sort (radix).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,16 +219,23 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b130884ec11949b9",
+  "active": "3a9d39ba34486c2a",
   "lastOpenFiles": [
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Merge sort.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Quick sort.md",
+    "Bucket /Bucket ali Bin sort (radix) 2024-10-11 14.47.29.excalidraw.md",
+    "Bucket /Bucket ali Bin sort (radix).md",
+    "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Heap sort.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Selection sort.md",
+    "Bucket ",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Counting sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Quick sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Quick sort 2024-10-11 14.12.23.excalidraw.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Merge sort 2024-10-11 13.50.19.excalidraw.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Merge sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Merge sort 2024-10-11 13.41.05.excalidraw.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden/predavanje-aps1-2-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden/Računska zahtevnost.md",
-    "4-imp/latex_sheet.pdf",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Selection sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Heap sort.md",
     "Untitled",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_sql.pdf",
@@ -281,13 +254,6 @@
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/pogojna verjetnost.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/predavanje-vis-2-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/neodvisnost dogodkov.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Geometrijska verjetnost.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/predavanje-ors-2-teden.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/pomnilniška slika računalnika STM32H750.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Pasted image 20241010174536.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/Pasted image 20241010163621.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/Pasted image 20241010163558.png",
@@ -296,7 +262,6 @@
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/boundary_stm32h750.png",
     "2-letnik/3-semester/vgrajeni-sistemi/stm32h750_reference_manual.pdf",
     "2-letnik/3-semester/vgrajeni-sistemi/rm0433-stm32h742-stm32h743753-and-stm32h750-value-line-advanced-armbased-32bit-mcus-stmicroelectronics.pdf",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/Pasted image 20241010074015.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009145057.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009143258.png",

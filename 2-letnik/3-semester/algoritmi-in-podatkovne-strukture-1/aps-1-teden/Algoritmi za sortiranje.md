@@ -19,11 +19,15 @@ Osnovni:
 	- v najslabšem primeru $O(n²)$, najboljšem $O(n)$, v povprečju $O(n²)$
 
 ---
-Jaki:
+Nekoliko jačejši:
 1) [[Merge sort]]
-2) [[Quick sort]];
-3) [[Heap sort]]
+2) [[Quick sort]]
+ 
+ Če se zanašamo samo na primerjanje med elementi je $O(n\log n)$, najboljše kar lahko dosežemo. 
 
+3) [[Heap sort]]
+4) [[Counting sort]]
+5) [[Bucket ali Bin sort (radix)]]
 
  ---
 
