@@ -25,8 +25,8 @@ Malo drugačen primer, kjer bomo da bo možno tudi branje imeli 4 1-bitne besede
 - <font color="#92cddc">OE - output enable</font> - ...
 - <font color="#92cddc">CE - clock enable</font> - ...
 - <font color="#92cddc">CS - chip select</font> - ...
-- če bi pri naslovnem dekodiranju preverjali vse bite naslova -> <font color="#92cddc">Popolno naslovno dekodiranje</font>
-- če preverjamo le podmnožico -> <font color="#92cddc">Nepopolno naslovno dekodiranje</font>, kar je drastično zmanjša kompleksnost logike za naslovno dekodiranje, a povzroči, da je določeno območje naslovov preslikano v isti naslov, določeno število <font color="#92cddc">aliasov</font>
+- če bi pri naslovnem dekodiranju preverjali vse bite naslova;; -> <font color="#92cddc">Popolno naslovno dekodiranje</font>
+- če preverjamo le podmnožico pri naslovnem dekodiranju;; -> <font color="#92cddc">Nepopolno naslovno dekodiranje</font>, kar je drastično zmanjša kompleksnost logike za naslovno dekodiranje, a povzroči, da je določeno območje naslovov preslikano v isti naslov, določeno število <font color="#92cddc">aliasov</font>
 
 [[pomnilniška slika računalnika STM32H750|Pomnilniška slika računalnika STM32H]].
 

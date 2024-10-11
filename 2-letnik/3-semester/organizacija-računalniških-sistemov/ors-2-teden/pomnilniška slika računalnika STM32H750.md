@@ -1,6 +1,6 @@
 [[predavanje-ors-2-teden]]; #ors-flashcards 
 
-V RAM-u nastopa samo popolno naslovno dekodiranje, ker imamo zaporedne pomnilniške naslove in ni aliasov.
+V <font color="#92cddc">RAM</font>-u <font color="#92cddc">nastopa</font> samo (kakšno naslovno dekodiranje);; popolno naslovno dekodiranje, ker imamo <font color="#92cddc">zaporedne</font> pomnilniške naslove in <font color="#92cddc">ni aliasov</font>.
 
 [[stm32h750_reference_manual.pdf]].
 

@@ -38,7 +38,9 @@ Kar pomeni, da so <font color="#92cddc">vsi mogoči</font>, so <font color="#92c
 
 $tihihi \ im \ just \ a \ girl$     
 
+[[pogojna verjetnost]];
 
+[[neodvisnost dogodkov]];
 
 ---
 

@@ -13,58 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/predavanje-vis-2-teden.md",
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/predavanje-ors-2-teden.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "64d143ae2d1f9608",
+            "id": "631028aa2ded6f0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "d1df4a211dc59b99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Geometrijska verjetnost.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14295bbbf22d5e12",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf"
-              }
-            }
-          },
-          {
-            "id": "e3b5692800ae38fa",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4-imp/latex_sheet.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#irz-flashcards",
+                "query": "tag:#vis-flashcards",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Geometrijska verjetnost.md"
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md"
               }
             }
           },
@@ -175,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Geometrijska verjetnost.md",
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Geometrijska verjetnost.md",
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,21 +195,27 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "d1df4a211dc59b99",
+  "active": "631028aa2ded6f0e",
   "lastOpenFiles": [
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/predavanje-ors-2-teden.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/pomnilniška slika računalnika STM32H750.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/predavanje-vis-2-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/pogojna verjetnost.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/neodvisnost dogodkov.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/načini delovanja CPE.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Geometrijska verjetnost.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Pasted image 20241010174536.png",
     "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/Pasted image 20241010163621.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/Pasted image 20241010163558.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/Pasted image 20241010163509.png",
     "Untitled",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/predavanje-ors-2-teden.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO 2024-10-10 11.49.17.excalidraw.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/pomnilniška slika računalnika STM32H750.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/pomnilniška slika računalnika STM32H750 2024-10-10 11.41.32.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/boundary_stm32h750_0.png",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/boundary_stm32h750.png",
@@ -263,16 +237,10 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/predavanje-irz-2-teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Končni avtomat.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Deterministični končni avtomat - DKA.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Nedeterministični končni avtomat - NKA.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/predavanje-vs-2-teden.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/izjeme pri ARM Cortex.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/načini delovanja CPE.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009145057.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009143258.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009135029.png",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009133029.png",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden",
     "Untitled.canvas"
   ]

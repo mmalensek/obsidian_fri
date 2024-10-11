@@ -1,4 +1,4 @@
-[[vaje-vis-2-teden]]; #vis-flashcards 
+[[vaje-vis-2-teden]], [[predavanje-vis-2-teden]]; #vis-flashcards 
 
 Dogodka sta neodvisna;; če velja $P(AB) = P(A) \cdot P(B)$ (kjer je $P(AB)$ presek).
 
