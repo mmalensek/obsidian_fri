@@ -7,8 +7,10 @@
 
 ### Vsebina:
 
-[[Relacijska algebra]];
+[[Relacijska algebra]] (agregatne operacije);
 
 [[Relacijski račun]];
+
+[[uvod v SQL]];
 
 ---
