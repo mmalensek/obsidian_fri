@@ -97,6 +97,11 @@ select emp_no, avg(salary)
 from salaries;
 ```
 
+Da bo to pravilno, moramo dodati:
+```SQL
+group by emp_no;
+```
+
 ---
 
 Na kaj se deli SQL sintaksa?;; Na ukaze iz skupine DML (manipulation), DDL (definition) in sprožilce, funkcije in shranjene programe
