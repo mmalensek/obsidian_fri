@@ -1,7 +1,7 @@
 ### [[ors]], 2.teden, 10-10-2024
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano #ors-flashcards
+<font color="#92cddc">Status/tags:</font> #dokončano #ors-flashcards
 
 ---
 

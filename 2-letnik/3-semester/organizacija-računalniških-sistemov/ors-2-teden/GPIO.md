@@ -9,4 +9,4 @@ Kaj počne (na primeru enega bita)?
 Običajno pa so 16-bitni, tudi 32-bitni (vsak GPIO ima tudi toliko pinov kot je biten).
 
 Na podlagi dokumentacije tudi vemo kakšen je offset od lokacije GPIO.
-Tako dobimo da je naslov
+Tako dobimo naslov.

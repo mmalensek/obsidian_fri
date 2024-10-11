@@ -16,3 +16,5 @@ In tudi izpeljane operacije:
 	- [[količnik]].
 
 Imamo pa tudi [[preimenovanje]].
+
+[[Agregatne operacije]].

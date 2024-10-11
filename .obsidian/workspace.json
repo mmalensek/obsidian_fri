@@ -4,30 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "5cac00ffb4985776",
+        "id": "d3232ff0f266c72d",
         "type": "tabs",
         "children": [
           {
-            "id": "bbe8bf334c21f5cd",
+            "id": "66df4545f8064bd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/predavanje-ors-2-teden.md",
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/predavanje-opb-2-teden.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "631028aa2ded6f0e",
+            "id": "f229d81501920f33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md",
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski račun.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "fc6346fcaf68cbc9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijski_račun.pdf"
+              }
+            }
+          },
+          {
+            "id": "b36014386a480623",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4-imp/latex_sheet.pdf"
               }
             }
           }
@@ -61,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#vis-flashcards",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md"
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski račun.md"
               }
             }
           },
@@ -143,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md",
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski račun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md",
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski račun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,22 +215,33 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "631028aa2ded6f0e",
+  "active": "f229d81501920f33",
   "lastOpenFiles": [
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/predavanje-ors-2-teden.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/pomnilniška slika računalnika STM32H750.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/predavanje-vis-2-teden.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijski_račun.pdf",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski račun.md",
+    "5-temp/Excalidraw/relacijski_racun.excalidraw.md",
+    "4-imp/latex_sheet.pdf",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijska algebra.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/predavanje-opb-2-teden.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Agregatne operacije.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijska_algebra.pdf",
+    "Untitled.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/preimenovanje.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/predavanje-opb-1-teden.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski podatkovni model.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/pogojna verjetnost.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/predavanje-vis-2-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/neodvisnost dogodkov.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Geometrijska verjetnost.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/predavanje-ors-2-teden.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/pomnilniška slika računalnika STM32H750.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/načini delovanja CPE.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Geometrijska verjetnost.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Pasted image 20241010174536.png",
-    "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/Pasted image 20241010163621.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/Pasted image 20241010163558.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/Pasted image 20241010163509.png",
@@ -225,23 +256,12 @@
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav 2024-10-07 18.11.02.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilnik.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/vaje-opb-2-teden.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijska algebra.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/preimenovanje.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/kartezijski produkt.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/selekcija.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/projekcija.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/Pasted image 20241010074015.png",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijski_račun.pdf",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/predavanje-irz-2-teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Končni avtomat.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009145057.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009143258.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009135029.png",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden",
     "Untitled.canvas"
   ]
 }
