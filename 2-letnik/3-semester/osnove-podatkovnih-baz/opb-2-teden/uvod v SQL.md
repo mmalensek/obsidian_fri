@@ -36,7 +36,7 @@ select distinct gender from employees;
 Izpiši starost delavcev ob zaposlitvi (izračunana polja in funkcije):
 
 ```SQL
-select first_name, last_name, birth_date, hite_date, DATEDIFF(hire_date, birth_date)/365
+select first_name, last_name, birth_date, hire_date, DATEDIFF(hire_date, birth_date)/365
 as 'Starost ob zaposlitvi'
 from employees;
 ```
@@ -105,6 +105,11 @@ group by emp_no;
 ---
 
 Na kaj se deli SQL sintaksa?;; Na ukaze iz skupine DML (manipulation), DDL (definition) in sprožilce, funkcije in shranjene programe
+V bazi "employees" kako bi (z SQL) izpisal vse podatke o zaposlen?;; select * from employees
+V bazi "employees" kako bi (z SQL) izpisal vse različne vrednosti nečesa?;; z distinct
+Iskalni kriterij v SQL?;; where YEAR(birth_date)<1953 and gender = 'M'
+Iskalni kriterij s pogojem?;; where last_name like 'B%' and birth_date like '__6_____01'
+
 
 ---
 

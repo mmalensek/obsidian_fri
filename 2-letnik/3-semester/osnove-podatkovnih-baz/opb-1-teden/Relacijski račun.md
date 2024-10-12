@@ -11,11 +11,18 @@ Sintaksa predikatnega računa:
 Poznamo dve vrsti relacijskega računa:
 - <font color="#92cddc">n-terični</font>,
 	- temelji na uporabi n-teričnih spremenljivk
-	- npr. poišči vsi artikli, ki imajo zalogo manjšo od tri: $$\{A \mid Artikel(A) \land A.zaloga < 3\}$$
+	- npr. poišči vse artikle, ki imajo zalogo manjšo od tri: $$\{A \mid Artikel(A) \land A.zaloga < 3\}$$
 	- če pa nas zanima samo določen atribut pa namesto prvega $A$, zapišemo $A.ime$ (projekcija).
 	- npr. izpiši nazive hotelov, ki se nahajajo v Ljubljani $$\{H.hotelName \mid Hotel(H \land H.address = \ 'Ljubljana'\}$$
 	- v relacijskem računu je možno zapisati stavke, ki vračajo neskončne množice.
-	- primer nevarnega izraza: $$\{A \mid \neg(Artikel(A))\}$$
+	- primer nevarnega izraza: $$\{A \mid \neg(Artikel(A))\}$$tako domena ni pravilno določena, kar ni pravilno.
 - <font color="#92cddc">domenski</font>.
 	- imamo enaka pravila, kot pri n-teričnem računu.
 	- npr. izpiši nazive hotelov v Ljubljani (enak primer kot prej) $$\{hName \mid \exists (hNo, hAddress) (Hotel(hNo, hName, hAddress) \land hAddress = \ 'Ljubljana')\}$$
+
+---
+
+Katere vrste relacijskega računa predstavlja $\{A \mid Artikel(A) \land A.zaloga < 3\}$ in kaj pomeni?;; Predstavlja n-terični relacijski račun in nam predstavi vse artikle, ki imajo zalogo manjšo od tri.
+Katere vrste relacijskega računa predstavlja $\{hName \mid \exists (hNo, hAddress) (Hotel(hNo, hName, hAddress) \land hAddress = \ 'Ljubljana')\}$ in kaj nam pove?;; Izpiše nam nazive hotelov v Ljubljani in predstavlja domenski relacijski račun.
+
+---

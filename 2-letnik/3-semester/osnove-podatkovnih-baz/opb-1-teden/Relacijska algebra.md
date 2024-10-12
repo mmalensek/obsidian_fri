@@ -15,6 +15,4 @@ In tudi izpeljane operacije:
 	- [[presek]],
 	- [[količnik]].
 
-Imamo pa tudi [[preimenovanje]].
-
-[[Agregatne operacije]].
+Imamo pa tudi [[preimenovanje]] in [[Agregatne operacije|agregatne operacije]].
