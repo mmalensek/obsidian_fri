@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ed99b81adcef464c",
+        "id": "213de5568d48001c",
         "type": "tabs",
         "children": [
           {
-            "id": "2d4e8575e25dc849",
+            "id": "07fd60017ab8a189",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f212960d36007aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bucket /Bucket ali Bin sort (radix).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03c42b0400e4da14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Counting sort.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,9 +91,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Bucket /Bucket ali Bin sort (radix).md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bucket /Bucket ali Bin sort (radix).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bucket /Bucket ali Bin sort (radix).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,10 +174,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8f212960d36007aa",
+  "active": "07fd60017ab8a189",
   "lastOpenFiles": [
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden/Bucket ali Bin sort (radix).md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden/Bucket ali Bin sort (radix) 2024-10-11 14.47.29.excalidraw.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Counting sort.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Heap sort.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Quick sort.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Merge sort.md",
@@ -222,8 +192,6 @@
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijska algebra.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Agregatne operacije.md",
     "4-imp/latex_sheet.pdf",
-    "Bucket /Bucket ali Bin sort (radix).md",
-    "Bucket /Bucket ali Bin sort (radix) 2024-10-11 14.47.29.excalidraw.md",
     "Bucket ",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Quick sort 2024-10-11 14.12.23.excalidraw.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Merge sort 2024-10-11 13.50.19.excalidraw.md",

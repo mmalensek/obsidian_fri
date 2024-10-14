@@ -15,12 +15,15 @@ Se razlikuje od RISC procesorja s tem, da <font color="#92cddc">ima ukaze za skl
 <font color="#92cddc">Programski model</font> pomeni, kako kot programer vidiš procesor.
 
 ARM ima;; <font color="#92cddc">16</font> - 32 bitnih splošno namenskih registrov, kjer je $R15$ <font color="#92cddc">programski števec</font>, $R14$ je <font color="#92cddc">link-register</font>, za vračanje pri skokih, $R13$ je <font color="#92cddc">stack-pointer</font>. To je samo dogovor (ABI - application binary interface), ARM omogoča, da lahko uporabljaš tudi druge, a je dobro da se uporablja dogovor ABI, zaradi univerzalnosti, in premostljivosti na druge naprave.
+<!--SR:!2024-10-13,1,230-->
 
 $R13$ je nekakšen "virtualni" register, poglej si [[control register]].
 
 Prvi štirje registri se uporabljajo;; <font color="#92cddc">za prenašanje argumentov</font>, če jih je več kot štiri, se to dela preko skladu.
+<!--SR:!2024-10-13,1,230-->
 
 Od $R4$ do $R11$ so;; "pure general purpose" registers.
+<!--SR:!2024-10-16,4,270-->
 
 Za delovanje samega procesorja mora ta imeti tudi nekaj <font color="#92cddc">kontrolnih registrov</font>:
 - [[program status register]],
@@ -35,3 +38,4 @@ Te <font color="#92cddc">ne morejo</font> biti operandi za AL, Load/Store in bra
 
 ---
 Katere registre ima procesor poleg prvih šestnajst (general-purpose)?;; Ima tudi 5 drugih posebnih kontrolnih registrov, ki določajo kontekst programa.
+<!--SR:!2024-10-15,3,250-->

@@ -22,10 +22,16 @@ Relacija je <font color="#8064a2">ekvivalenčna</font>, če je refleksivna, sime
 #irz-flashcards 
 
 <font color="#92cddc">refleksivna</font>;; če $aRa$ za vsak $a \in S$
+<!--SR:!2024-10-15,3,250-->
 <font color="#8064a2">irefleksivna</font>;; če $aRa$ ne velja, za vsak $a \in S$
+<!--SR:!2024-10-15,3,250-->
 <font color="#92cddc">tranzitivna</font>;; če iz $aRb$ in $bRc$ sledi $aRc$
+<!--SR:!2024-10-16,4,270-->
 <font color="#8064a2">simetrična</font>;; če iz $aRb$ sledi $bRa$
+<!--SR:!2024-10-16,4,270-->
 <font color="#92cddc">asimetrična</font>;; če iz $aRb$ sledi da $bRa$ ne velja
+<!--SR:!2024-10-13,1,230-->
 Kdaj je relacija ekvivalenčna in primer ekvivalenčnega razreda.;; Je ekvivalenčna, če je refleksivna, simetrična in tranzitivna, primer: $A = \{1, 2, 3, 4\}$ in je $aRb$, ko ostanek pri deljenju z 2 enak, to pomeni, da imamo dva ekvivalenčna razreda $\{1, 3\}$ in $\{2, 4\}$.
+<!--SR:!2024-10-15,3,250-->
 
 ---

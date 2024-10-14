@@ -56,11 +56,15 @@ Ponovi tudi [[Binomski simbol]]!
 ### Flashcards:
 
 Kaj mora veljati za množico vseh izidov nekega slučajnega poskusa $\Omega = \{w_1, w_2, ..., w_n\}$?;; Mora veljati da so $w_1, w_2, ..., w_n$ elementarni izidi in so vsi enako verjetni
+<!--SR:!2024-10-15,3,250-->
 
 Kakšna je enačba za verjetnost slučajnega dogodka?;; $P(A) = \frac{k}{n}$
+<!--SR:!2024-10-16,4,270-->
 
 Kaj predstavlja binomski simbol $\binom{n}{k}$?;; Predstavlja število načinov na katere lahko izmed $n$ predmetov izberemo $k$ predmetov, ne glede na vrstni red.
+<!--SR:!2024-10-13,1,230-->
 
 Meče se kocka dokler ni enaka 6, a največ 3-krat, kolikšna je verjetnost uspešnega poskusa?;; $P(A) = \frac{1}{6} + \frac{5 \cdot 1}{6^2} + \frac{5 \cdot 5 \cdot 1}{6^3} = \frac{91}{216}$
+<!--SR:!2024-10-16,4,270-->
 
 ---

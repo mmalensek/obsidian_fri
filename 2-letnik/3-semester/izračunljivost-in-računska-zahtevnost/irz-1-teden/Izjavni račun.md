@@ -15,6 +15,8 @@
 #irz-flashcards 
 
 XOR (tabelca);; 0, 1, 1, 0
+<!--SR:!2024-10-16,4,270-->
 implikacija (tabelca);; 1, 1, 0, 1
+<!--SR:!2024-10-16,4,270-->
 
 ---

@@ -12,5 +12,6 @@ Primer:
 #opb-flashcards 
 
 Kaj vrne projekcija ($\Pi$)?;; Vrne samo tiste <font color="#92cddc">atribute</font> (stolpce), ki so določeni s seznamom in tudi <font color="#92cddc">eleminira duplikate</font>.
+<!--SR:!2024-10-16,4,270-->
 
 ---

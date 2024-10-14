@@ -10,5 +10,6 @@ $$[1, 4, 7, 8]$$
 #aps1-flashcards 
 
 Zahtevnost selection sort algoritma in kako deluje?;; V vseh primerih je $O(n²)$, saj deluje tako, da se sprehaja po vrsti in išče minimum, ko pride do konca, minimum postavi na začetek (oziroma na $i$-to mesto $i$-te iteracije).
+<!--SR:!2024-10-13,1,230-->
 
 ---

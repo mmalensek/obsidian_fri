@@ -6,5 +6,6 @@ Ki jo uporabimo, ko pri relacijski algebri, dobimo nek nov atribut (npr. avg cen
 ---
 
 Kakšen simbol ima preimenovanje?;; $\rho \ - rho$
+<!--SR:!2024-10-16,4,270-->
 
 ---

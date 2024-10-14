@@ -17,7 +17,9 @@
 #irz-flashcards 
 
 Če je $A = \{1, 2\}$, kakšna je $\mathcal{P}(A)$?;; $\mathcal{P}(A) = \{\emptyset,\{1\},\{2\}, \{1, 2\} \}$
+<!--SR:!2024-10-16,4,270-->
 Če je $A=\{1,2\}$ in $B=\{a,b\}$, kaj je $A \times B$?;; $A \times B = \{(1, a), (1, b), (2, a), (2, b)\}$
+<!--SR:!2024-10-16,4,270-->
 
 
 ---

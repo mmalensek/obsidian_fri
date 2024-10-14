@@ -5,10 +5,12 @@ Zanima nas časovna in prostorska zahtevnost, zanima nas asimptotična zgornja m
 Pravtako za $najboljši, povprečen \ in \ najslabši \ primer$. Ukvarjali se bomo samo z velikimi problemi.
 
 <font color="#92cddc">Big O notation</font>, nam predstavlja;; zgornjo mejo asimptotične računske zahtevnosti.
+<!--SR:!2024-10-16,4,270-->
 
 V primeru, da je $O(g(n))$, $\exists k > 0, \exists n_0, \forall n >= n_0 \ : \ f(n) <= kg(n)$.
 
 Primer: $f(n) = \frac{1}{2}(n-1)(n+2)log(n) + \sqrt{n}$ kakšen je $O$?;; če to poenostavimo je to $\frac{1}{2}n²log(n)-log(n)+\sqrt{n}$, neka prva zgornja meja je $O(n^3)$, boljše je $O(n^2log(n))$.
+<!--SR:!2024-10-16,4,270-->
 
 - konstant ni potrebno pisati,
 - pri vsoti - vzamemo max člen.

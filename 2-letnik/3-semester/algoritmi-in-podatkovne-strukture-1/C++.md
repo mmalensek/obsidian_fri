@@ -19,7 +19,9 @@ int main(){
 }
 ```
 Za prevajanje se uporablja;; g++.
+<!--SR:!2024-10-16,4,270-->
 Za input output?;; cin in cout
+<!--SR:!2024-10-16,4,270-->
 
 
 ```c++
@@ -32,6 +34,7 @@ int main(){
 ```
 Stringe lahko seštevaš!
 	Katero operacijo nad stringi omogoča c++?;; Seštevanje.
+<!--SR:!2024-10-16,4,270-->
 
 
 ```c++
@@ -41,6 +44,7 @@ koordinata1 = make_pair(2, 3);
 cout << koordinata1.first << " " << kordinata1_second << endl;
 ```
 Nov tip "pair"?;; par dveh (lahko različnih) nekih vrednosti.
+<!--SR:!2024-10-16,4,270-->
 
 
 ```c++
@@ -69,6 +73,7 @@ for(int i = 0; i < v.size(); i++){
 ```
 Sezname nam reši "vector" - podobno ArrayList
 	namesto ArrayList imamo?;; vector
+<!--SR:!2024-10-16,4,270-->
 
 
 ```c++

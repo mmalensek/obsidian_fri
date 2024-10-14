@@ -16,7 +16,9 @@
 #irz-flashcards
 
 Kaj pomeni: $\forall m \exists n: P(m, n)$?;; Za vsak m, obstaja n, da je P(m, n resnično)
+<!--SR:!2024-10-15,3,250-->
 Kaj pomeni: $\exists x : (A(x) \land \neg B(x))$?;; Nekateri A niso B
+<!--SR:!2024-10-15,3,250-->
 
 
 ---

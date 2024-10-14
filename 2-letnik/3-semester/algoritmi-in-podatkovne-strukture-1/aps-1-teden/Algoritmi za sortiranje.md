@@ -34,5 +34,6 @@ Nekoliko jačejši:
 #aps1-flashcards 
 
 Kdaj je algoritem stabilen?;; Če se vrstni red enakih vrednosti ohranja.
+<!--SR:!2024-10-16,4,270-->
 
 ---

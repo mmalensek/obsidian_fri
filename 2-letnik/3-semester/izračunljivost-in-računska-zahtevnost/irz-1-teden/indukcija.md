@@ -35,7 +35,10 @@ Primer:
 #irz-flashcards 
 
 $P(0)$;; Je <font color="#92cddc">osnova indukcije</font>.
+<!--SR:!2024-10-13,1,230-->
 $P(k-1)$;; Je <font color="#92cddc">induktivna hipoteza</font>.
+<!--SR:!2024-10-13,1,230-->
 $P(k-1) \rightarrow P(k)$;; Je <font color="#92cddc">induktivni korak</font>.
+<!--SR:!2024-10-16,4,270-->
 
 ---
