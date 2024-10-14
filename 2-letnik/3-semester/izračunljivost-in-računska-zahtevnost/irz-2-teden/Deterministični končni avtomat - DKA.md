@@ -40,11 +40,11 @@ Primer za $\delta(q, wa)$.
 Kako označimo končno stanje končnih avtomatov?;; S črnim krogcem
 <!--SR:!2024-10-16,4,270-->
 Kaj velja za DKA?;; Ima končno množico stanj in končno množico prehodov med stanji. Za vsak vhodni simbol in vsako stanje obstaja <font color="#92cddc">natanko en prehod</font>, eno stanje, označeno s $q_0$, je <font color="#92cddc">začetno stanje</font>, kjer DKA začne delovanje. Nekatera stanja so končna. Točke predstavljajo stanja DKA in usmerjene povezave pa prehode.
-<!--SR:!2024-10-13,1,230-->
+<!--SR:!2024-10-16,2,230-->
 Kaj je $Q$?;; Končna množica stanj.
 <!--SR:!2024-10-16,4,270-->
 Kaj je $\Sigma$?;; Vhodna abeceda.
-<!--SR:!2024-10-13,1,230-->
+<!--SR:!2024-10-15,1,210-->
 Kaj je $q_0$?;; Začetno stanje.
 <!--SR:!2024-10-16,4,270-->
 Kaj je $F$ in kaj zanj velja?;; Je množica končnih stanj in je podmnožica $Q$.
@@ -52,4 +52,4 @@ Kaj je $F$ in kaj zanj velja?;; Je množica končnih stanj in je podmnožica $Q$
 Kaj je $\delta$? Je funkcija prehodov. 
 Kaj je jezik, sprejet z DKA? je množica vseh besed, ki jih sprejme nek DKA.
 Kaj pomeni da je jezik regularen?;; Je jezik, ki ga lahko prepoznamo s končnim avtomatom.
-<!--SR:!2024-10-13,1,230-->
+<!--SR:!2024-10-16,2,230-->

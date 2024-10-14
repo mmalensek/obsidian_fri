@@ -89,7 +89,7 @@ Velja, da je $\overline{z} = 0$ in da je $\sigma_z = 1$.
 Katera dva tipa podatkov poznamo?;; Kvantitativni in kvalitativni.
 <!--SR:!2024-10-16,4,270-->
 Kaj je modus?;; To je podatek, ki se največkrat pojavi.
-<!--SR:!2024-10-13,1,230-->
+<!--SR:!2024-10-17,3,250-->
 Kaj je mediana?;; To je "srednji" podatek, če so vsi razvrščeni po vrstnem redu
 <!--SR:!2024-10-16,4,270-->
 Kaj je varianca + enačba;; Varianca je kvadrat pričakovanega odklona populacije $\sigma² = \frac{\sum_{i = 1}^{N}(x_i - \mu)²}{N}$.

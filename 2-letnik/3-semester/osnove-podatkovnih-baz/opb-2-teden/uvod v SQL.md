@@ -105,15 +105,15 @@ group by emp_no;
 ---
 
 Na kaj se deli SQL sintaksa?;; Na ukaze iz skupine DML (manipulation), DDL (definition) in sprožilce, funkcije in shranjene programe
-<!--SR:!2024-10-13,1,230-->
+<!--SR:!2024-10-17,3,250-->
 V bazi "employees" kako bi (z SQL) izpisal vse podatke o zaposlen?;; select * from employees
 <!--SR:!2024-10-16,4,270-->
 V bazi "employees" kako bi (z SQL) izpisal vse različne vrednosti nečesa?;; z distinct
 <!--SR:!2024-10-16,4,270-->
 Iskalni kriterij v SQL?;; where YEAR(birth_date)<1953 and gender = 'M'
-<!--SR:!2024-10-13,1,230-->
+<!--SR:!2024-10-16,2,230-->
 Iskalni kriterij s pogojem?;; where last_name like 'B%' and birth_date like '__6_____01'
-<!--SR:!2024-10-13,1,230-->
+<!--SR:!2024-10-17,3,250-->
 
 
 ---

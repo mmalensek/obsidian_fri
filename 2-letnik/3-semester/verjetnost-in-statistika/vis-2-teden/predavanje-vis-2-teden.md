@@ -38,7 +38,7 @@ Dogodku $A$ nasproten dogodek $\overline{A}$ imenujemo negacijo dogodka $A$, vel
 <!--SR:!2024-10-15,3,250-->
 
 Dogodka sta <font color="#92cddc">nezdružljiva</font>;; če se ne moreta zgoditi hkrati ($A \cap B = N$).
-<!--SR:!2024-10-13,1,230-->
+<!--SR:!2024-10-17,3,250-->
 
 Množico dogodkov $S = \{A_1, A_2, ..., A_n\}$ imenujemo <font color="#92cddc">popolni sistem dogodkov</font>;; če se v vsaki ponovitvi poskusa zgodi natanko eden od dogodkov iz množice $S$.
 <!--SR:!2024-10-16,4,270-->

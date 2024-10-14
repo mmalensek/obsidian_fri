@@ -9,6 +9,6 @@ $$[1, 4, 7, 8]$$
 #aps1-flashcards  
 
 Časovna zahtevnost in kako deluje insertion sort?;; Deluje, tako da ko pride do neurejenega elementa, ga postavi na pravo mesto, v najslabšem primeru $O(n²)$, najboljšem $O(n)$, v povprečju $O(n²)$.
-<!--SR:!2024-10-13,1,230-->
+<!--SR:!2024-10-17,3,250-->
 
 ---

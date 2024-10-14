@@ -1,8 +1,9 @@
 [[predavanje-irz-2-teden]]; #irz-flashcards 
 
-<font color="#b7dde8">Končni avtomat</font> je?;; je matematični model sistemov s končno mnogo stanji. 
+<font color="#b7dde8">Končni avtomat</font> je?;; je matematični model sistemov s končno mnogo stanji.
+<!--SR:!2024-10-18,4,270-->
 Kdaj je beseda sprejeta?;; Beseda je <font color="#92cddc">sprejeta</font>, če z njo pridemo do končnega stanja.
-<!--SR:!2024-10-13,1,230-->
+<!--SR:!2024-10-17,3,250-->
 
 Besede so vse <font color="#92cddc">končne</font> (po definiciji).
 
