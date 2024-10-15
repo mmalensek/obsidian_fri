@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "efe70ef3f6f79a97",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.40.17.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.40.17.excalidraw.md"
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden.md"
               }
             }
           },
@@ -142,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.40.17.excalidraw.md",
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.40.17.excalidraw.md",
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,9 +184,13 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "efe70ef3f6f79a97",
+  "active": "4f212e18a127a7cb",
   "lastOpenFiles": [
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 10.40.53.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 10.23.07.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 10.14.34.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.50.32.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.40.17.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.25.38.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.16.17.excalidraw.md",
@@ -224,10 +217,6 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/vaje-irz-2-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/vaje-vis-2-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden/Bucket ali Bin sort (radix).md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden/Bucket ali Bin sort (radix) 2024-10-11 14.47.29.excalidraw.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Counting sort.md",
     "4-imp/latex_sheet.pdf",
     "Bucket ",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden",

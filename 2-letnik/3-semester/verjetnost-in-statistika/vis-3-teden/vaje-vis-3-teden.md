@@ -22,4 +22,18 @@ Prva naloga:
 Druga naloga:
 ![[vaje-vis-3-teden 2024-10-15 09.40.17.excalidraw]]
 
+Tretja naloga:
+![[vaje-vis-3-teden 2024-10-15 09.50.32.excalidraw]]
+
+
+Četrta naloga:
+![[vaje-vis-3-teden 2024-10-15 10.14.34.excalidraw]]
+
+Peta naloga:
+![[vaje-vis-3-teden 2024-10-15 10.23.07.excalidraw]]
+
+Šesta naloga:
+![[vaje-vis-3-teden 2024-10-15 10.40.53.excalidraw]]
+
+
 ---
