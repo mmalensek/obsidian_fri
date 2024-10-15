@@ -1,7 +1,7 @@
 ### [[irz]], 2.teden, 08-10-2024
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano #flashcard
+<font color="#92cddc">Status/tags:</font> #dokončano #irz-flashcards
 
 ---
 
@@ -25,11 +25,5 @@ Najprej bomo razbili tri mite.
 ---
 
 [[Metode dokazovanja]]...
-
----
-
-<font color="#92cddc">Flashcards:</font>
-
-vprasanje;; odgovor
 
 ---

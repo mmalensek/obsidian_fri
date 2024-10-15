@@ -9,6 +9,5 @@
 
 #flashcard 
 
-vprasanje;; odgovor
 
 ---

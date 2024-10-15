@@ -11,8 +11,24 @@
             "id": "07fd60017ab8a189",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Metode dokazovanja.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44d71955139bcef7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +107,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Metode dokazovanja.md"
+              }
             }
           },
           {
@@ -124,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Metode dokazovanja.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Metode dokazovanja.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,6 +196,16 @@
   },
   "active": "07fd60017ab8a189",
   "lastOpenFiles": [
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/moč množic.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Metode dokazovanja.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/dokazovanje s protislovjem.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/indukcija.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/golobnjak.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/direktni dokaz.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/vaje-irz-2-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/vaje-vis-2-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Izjavni račun.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden/Bucket ali Bin sort (radix).md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden/Bucket ali Bin sort (radix) 2024-10-11 14.47.29.excalidraw.md",
@@ -194,22 +224,12 @@
     "4-imp/latex_sheet.pdf",
     "Bucket ",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Quick sort 2024-10-11 14.12.23.excalidraw.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Merge sort 2024-10-11 13.50.19.excalidraw.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Merge sort 2024-10-11 13.41.05.excalidraw.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Selection sort.md",
     "Untitled",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_sql.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijski_račun.pdf",
-    "5-temp/Excalidraw/relacijski_racun.excalidraw.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijska_algebra.pdf",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/preimenovanje.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/predavanje-opb-1-teden.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski podatkovni model.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/pogojna verjetnost.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/predavanje-vis-2-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/neodvisnost dogodkov.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Pasted image 20241010174536.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/Pasted image 20241010163621.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/Pasted image 20241010163558.png",
