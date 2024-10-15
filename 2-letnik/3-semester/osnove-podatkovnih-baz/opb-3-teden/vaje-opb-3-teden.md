@@ -13,4 +13,8 @@
 
 Pri ekvistiku sami definiramo, kaj je skupni atribut, pri naravnem pa je to avtomatsko.
 
+Vaje še iz [[Relacijski račun|relacijskega računa]], tu namesto postopka, opišeš kako naj bi izgledal rezultat.
+
+
+
 ---

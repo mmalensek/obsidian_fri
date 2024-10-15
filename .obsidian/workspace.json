@@ -4,57 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "213de5568d48001c",
+        "id": "e27e3c43fbad8f59",
         "type": "tabs",
         "children": [
           {
-            "id": "07fd60017ab8a189",
+            "id": "4f212e18a127a7cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/vaje-opb-2-teden.md",
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a19c858537beca27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-3-teden/vaje-opb-3-teden.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fa4e0e76edb772c",
+            "id": "efe70ef3f6f79a97",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "5-temp/Excalidraw/opb_vaje_2_3_teden.md"
-              }
-            }
-          },
-          {
-            "id": "233c0e78d99895bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/stik.md",
-                "mode": "source",
-                "source": false
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.40.17.excalidraw.md"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-temp/Excalidraw/opb_vaje_2_3_teden.md"
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.40.17.excalidraw.md"
               }
             }
           },
@@ -166,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5-temp/Excalidraw/opb_vaje_2_3_teden.md",
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.40.17.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5-temp/Excalidraw/opb_vaje_2_3_teden.md",
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.40.17.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,17 +195,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8fa4e0e76edb772c",
+  "active": "efe70ef3f6f79a97",
   "lastOpenFiles": [
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.40.17.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.25.38.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.16.17.excalidraw.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/relacijski_racun.excalidraw.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-3-teden/opb_vaje_relacijski_racun.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-3-teden/opb_vaje_relacijski_racun.pdf",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-3-teden/opb_vaje_2_3_teden.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-3-teden/opb_vaje_2_3_teden.pdf",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/vaje-opb-2-teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-3-teden/vaje-opb-3-teden.md",
-    "5-temp/Excalidraw/opb_vaje_2_3_teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/stik.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
-    "Untitled.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijska algebra.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/predavanje-opb-2-teden.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-3-teden/opb_vaje_2_3_teden.pdf",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/vaje-opb-2-teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/Pasted image 20241010074015.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-3-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Metode dokazovanja.md",
@@ -245,25 +228,18 @@
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden/Bucket ali Bin sort (radix).md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden/Bucket ali Bin sort (radix) 2024-10-11 14.47.29.excalidraw.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Counting sort.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Heap sort.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Quick sort.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Merge sort.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden/predavanje-aps1-2-teden.md",
     "4-imp/latex_sheet.pdf",
     "Bucket ",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_sql.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijski_račun.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijska_algebra.pdf",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Pasted image 20241010174536.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/Pasted image 20241010163621.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/Pasted image 20241010163558.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/Pasted image 20241010163509.png",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/boundary_stm32h750_0.png",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/boundary_stm32h750.png",
-    "2-letnik/3-semester/vgrajeni-sistemi/stm32h750_reference_manual.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009145057.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009143258.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Pasted image 20241009135029.png",
