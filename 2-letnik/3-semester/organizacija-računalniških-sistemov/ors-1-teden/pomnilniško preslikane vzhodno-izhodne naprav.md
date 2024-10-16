@@ -28,7 +28,7 @@ Malo drugačen primer, kjer bomo da bo možno tudi branje imeli 4 1-bitne besede
 - če bi pri naslovnem dekodiranju preverjali vse bite naslova;; -> <font color="#92cddc">Popolno naslovno dekodiranje</font>
 <!--SR:!2024-10-16,4,270-->
 - če preverjamo le podmnožico pri naslovnem dekodiranju;; -> <font color="#92cddc">Nepopolno naslovno dekodiranje</font>, kar je drastično zmanjša kompleksnost logike za naslovno dekodiranje, a povzroči, da je določeno območje naslovov preslikano v isti naslov, določeno število <font color="#92cddc">aliasov</font>
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-26,11,270-->
 
 [[pomnilniška slika računalnika STM32H750|Pomnilniška slika računalnika STM32H]].
 

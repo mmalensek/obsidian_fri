@@ -1,7 +1,7 @@
 ### [[opb]], 3.teden, 15-10-2024
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano #opb-flashcards 
+<font color="#92cddc">Status/tags:</font> #dokončano #opb-flashcards 
 
 ---
 
@@ -15,6 +15,6 @@ Pri ekvistiku sami definiramo, kaj je skupni atribut, pri naravnem pa je to avto
 
 Vaje še iz [[Relacijski račun|relacijskega računa]], tu namesto postopka, opišeš kako naj bi izgledal rezultat.
 
-
+[[opb_vaje_relacijski_racun]]
 
 ---

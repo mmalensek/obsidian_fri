@@ -1,7 +1,7 @@
 [[Končni avtomat]]; #irz-flashcards
 
 Kako lahko dobimo NKA?;; dobimo iz DKA če dopustimo *nič*, enega ali celo *več* prehodov iz kakega stanja pri <font color="#92cddc">istem vhodnem simbolu</font>.
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-26,11,270-->
 
 npr. ![[Pasted image 20241009143258.png]]
 NKA <font color="#92cddc">sprejme</font> vhodno besedo $x = a_1a_2 ... a_n$, če obstaja (vsaj eno) zaporedje prehodov, označeno z $a_1a_2 ... a_n$, ki vodi iz začetnega stanja v katerokoli končno stanje.
@@ -33,7 +33,7 @@ Jezik, sprejet z NKA $M$ je množica $L(M)$ vseh besed, ki jih sprejme $M$: $$L(
 
 ---
 Kdaj NKA sprejme besedo?;; Če obstaja vsaj eno zaporedje, ki vodi iz začetnega v katerokoli končno stanje.
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-26,11,270-->
 Zakaj je NKA nedeterminističen?;; Ker ima na voljo več opcij in sam "izbira", pravilne možnosti, da pride do končnih stanj, kar je nerealistično, a vseeno uporabno.
 <!--SR:!2024-10-16,4,270-->
 Zakaj je NKA vseeno uporaben?;; Ker nam vseeno pove, v kakšnem minimalnem času so problemi rešljivi in iz njih lahko lažje sestavimo DKA.

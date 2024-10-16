@@ -11,7 +11,7 @@ Hočemo onemogočiti dostop do skladovnega kazalca operacijskega sistema. Proces
 <!--SR:!2024-10-16,2,230-->
 
 Kako sploh obstajata <font color="#92cddc">dva skladovna kazalca</font>?;; Tako, da uporabimo en multiplekser, ki deli na ===Main stack pointer=== in ===Program stack pointer===.
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-23,8,250-->
 
 Hočemo pa ločiti sklada že zaradi stabilnosti operacijskega sistema, tako da ga ne more "slab" program skreširat.
 

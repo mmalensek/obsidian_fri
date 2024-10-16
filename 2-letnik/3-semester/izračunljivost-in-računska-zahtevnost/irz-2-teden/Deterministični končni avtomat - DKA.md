@@ -44,11 +44,11 @@ Kaj velja za DKA?;; Ima končno množico stanj in končno množico prehodov med 
 Kaj je $Q$?;; Končna množica stanj.
 <!--SR:!2024-10-16,4,270-->
 Kaj je $\Sigma$?;; Vhodna abeceda.
-<!--SR:!2024-10-15,1,210-->
+<!--SR:!2024-10-16,1,190-->
 Kaj je $q_0$?;; Začetno stanje.
 <!--SR:!2024-10-16,4,270-->
 Kaj je $F$ in kaj zanj velja?;; Je množica končnih stanj in je podmnožica $Q$.
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-26,11,270-->
 Kaj je $\delta$? Je funkcija prehodov. 
 Kaj je jezik, sprejet z DKA? je množica vseh besed, ki jih sprejme nek DKA.
 Kaj pomeni da je jezik regularen?;; Je jezik, ki ga lahko prepoznamo s končnim avtomatom.

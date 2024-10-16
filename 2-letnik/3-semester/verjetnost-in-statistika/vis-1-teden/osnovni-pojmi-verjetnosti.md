@@ -56,7 +56,7 @@ Ponovi tudi [[Binomski simbol]]!
 ### Flashcards:
 
 Kaj mora veljati za množico vseh izidov nekega slučajnega poskusa $\Omega = \{w_1, w_2, ..., w_n\}$?;; Mora veljati da so $w_1, w_2, ..., w_n$ elementarni izidi in so vsi enako verjetni
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-26,11,270-->
 
 Kakšna je enačba za verjetnost slučajnega dogodka?;; $P(A) = \frac{k}{n}$
 <!--SR:!2024-10-16,4,270-->

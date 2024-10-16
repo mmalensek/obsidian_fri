@@ -8,7 +8,7 @@
 ### Vsebina:
 
 Kaj je <font color="#92cddc">dogodek</font>?;; Nek pojav, ki se lahko v danem poskusu ali zgodi ali pa ne.
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-26,11,270-->
 Kaj je <font color="#92cddc">poskus</font>?;; Vsako dejanje ki ga opravimo pod nekimi določenimi pogoji.
 <!--SR:!2024-10-16,4,270-->
 
@@ -24,18 +24,18 @@ Vsota dogodkov ($A + B = A \cup B$), velja:
 - $A \cup B = B \cup A$,
 - $A \cup N = A$
 - Kaj velja za vsoto dogodkov?;; ![[Pasted image 20241010163509.png]]
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-23,8,250-->
 
 Produkt dogodkov označimo z $A \cap B$ ali $AB$, se zgodi če se $A$ in $B$ zgodita hkrati.
 - Kaj velja za produkt dogodkov?;; ![[Pasted image 20241010163558.png]]
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-23,8,250-->
 
 Dogodku $A$ nasproten dogodek $\overline{A}$ imenujemo negacijo dogodka $A$, velja:
 - $A\cap \overline{A} = N$,
 - $A\cup \overline{A} = G$,
 - $\overline{A\cap B} = \overline{A} \cup \overline{B}$, <- deMorganov zakon
 - Kaj velja za nasprotne dogodke?;; ![[Pasted image 20241010163621.png]]
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-23,8,250-->
 
 Dogodka sta <font color="#92cddc">nezdružljiva</font>;; če se ne moreta zgoditi hkrati ($A \cap B = N$).
 <!--SR:!2024-10-17,3,250-->

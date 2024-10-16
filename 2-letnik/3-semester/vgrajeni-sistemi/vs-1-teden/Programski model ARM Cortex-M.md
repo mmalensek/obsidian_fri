@@ -38,4 +38,4 @@ Te <font color="#92cddc">ne morejo</font> biti operandi za AL, Load/Store in bra
 
 ---
 Katere registre ima procesor poleg prvih šestnajst (general-purpose)?;; Ima tudi 5 drugih posebnih kontrolnih registrov, ki določajo kontekst programa.
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-23,8,250-->

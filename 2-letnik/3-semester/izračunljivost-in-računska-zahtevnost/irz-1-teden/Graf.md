@@ -34,6 +34,6 @@ npr: $1 \rightarrow 2 \rightarrow 3 \rightarrow 4$ je pot iz $1$ v $4$. Tu je $3
 Kdaj je točka grafa list?;; Ko nima sinov.
 <!--SR:!2024-10-16,4,270-->
 Kaj je koren grafa?;; To je natanko ena točka grafa, ki nima prednikov in iz katere obstaja pot do vsake točke grafa.
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-23,8,250-->
 
 ---

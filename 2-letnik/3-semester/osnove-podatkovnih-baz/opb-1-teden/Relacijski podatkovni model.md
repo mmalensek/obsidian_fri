@@ -3,13 +3,13 @@
 ---
 
 <font color="#92cddc">Relacija</font>;; dvodimenzionalna tabela s stolpci in vrsticami, je <font color="#92cddc">logična struktura</font> podatkovne baze in ne fizična.
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-23,8,250-->
 
 <font color="#92cddc">Atribut</font>;; poimenovan stolpec relacije
 <!--SR:!2024-10-16,4,270-->
 
 <font color="#92cddc">Domena</font>;; množica dovoljenih vrednosti enega ali več atributov npr. domena za EMŠO je število (13 cifer)
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-26,11,270-->
 
 <font color="#92cddc">N-terica</font>;; je ena vrstica v relaciji
 <!--SR:!2024-10-16,4,270-->
@@ -18,13 +18,13 @@
 <!--SR:!2024-10-17,3,250-->
 
 <font color="#92cddc">Stopnja relacije</font>;; število atributov v relaciji
-<!--SR:!2024-10-15,1,210-->
+<!--SR:!2024-10-18,3,230-->
 
 <font color="#92cddc">Relacijska podatkovna baza</font>;; množica normaliziranih relacij z enoličnimi imeni
-<!--SR:!2024-10-15,1,210-->
+<!--SR:!2024-10-16,1,190-->
 
 Zakaj pravimo da je relacija <font color="#92cddc">podmnožica</font> kartezičnega produkta vseh atributov? ($r \subset x_1 \times x_2 \times ...$);; Ker s kartezičnim produktom vseh atributov, generiramo veliko več variacij relacij, kot jih pa je npr. v neki podatkovni bazi.
-<!--SR:!2024-10-15,3,250-->
+<!--SR:!2024-10-26,11,270-->
 
 | <font color="#92cddc">Ime</font> | <font color="#92cddc">Starost (leta)</font> | <font color="#92cddc">Teža (kg)</font> |
 | -------------------------------- | ------------------------------------------- | -------------------------------------- |
