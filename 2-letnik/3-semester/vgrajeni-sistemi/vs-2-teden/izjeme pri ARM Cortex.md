@@ -16,14 +16,20 @@ Kako se reče tej trdožičeni logiki shranjevanja konteksta prekinjenega progra
 Ko se PC shrani na sklad se začne <font color="#92cddc">prevzem naslova PSP</font>:
 - PC <- M[4x številka prekinitvenega vektorja] *M - velikost pomnilniške besede
 - CPE to dobi od ...
-- LR <- vstavimo EXC_RETURN (glede na to v kerem modu smo)
+- LR <- vstavimo <font color="#92cddc">EXC_RETURN</font> (exception return - glede na to v kerem modu smo)
+
+Nima posebnega ukaza za vračanje PSP-ja, zato se iz LR vstavi v programski števec, kako pol naj računalnik naredi <font color="#92cddc">"destacking"</font>? Prebere naslov, kjer naj ne bi bilo programa (zadnji naslov v pomnilniku npr.). 
 
 Nato pa se <font color="#92cddc">začne izvajanje PSP</font> - prekinitveno servisni program.
 
-Vsi podprogrami (navadni in prekinitveni) se zaključijo z ukazom (ret), ki v PC <- r14(LR), (v primeru <font color="#ff0000">prekinitev</font>) kjer bo LR s samimi enicami, procesorju povedal da potrebuje narediti <font color="#92cddc">hardware destacking</font> ozr. EXC_RETURN (exceptional return). 
+Vsi podprogrami (navadni in prekinitveni) se zaključijo z ukazom (ret), ki v PC <- r14(LR), (v primeru <font color="#ff0000">prekinitev</font>) kjer bo LR s samimi enicami, procesorju povedal da potrebuje narediti <font color="#92cddc">hardware destacking</font> ozr. EXC_RETURN (exceptional return).
+
+
 
 ---
 
 #vs-flashcards 
+
+Kako pride do hardware destacking-a?;; Vsi podprogrami se zaključijo z ukazom, ki je v r14(LR), v primeru prekinitve bo LR iz samih enic, to procesorju pove, da potrebuje narediti hardware destacking. 
 
 ---
