@@ -24,6 +24,8 @@ Kdaj povezava $\frac{q_i \rightarrow q_j}{a}$ obstaja?;; če DKA lahko preide iz
 - $F \subseteq Q$ množica končnih stanj,
 - $\delta$ funkcija prehodov, $\delta : Q \times \Sigma \rightarrow Q$. (stanje v katerega DKA, preide iz stanja $q$ če prebere $a$).
 
+$\delta$ je (definiran za?);; <font color="#92cddc">totalna</font>, pomeni da mora biti definirana za čisto vsak par.
+
 Če je $\delta(q,a)$ končno stanje, pravimo, da je DKA <font color="#92cddc">sprejel</font> predpono vhodne besede vključno do prebranega $a$. Lahko sprejme več predpon vhodne besede.
 
 $\delta$ razširimo, da je lahko njen drugi argument <font color="#92cddc">niz simbolov</font> (ne le en simbol). 
