@@ -14,4 +14,7 @@ $\delta$ razširimo tako, da je lahko njen drugi argument niz simbolov (tudi pra
 
 Sedaj ne velja več v splošnem $NKA \ s \ tihimi\ prehodi \ \rightarrow \delta(q,a) \neq \delta(q,a) \leftarrow NKA$.
 
+$NKA_\varepsilon \ M = (Q, \Sigma, \delta, q_0, F)$ sprejme besedo $x$, če;; $\delta(q_0, x)$ vsebuje kako končno stanje $p \in F$. Jezik, sprejet z $NKA_\varepsilon \ M$ je množica $L(M)$ vseh besed, ki jih sprejme M.
+
+Jezik sprejet z $NKA_\varepsilon$;; je <font color="#92cddc">enak</font> razredu jezikov, sprejetih z $NKA$.
  

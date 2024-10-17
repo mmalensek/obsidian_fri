@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "predavanje-irz-3-teden.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/predavanje-irz-3-teden.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e203f40ae8a665b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/Regularni izrazi.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +37,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Končni avtomati s tihimi prehodi.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/Končni avtomati s tihimi prehodi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87dbc83a549e163e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Formalni jezik.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,14 +66,12 @@
             }
           },
           {
-            "id": "87dbc83a549e163e",
+            "id": "79cf3227f4862f0a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Deterministični končni avtomat - DKA.md",
-                "mode": "source",
-                "source": false
+                "file": "4-imp/latex_sheet.pdf"
               }
             }
           }
@@ -131,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Končni avtomati s tihimi prehodi.md"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/Regularni izrazi.md"
               }
             }
           },
@@ -165,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Končni avtomati s tihimi prehodi.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/Regularni izrazi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Končni avtomati s tihimi prehodi.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/Regularni izrazi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,13 +239,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "788ebf7e072bd889",
+  "active": "2e203f40ae8a665b",
   "lastOpenFiles": [
+    "4-imp/latex_sheet.pdf",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/Regularni izrazi.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Formalni jezik.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Deterministični končni avtomat - DKA.md",
-    "Končni avtomati s tihimi prehodi.md",
-    "Pasted image 20241016134541.png",
-    "predavanje-irz-3-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/Končni avtomati s tihimi prehodi.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/predavanje-irz-3-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/Pasted image 20241016134541.png",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-3-teden/Razvrščevalnik opravil.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-3-teden/predavanje-vs-3-teden.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/izjeme pri ARM Cortex.md",
@@ -246,14 +271,11 @@
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.50.32.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.40.17.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.25.38.excalidraw.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.16.17.excalidraw.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/relacijski_racun.excalidraw.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-3-teden/opb_vaje_relacijski_racun.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-3-teden/opb_vaje_2_3_teden.pdf",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/Pasted image 20241010074015.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-3-teden",
-    "4-imp/latex_sheet.pdf",
     "Bucket ",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-2-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/Pasted image 20241010174536.png",

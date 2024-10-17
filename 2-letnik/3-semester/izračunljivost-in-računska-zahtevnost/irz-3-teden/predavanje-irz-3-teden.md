@@ -13,4 +13,6 @@ Ali <font color="#92cddc">obstaja neregularni jezik</font>, ki ga sprejme NKA?;;
 
 [[Končni avtomati s tihimi prehodi]].
 
+[[Regularni izrazi]].
+
 ---
