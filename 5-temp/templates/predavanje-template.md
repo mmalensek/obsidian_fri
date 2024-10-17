@@ -10,9 +10,3 @@
 
 
 ---
-
-<font color="#92cddc">Flashcards:</font>
-
-vprasanje;; odgovor
-
----
