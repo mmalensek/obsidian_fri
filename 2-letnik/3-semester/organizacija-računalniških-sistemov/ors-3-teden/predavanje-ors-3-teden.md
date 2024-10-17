@@ -7,6 +7,6 @@
 
 ### Vsebina:
 
-
+[[Past|Pasti]] in [[Prekinitve|prekinitve]].
 
 ---
