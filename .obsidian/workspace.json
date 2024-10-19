@@ -132,8 +132,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -183,12 +183,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "b0c3d239bb5607ee",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ce80dced60099c8e",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -198,7 +208,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -218,7 +228,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ddbe27268128eabb",
+  "active": "ce80dced60099c8e",
   "lastOpenFiles": [
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/predavanje-aps1-3-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Heap.md",
