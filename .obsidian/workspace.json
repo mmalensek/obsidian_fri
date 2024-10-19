@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fe90fb810f48c569",
+        "id": "7424e25f766d47da",
         "type": "tabs",
         "children": [
           {
-            "id": "be59af71171fac78",
+            "id": "ddbe27268128eabb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Abstraktni podatkovni tipi.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Abstraktni podatkovni tipi"
+              "title": "New tab"
             }
           }
         ]
@@ -105,11 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Abstraktni podatkovni tipi.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of Abstraktni podatkovni tipi"
+              "title": "Outline"
             }
           },
           {
@@ -166,12 +160,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Abstraktni podatkovni tipi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Abstraktni podatkovni tipi"
+              "title": "Outgoing links"
             }
           },
           {
@@ -225,11 +218,26 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "be59af71171fac78",
+  "active": "ddbe27268128eabb",
   "lastOpenFiles": [
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/predavanje-aps1-3-teden.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Podatkovne strukture.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Heap.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Abstraktni podatkovni tipi.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Priority Queue.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Dynamic Array.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Queue.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/List.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Stack.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Array.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018141842.png",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018135134.png",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018134032.png",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018133118.png",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018131735.png",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018131710.png",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018131628.png",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018131610.png",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Podatkovne strukture.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Problem vstavljanja.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/Bernoullijevo zaporedje neodvisnih dogodkov.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/predavanje-vis-3-teden.md",
@@ -246,28 +254,12 @@
     "2-letnik/3-semester/vgrajeni-sistemi/vs-3-teden/predavanje-vs-3-teden.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-3-teden/Razvrščevalnik opravil.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/izjeme pri ARM Cortex.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018141842.png",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018135134.png",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018134032.png",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018133118.png",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018131735.png",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018131710.png",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018131628.png",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018131610.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/bisekcija.gif",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_skripta.pdf",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/Pasted image 20241017170128.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/predavanje-vis-2-teden.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve 2024-10-17 12.25.29.excalidraw.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve 2024-10-17 12.01.59.excalidraw.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve 2024-10-17 11.59.35.excalidraw.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve 2024-10-17 11.20.05.excalidraw.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve 2024-10-17 10.51.51.excalidraw.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve 2024-10-17 10.42.33.excalidraw.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/načini delovanja CPE.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/predavanje-vs-2-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-3-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-3-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden",
