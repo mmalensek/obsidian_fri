@@ -1,7 +1,7 @@
 [[predavanje-irz-3-teden]]; #irz-flashcards 
 
-Definicijo NKA razširimo tako, da ji dodamo sposobnost <font color="#92cddc">spontanega prehajanja</font> med stanji, tj. prehajanja v nova stanja, ne da bi NKA pri tem prebral simbol v oknu, temu rečemo <font color="#92cddc">tihi prehod</font> ($\varepsilon$-prehod). Primer: ![[Pasted image 20241016134541.png]]
-Tak avtomat sprejme besedo $x$, če obstaja pot, označena z $x$ iz $q_0$ v $q_2$, kjer so $\varepsilon$ lahko sestavni del te poti, če tudi $\varepsilon$ ni eksplicitno naveden v $x$. (npr. $x = ab = \varepsilon a \varepsilon b \varepsilon$).
+Kako definiramo $NKA_\varepsilon$?;; Definicijo NKA razširimo tako, da ji dodamo sposobnost <font color="#92cddc">spontanega prehajanja</font> med stanji, tj. prehajanja v nova stanja, ne da bi NKA pri tem prebral simbol v oknu, temu rečemo <font color="#92cddc">tihi prehod</font> ($\varepsilon$-prehod). Primer: ![[Pasted image 20241016134541.png]]
+Kdaj $NKA_\varepsilon$ sprejme besedo $x$?;; Če obstaja pot, označena z $x$ iz $q_0$ v $q_2$, kjer so $\varepsilon$ lahko sestavni del te poti, če tudi $\varepsilon$ ni eksplicitno naveden v $x$. (npr. $x = ab = \varepsilon a \varepsilon b \varepsilon$).
 
 <font color="#92cddc">Definicija</font>: NKA s tihimi prehodi ($NKA_\varepsilon$):
 - $Q$ končna množica stanj,
