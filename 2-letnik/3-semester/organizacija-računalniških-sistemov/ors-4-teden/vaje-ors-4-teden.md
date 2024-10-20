@@ -1,7 +1,7 @@
 ### [[ors]], 4.teden, 20-10-2024
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano #ors-flashcards
+<font color="#92cddc">Status/tags:</font> #dokončano #ors-flashcards
 
 ---
 
@@ -31,6 +31,6 @@ Rezervirana beseda <font color="#92cddc">volatile</font>?;; Ta prevajalniku pove
 volatile uint32_t *p = (volatile uint32_t *) REG_A;
 ```
 
-[[GPIO]].
+[[GPIO]] + STM vaja 4.
 
 ---
