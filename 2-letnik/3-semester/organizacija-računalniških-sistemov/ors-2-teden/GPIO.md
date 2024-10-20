@@ -10,3 +10,4 @@ Običajno pa so 16-bitni, tudi 32-bitni (vsak GPIO ima tudi toliko pinov kot je 
 
 Na podlagi dokumentacije tudi vemo kakšen je offset od lokacije GPIO.
 Tako dobimo naslov.
+
