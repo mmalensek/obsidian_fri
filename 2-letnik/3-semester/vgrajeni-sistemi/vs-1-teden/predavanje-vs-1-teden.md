@@ -28,11 +28,11 @@ Kako lahko računalnik <font color="#92cddc">hkrati</font> upravlja motor in hkr
 <font color="#92cddc">Flashcards:</font>
 
 Katera dva načina programiranja embedded sistemov poznamo?;; "super" loop in RTOS
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 Na kaj vpliva arhitektura procesorja?;; Na vrste ukazov, tipe podatkov, s katerimi dela in ali zna delati s skladom (problematično glede cevovoda).
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 Kaj je past?;; Poseben ukaz, ki spremeni PC na vrednost "trap handlerja" in se izvede v primeru neveljavnega ukaza.
-<!--SR:!2024-10-17,3,250-->
+<!--SR:!2024-10-27,8,250-->
 Kaj je prekinitev?;; Povzroči jo nek zunanji dogodek (npr. signal miške), ki omogoča delovanje "interrupt handlerja" in s tem branje iz V/I naprav npr.
 <!--SR:!2024-10-23,8,250-->
 

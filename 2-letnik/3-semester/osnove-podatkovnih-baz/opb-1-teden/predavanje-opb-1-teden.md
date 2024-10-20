@@ -32,7 +32,7 @@ Posebnost - <font color="#92cddc">oznaka "null"</font>:
 <font color="#92cddc">Pogledi</font> - prilagojen dostop za uporabnike, iste relacije vidne na različne načine, če tudi ni nujno, da takšen pogled izraža dejansko sestavo baze.
 
 Ali lahko spreminjamo podatke v pogledu? ;; <font color="#92cddc">Samo če</font> pogled zavzame vse obvezne atribute.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 ---
 

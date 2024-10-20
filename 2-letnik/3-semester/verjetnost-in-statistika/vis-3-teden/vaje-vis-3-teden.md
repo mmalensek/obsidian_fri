@@ -16,7 +16,7 @@ Dogodki $H_1, H_2, ..., H_n$ tvorijo popolni sistem dogodkov, če ...
 
 
 <font color="#92cddc">Bayesova formula</font> (navadna pogojna verjetnost) Če $H_1, H_2,..., H_n$ tvorijo popoln sistem dogodkov, potem velja;; $$P(H_i|A) =\frac{P(H_i)P(A|H_i)}{P(A)}$$
-<!--SR:!2024-10-16,1,230-->
+<!--SR:!2024-10-21,2,230-->
 Prva naloga:
 ![[vaje-vis-3-teden 2024-10-15 09.25.38.excalidraw]]
 

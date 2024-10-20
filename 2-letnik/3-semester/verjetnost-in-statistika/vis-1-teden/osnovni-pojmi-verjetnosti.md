@@ -59,12 +59,12 @@ Kaj mora veljati za množico vseh izidov nekega slučajnega poskusa $\Omega = \{
 <!--SR:!2024-10-26,11,270-->
 
 Kakšna je enačba za verjetnost slučajnega dogodka?;; $P(A) = \frac{k}{n}$
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 Kaj predstavlja binomski simbol $\binom{n}{k}$?;; Predstavlja število načinov na katere lahko izmed $n$ predmetov izberemo $k$ predmetov, ne glede na vrstni red.
-<!--SR:!2024-10-17,3,250-->
+<!--SR:!2024-10-30,11,270-->
 
 Meče se kocka dokler ni enaka 6, a največ 3-krat, kolikšna je verjetnost uspešnega poskusa?;; $P(A) = \frac{1}{6} + \frac{5 \cdot 1}{6^2} + \frac{5 \cdot 5 \cdot 1}{6^3} = \frac{91}{216}$
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-10-30,11,270-->
 
 ---

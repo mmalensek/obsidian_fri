@@ -2,7 +2,7 @@
 [[Programski model ARM Cortex-M]];
 
 Na kaj delimo delovanje CPE?;; Delimo na <font color="#92cddc">THREAD (NEpriviligirani)</font> in <font color="#92cddc">HANDLER (ali priviligirani način)</font> mode.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 Thread:
 - uporablja Process Stack Pointer (PSP)
@@ -13,7 +13,7 @@ Handler:
 - delujejo prekinitveni servisni programi
 
 Kako prehajamo iz threada in handler modea?;; Iz thread v handler način se preide lahko z <font color="#92cddc">izjemo</font> ([[Prekinitve|prekinitev]] ali [[Past|past]]), v tem primeru vedno shranimo kontekst, prekinjenega programa. Procesor avtomatično spremenil dva bita v Control registru. Nazaj pa se vračamo z <font color="#92cddc">Exception return</font> in hkrati obnovimo kontekst.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-10-30,11,270-->
 
 
 ---
@@ -21,9 +21,9 @@ Kako prehajamo iz threada in handler modea?;; Iz thread v handler način se prei
 #vs-flashcards
 
 Kaj se izvaja v Thread načinu delovanja CPE?;; Vsa koda, ki ni del operacijskega sistema.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 Kaj se izvaja v Handler načinu delovanja CPE?;; Delujejo prekinitveni servisni programi.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-10-30,11,270-->
 
 ---
 

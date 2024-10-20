@@ -12,6 +12,6 @@ Določa stanje programa v nekem trenutku, zgornji štirje biti (31-28), hranijo 
 #vs-flashcards 
 
 Kaj določa program status register in katere zastavice ima?;; Določa stanje programa v nekem trenutki, vsebuje štiri zastavice, N - negative, Z - kadar je rezultat enak 0, V kadar pride do preliva in C kadar pride do prenosa.
-<!--SR:!2024-10-17,3,250-->
+<!--SR:!2024-10-30,11,270-->
 
 ---

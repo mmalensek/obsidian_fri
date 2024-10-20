@@ -4,7 +4,7 @@
 Neka serija argumentov, kjer zaupamo korakom. Medtem, ko je <font color="#92cddc">definicija</font> - nek dogovor, nek stavek, ki definira nek kontekst, <font color="#92cddc">izrek</font> pa je neka trditev, ki jo dokažemo.
 
 Kaj pa je <font color="#92cddc">lema</font>?;; Je izrek, ki ni zanimiv ali pomemben sam po sebi, ampak nam nekaj omogoča ozr. pomaga pri izpeljavi.
-<!--SR:!2024-10-18,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 Načinov dokazovanja je ogromno.
 

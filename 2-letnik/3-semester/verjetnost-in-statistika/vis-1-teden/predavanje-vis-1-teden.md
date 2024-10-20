@@ -53,21 +53,21 @@ $$\frac{\sum_{i = 1}^{N}x_i}{N} = \overline{x}$$
 
 <font color="#92cddc">Sredine</font>:
 - [[aritmetična sredina]];; $A_n = \frac{a_1, a_2, ..., a_n}{n}$ ; primerna za podatke, ki so enakomerno porazdeljeni, saj je zelo občutljiva na ekstremne primere.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 - [[geometrična sredina]];; $G_n = \sqrt[n]{a_1\cdot ... \cdot a_n}$ ; bolj uporabna, ko so vrednosti odvisna druga od druge in ko je treba poudariti multiplikativne spremembe.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 - [[harmonična sredina]];; $H_n = \frac{n}{\frac{1}{a_1}+...+\frac{1}{a_n}}$ ; nanjo bolj vplivajo manjše vrednosti, je najboljša za razmerja.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 - [[kvadratna sredina]];; $K_n = \sqrt{\frac{a_1²+ ... + a_n²}{n}}$ ; nanjo bolj vplivajo, večje spremembe in dobro prikazuje odklone.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 - npr. za $n = 2$ velja: $H_2 \leq G_2 \leq A_2 \leq K_2$
 
 - [[potenčna sredina]];; $P_{n, k} = \sqrt[k]{\frac{a_1^k + ... + a_n^k}{n}}$
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 ---
 
@@ -87,14 +87,14 @@ Velja, da je $\overline{z} = 0$ in da je $\sigma_z = 1$.
 <font color="#92cddc">Flashcards:</font>
 
 Katera dva tipa podatkov poznamo?;; Kvantitativni in kvalitativni.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 Kaj je modus?;; To je podatek, ki se največkrat pojavi.
-<!--SR:!2024-10-17,3,250-->
+<!--SR:!2024-10-30,11,270-->
 Kaj je mediana?;; To je "srednji" podatek, če so vsi razvrščeni po vrstnem redu
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 Kaj je varianca + enačba;; Varianca je kvadrat pričakovanega odklona populacije $\sigma² = \frac{\sum_{i = 1}^{N}(x_i - \mu)²}{N}$.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 Kaj je standardni odklon?;; Je pozitivno predznačen koren variance.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 ---

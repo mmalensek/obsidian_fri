@@ -13,6 +13,6 @@ Primer:
 #opb-flashcards 
 
 Kaj vrne selekcija ($\sigma$)$?;; Vrne relacijo, ki vsebuje samo tiste n-terice iz relacije R, ki zadoščajo nekemu pogoju.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 ---

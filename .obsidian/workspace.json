@@ -16,8 +16,19 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
+          },
+          {
+            "id": "f0f81219298c3b89",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,9 +217,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "8ff268882022070d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -228,7 +249,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ce80dced60099c8e",
+  "active": "8ff268882022070d",
   "lastOpenFiles": [
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/predavanje-aps1-3-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Heap.md",

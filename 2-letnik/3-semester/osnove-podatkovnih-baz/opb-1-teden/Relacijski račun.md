@@ -23,8 +23,8 @@ Poznamo dve vrsti relacijskega računa:
 ---
 
 Katere vrste relacijskega računa predstavlja $\{A \mid Artikel(A) \land A.zaloga < 3\}$ in kaj pomeni?;; Predstavlja n-terični relacijski račun in nam predstavi vse artikle, ki imajo zalogo manjšo od tri.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 Katere vrste relacijskega računa predstavlja $\{hName \mid \exists (hNo, hAddress) (Hotel(hNo, hName, hAddress) \land hAddress = \ 'Ljubljana')\}$ in kaj nam pove?;; Izpiše nam nazive hotelov v Ljubljani in predstavlja domenski relacijski račun.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 ---

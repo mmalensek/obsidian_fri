@@ -23,6 +23,6 @@ Za implementacijo pomnilnika so značilni D flip flopi.
 #ors-flashcards 
 
 Kaj je značilno za pomnilniško celico (iz česa je zgrajena)?;; Iz D flip flopa.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 ---

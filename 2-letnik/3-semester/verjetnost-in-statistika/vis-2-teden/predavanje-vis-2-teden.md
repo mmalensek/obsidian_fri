@@ -10,12 +10,12 @@
 Kaj je <font color="#92cddc">dogodek</font>?;; Nek pojav, ki se lahko v danem poskusu ali zgodi ali pa ne.
 <!--SR:!2024-10-26,11,270-->
 Kaj je <font color="#92cddc">poskus</font>?;; Vsako dejanje ki ga opravimo pod nekimi določenimi pogoji.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 Dogodek je <font color="#92cddc">nemogoč</font> - $N$;; če se nikoli ne zgodi.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 Dogodek je gotov - $G$;; če se vedno zgodi.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 #### Računanje z dogodki:
 Dogodek je <font color="#92cddc">poddogodek</font> ali način dogodka B ($A \subset B$). Dogodka sta enaka če sta hkrati drug drugemu poddogodka.
@@ -38,10 +38,10 @@ Dogodku $A$ nasproten dogodek $\overline{A}$ imenujemo negacijo dogodka $A$, vel
 <!--SR:!2024-10-23,8,250-->
 
 Dogodka sta <font color="#92cddc">nezdružljiva</font>;; če se ne moreta zgoditi hkrati ($A \cap B = N$).
-<!--SR:!2024-10-17,3,250-->
+<!--SR:!2024-10-30,11,270-->
 
 Množico dogodkov $S = \{A_1, A_2, ..., A_n\}$ imenujemo <font color="#92cddc">popolni sistem dogodkov</font>;; če se v vsaki ponovitvi poskusa zgodi natanko eden od dogodkov iz množice $S$.
-<!--SR:!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290-->
 
 Kar pomeni, da so <font color="#92cddc">vsi mogoči</font>, so <font color="#92cddc">paroma nezdružljivi</font> in njihova <font color="#92cddc">vsota</font> je gotov dogodek.
 

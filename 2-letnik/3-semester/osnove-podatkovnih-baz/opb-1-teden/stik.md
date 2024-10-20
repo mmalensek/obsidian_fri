@@ -10,4 +10,4 @@ Obstaja več vrst stičnih operacij:
 		- npr: ![[Pasted image 20241008161958.png]]
 	<font color="#92cddc">- Delni stik</font>;; tisti, ki vsebuje tiste n-terice relacije $R$, ki nastopajo v stiku z relacijo $S$ po stolpcu $F$.
 		- npr: ![[Pasted image 20241008162056.png]]
-<!--SR:!2024-10-16,4,270!2024-10-16,4,270-->
+<!--SR:!2024-11-03,15,290!2024-11-03,15,290-->

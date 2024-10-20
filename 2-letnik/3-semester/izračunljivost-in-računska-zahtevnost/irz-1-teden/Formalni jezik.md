@@ -41,6 +41,6 @@ npr: če je $\Sigma = \{a\}$, potem je $\Sigma^* = \{\varepsilon, a, aa, aaa, ..
 #irz-flashcards 
 
 Kaj je formalni jezik?;; To je množica nekaterih besed, ki jih sestavljajo simboli določene abecede.
-<!--SR:!2024-10-16,1,190-->
+<!--SR:!2024-10-20,1,170-->
 
 ---
