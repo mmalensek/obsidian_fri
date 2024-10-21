@@ -1,7 +1,7 @@
 ### [[vis]], 2.teden, 10-10-2024
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano #vis-flashcards
+<font color="#92cddc">Status/tags:</font> #dokončano #vis-flashcards
 
 ---
 

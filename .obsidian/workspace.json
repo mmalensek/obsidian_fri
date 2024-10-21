@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "508b71e460c88fbe",
+        "id": "0a3aaf9016ec0eec",
         "type": "tabs",
         "children": [
           {
-            "id": "3067d433c42cbe93",
+            "id": "43a90c69e936ece8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -213,8 +213,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -226,9 +226,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "8c5f66d84ac63fa7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "horizontal",
@@ -248,8 +258,16 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "b81177fa0b432ffa",
+  "active": "8c5f66d84ac63fa7",
   "lastOpenFiles": [
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.25.38.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/predavanje-vis-3-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/predavanje-vis-2-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/neodvisnost dogodkov.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/vaje-vis-2-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/predavanje-vis-1-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/osnovni-pojmi-verjetnosti.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-4-teden/vaje-ors-4-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-4-teden",
@@ -273,20 +291,12 @@
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Podatkovne strukture.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Problem vstavljanja.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/Bernoullijevo zaporedje neodvisnih dogodkov.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/predavanje-vis-3-teden.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-3-teden/predavanje-ors-3-teden.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Past.md",
     "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/predavanje-irz-3-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/Regularni izrazi.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/Končni avtomati s tihimi prehodi.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-3-teden/predavanje-vs-3-teden.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-3-teden/Razvrščevalnik opravil.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/izjeme pri ARM Cortex.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/bisekcija.gif",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_skripta.pdf",

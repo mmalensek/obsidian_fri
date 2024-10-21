@@ -49,8 +49,6 @@ Ponovi tudi [[Binomski simbol]]!
 	$$P(A) = \frac{\binom{6}{1}\binom{5}{2}}{\binom{11}{3}} = \frac{4}{11}$$
 4) meče se kocka dokler ni enaka 6, a največ 3-krat, kolikšna je verjetnost uspešnega poskusa?
 	$$P(A) = \frac{1}{6} + \frac{5 \cdot 1}{6^2} + \frac{5 \cdot 5 \cdot 1}{6^3} = \frac{91}{216}$$
-6) napiši še to
-	bla
 ---
 
 ### Flashcards:
