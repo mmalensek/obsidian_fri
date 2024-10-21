@@ -5,7 +5,7 @@ Možnost procesorja, da ustavi trenutni program in namesto tega izvede prekinitv
 [[Past|Pasti]] in [[Prekinitve|prekinitve]].
 
 Kaj se v CPE <font color="#92cddc">zgodi</font>, ko se <font color="#92cddc">proži izjema</font>?;; V trenutku, ko se zgodi izjema ima procesor v (5-stopenjskem) [[Cevovod|cevovodu]] 5 ukazov. Ne sme razveljaviti ukazov, ker jih ARM ne zna (zaradi zastavic v 3.stopnji in pomnilnika v 4.stopnji), namesto tega da bi se vsi ukazi v cevovodu izvedli do konca, ker bi bilo to predolgo. Namesto tega se zavržeta ukaza if IF in ID in izvedejo trije ukazi iz EX, MEM in WB, prav tako pa se popravi PC <= PC - 8 (zaradi dveh programov, ki sta se zavrgla).
-<!--SR:!2024-10-20,1,210-->
+<!--SR:!2024-10-22,1,190-->
 
 <font color="#92cddc">Shranjevanje konteksta prekinjenega programa?</font>;; Z zagotovostjo bo prekinitveno-servisni program moral shraniti najmanj 8 registrov (prve štiri, link, PC, pa še dva). Zato ARM hardwersko (trdo-kodirano) na sklad porine teh 8 registrov. Po vrsti: PSR, PC, LR, R12, R3, R2, R1, R0. <font color="#92cddc">Sklad narašča v smeri padajočih naslovov. Torej (^ "navzgor").</font>
 <!--SR:!2024-10-24,5,230-->

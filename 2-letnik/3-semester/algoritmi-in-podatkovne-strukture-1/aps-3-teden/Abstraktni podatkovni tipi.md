@@ -29,7 +29,7 @@ Kakšen princip dostopa podatkov imamo v queue?;; FIFO
 Kako deluje buffer v dynamic arrayu?;; Če število podatkov preseže velikost arraya, se velikost naslednjega arraya podvoji, če se število podatkov zmanjša na eno četrtino velikosti arraya, se njegova naslednja velikost razpolovi
 <!--SR:!2024-10-23,4,270-->
 Kaj je in kako implementiramo priority queue?;; Zaporedje elementov, kjer ima vsak določeno vrednost prioritete. To lahko implementiramo ali z urejenim seznamom ali seznamom parov.
-<!--SR:!2024-10-20,1,230-->
+<!--SR:!2024-10-23,2,230-->
 Kako implementiramo heap?;; Kot preprosto tabelo, kjer so relacije med vozlišči implicitne, npr. starš od indeksa $x$ je na $\frac{x}{2}$ in obratno.
 <!--SR:!2024-10-22,3,250-->
 

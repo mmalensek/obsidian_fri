@@ -26,6 +26,7 @@ uint32_t *p = GPIO_OUTPUT_EN;
 ```
 
 Rezervirana beseda <font color="#92cddc">volatile</font>?;; Ta prevajalniku pove, da naj ne optimizira te spremenljivke, saj se lahko med izvajanjem programa <font color="#92cddc">spreminja</font>, ker je npr. register pomnilniško preslikane vzhodno-izhodne naprave, globalne spremenljivke, do katerih dostopa več niti.
+<!--SR:!2024-10-24,3,250-->
 
 ```C
 volatile uint32_t *p = (volatile uint32_t *) REG_A;

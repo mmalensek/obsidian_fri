@@ -20,5 +20,5 @@ $NKA_\varepsilon \ M = (Q, \Sigma, \delta, q_0, F)$ sprejme besedo $x$, če;; $\
 <!--SR:!2024-10-22,3,250-->
 
 Jezik sprejet z $NKA_\varepsilon$;; je <font color="#92cddc">enak</font> razredu jezikov, sprejetih z $NKA$.
-<!--SR:!2024-10-20,1,230-->
+<!--SR:!2024-10-24,3,250-->
  

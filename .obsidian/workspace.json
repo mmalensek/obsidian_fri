@@ -11,10 +11,26 @@
             "id": "43a90c69e936ece8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "vaje-vis-3-teden"
+            }
+          },
+          {
+            "id": "8af0335d6c2ee0f4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.50.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "vaje-vis-3-teden 2024-10-15 09.50.32.excalidraw"
             }
           }
         ]
@@ -258,8 +274,9 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "8c5f66d84ac63fa7",
+  "active": "43a90c69e936ece8",
   "lastOpenFiles": [
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.50.32.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.25.38.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/predavanje-vis-3-teden.md",
@@ -294,7 +311,6 @@
     "2-letnik/3-semester/verjetnost-in-statistika/vis.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-3-teden/predavanje-ors-3-teden.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Past.md",
     "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/bisekcija.gif",

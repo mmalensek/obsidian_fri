@@ -8,7 +8,7 @@ Jezike, ki jih <font color="#92cddc">sprejemajo končni avtomati</font> lahko pr
 	- <font color="#92cddc">Kleeneovo zaprtje</font>;; - $L^*$ jezika $L$ je jezika $L^* = L⁰ \cup L¹ \cup ... \cup L^{\infty}$
 <!--SR:!2024-10-22,3,250-->
 	- <font color="#92cddc">Tranzitivno zaprtje</font>;; - $L⁺ = L¹ \cup L² \cup ... \cup L^{\infty}$
-<!--SR:!2024-10-20,1,230-->
+<!--SR:!2024-10-24,3,250-->
 
 
 Primer: $L_1 = \{10, 1\}$ in $L_2 = \{011, 11\}$
