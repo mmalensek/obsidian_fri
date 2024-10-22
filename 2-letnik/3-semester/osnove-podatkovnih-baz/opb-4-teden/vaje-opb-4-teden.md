@@ -73,9 +73,48 @@ where e.id = e.embassy_id and c.privacy = p.id and e.name = "Ljubljana" and p.cl
 8) naloga
 	
 ```SQL
-select distinct c1.embassy_id as "Embassy", DATE(c1.date)
+select distinct c1.embassy_id as "Embassy", DATE(c1.date) as Day
 from cable c1, cable c2
-where c1.date = c2.date and c1.embasyy_id = c2.embassy_id and c1.id != c2.id;
+where DATE(c1.date) = DATE(c2.date) and c1.embasyy_id = c2.embassy_id and c1.id != c2.id;
+```
+
+Operacije nad množicami: [[uvod v SQL]].
+
+9) naloga
+	
+```SQL
+select *
+from oseba
+where rojen <= ALL(select rojen from oseba where rojen is not null);
+```
+
+10) naloga 
+	
+```SQL
+select distinct concat(ime, ' ', priimek)
+from stranka
+where stranka_id in (
+					select stranka_id 
+					from narocilo 
+					where izdelek_id = 2
+					)
+```
+uporabimo funkcijo concat, da združimo ime in priimek v en stolpec
+
+11) naloga
+	
+```SQL
+select distinct stranka
+from kupuje k1
+where not exists(
+				select operater
+				from prodaja
+				where operater not in (
+									  select operater
+									  where kupuje k2
+									  where k1.stranka = k2.stranka									  
+										)
+				);
 ```
 
 

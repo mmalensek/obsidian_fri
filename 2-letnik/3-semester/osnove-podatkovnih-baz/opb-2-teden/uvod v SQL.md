@@ -134,6 +134,52 @@ select *
 from t1 left [outer] join t2 on t1.A >= t2.B;
 ```
 
+### Operacije množic in deljenje
+
+- unija	
+```SQL
+select *
+from t1
+union distinct
+select *
+from t2
+```
+- presek
+```SQL
+select *
+from t1
+intersect
+select *
+from t2
+
+ali 
+
+select *
+from t1
+where t1.A IN 
+	(select t2.A from t2);
+```
+- razlika	
+```SQL
+select *
+from t1
+MINUS
+select *
+from t2
+
+ali 
+
+select *
+from t1
+where t1.A NOT IN (select t2.A from t2);
+```
+- operatorji	
+```SQL
+where [NOT] exists ... neprazna tabela
+where A IN ... vsebovanost
+where A >= ALL ... največja vrednost
+where A > ANY ... ne najmanjša vrednost
+```
 
 ---
 
