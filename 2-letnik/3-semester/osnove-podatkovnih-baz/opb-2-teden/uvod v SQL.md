@@ -33,7 +33,7 @@ Izpiši vse različne vrednosti, ki nastopajo v stolpcu gender:
 select distinct gender from employees;
 ```
 
-Izpiši starost delavcev ob zaposlitvi (izračunana polja in funkcije):
+Izpiši starost delavcev ob zaposlitvi (izračunana polja in funkcije) in preimenovanje:
 
 ```SQL
 select first_name, last_name, birth_date, hire_date, DATEDIFF(hire_date, birth_date)/365
@@ -101,6 +101,39 @@ Da bo to pravilno, moramo dodati:
 ```SQL
 group by emp_no;
 ```
+
+Vrstni red razen `select` in `from` je;; <font color="#92cddc">poljuben</font>.
+
+## Stične operacije - stara sintaksa?
+
+- kartezični produkt 
+``` SQL
+select *
+from t1, t2;
+```
+- naravni stik 
+``` SQL
+select *
+from t1 natural join t2;
+```
+- ekvistik 
+``` SQL
+select *
+from t1, t2
+where t1.A = t2.A;
+```
+- pogojni stik
+``` SQL
+select *
+from t1, t2;
+where t1.A >= t2.B;
+```
+- odprti stik
+``` SQL
+select *
+from t1 left [outer] join t2 on t1.A >= t2.B;
+```
+
 
 ---
 
