@@ -239,8 +239,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -252,9 +252,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "5f3ceaa66f960de0",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "horizontal",
@@ -274,7 +284,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "43a90c69e936ece8",
+  "active": "5f3ceaa66f960de0",
   "lastOpenFiles": [
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.50.32.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden.md",
