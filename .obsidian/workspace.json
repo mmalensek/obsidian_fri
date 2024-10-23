@@ -22,17 +22,27 @@
             }
           },
           {
-            "id": "2d8790244a195b33",
+            "id": "6f6b48864af124a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/predavanje-irz-3-teden.md",
-                "mode": "source",
-                "source": false
+                "file": "5-temp/Excalidraw/Drawing 2024-10-23 14.26.41.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "predavanje-irz-3-teden"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-10-23 14.26.41.excalidraw"
+            }
+          },
+          {
+            "id": "ea261346ac3aa3ca",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "irz_prosojnice"
             }
           }
         ]
@@ -298,15 +308,19 @@
   },
   "active": "b62f374dbb168aa8",
   "lastOpenFiles": [
+    "5-temp/Excalidraw/Drawing 2024-10-23 14.26.41.excalidraw.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-3-teden/predavanje-irz-4-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-3-teden/predavanje-irz-4-teden 2024-10-23 13.46.42.excalidraw.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-3-teden/predavanje-irz-4-teden 2024-10-23 13.40.49.excalidraw.md",
+    "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-4-teden/predavanje-vs-4-teden.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-3-teden/Razvrščevalnik opravil.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/predavanje-irz-3-teden.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-3-teden/predavanje-irz-4-teden.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-4-teden/vaje-vs-4-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden 2024-10-23 08.25.08.excalidraw.md",
     "4-imp/koledar/23-10-2024.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-4-teden/vaje-vis-4-teden.md",
-    "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw.md",
     "5-temp/Excalidraw/Drawing 2024-10-23 09.09.09.excalidraw.md",
@@ -326,9 +340,6 @@
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/vaje-vis-3-teden 2024-10-15 09.25.38.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-3-teden/predavanje-vis-3-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/predavanje-vis-2-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/neodvisnost dogodkov.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-2-teden/vaje-vis-2-teden.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-1-teden/predavanje-vis-1-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-4-teden",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018141842.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018135134.png",
@@ -338,7 +349,6 @@
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018131710.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018131628.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018131610.png",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/bisekcija.gif",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_skripta.pdf",
