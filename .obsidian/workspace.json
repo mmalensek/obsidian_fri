@@ -237,8 +237,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -250,9 +250,19 @@
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
+          },
+          {
+            "id": "28bb031ab968ea69",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "horizontal",
@@ -272,7 +282,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "ebdd844869b2625d",
+  "active": "28bb031ab968ea69",
   "lastOpenFiles": [
     "vaje-vs-4-teden.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-4-teden",
