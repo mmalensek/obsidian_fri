@@ -1,4 +1,5 @@
 [[predavanje-vs-2-teden]];
+[[predavanje-ors-4-teden]];
 
 Možnost procesorja, da ustavi trenutni program in namesto tega izvede prekinitveno-servisni program.
 
@@ -23,6 +24,23 @@ Nima posebnega ukaza za vračanje PSP-ja, zato se iz LR vstavi v programski šte
 Nato pa se <font color="#92cddc">začne izvajanje PSP</font> - prekinitveno servisni program.
 
 Vsi podprogrami (navadni in prekinitveni) se zaključijo z ukazom (ret), ki v PC <- r14(LR), (v primeru <font color="#ff0000">prekinitev</font>) kjer bo LR s samimi enicami, procesorju povedal da potrebuje narediti <font color="#92cddc">hardware destacking</font> ozr. EXC_RETURN (exceptional return).
+
+---
+
+Cortex M7 uporablja vektorske izjeme (tako pasti kot prekinitve), vsaka izjema ima določen prekinitveni vektor ($pv$).
+Odziv na izjemo: $$pc \leftarrow M[pv]$$
+Primeri:
+- $HardFault$ : $0x0000000C$ - ki se proži ob neveljavnem ukazu, torej je na naslovu $0x0000000C$ naslov $HardFault$ handlerja, ...
+- $BusFault$ : $0x00000014$ - ko pride do neporavnanega load-a
+- $...$
+- $SysTick$ : $0x0000003C$ - ko časovnik proži prekinitev
+- $IRQ1$ : $0x00000040$
+- $...$
+- $IRQ240$ : $...$
+
+Na vsakem o teh naslovov, mora biti zapisan naslov prekinitveno-servisnega podprograma za tisto izjemo.
+
+Tabeli teh naslovov (od $0x0000000$ do $...$) imenujemo <font color="#92cddc">vektorska tabela</font>.
 
 
 
