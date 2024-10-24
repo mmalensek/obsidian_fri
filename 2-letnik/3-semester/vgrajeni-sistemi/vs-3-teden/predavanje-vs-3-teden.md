@@ -16,7 +16,7 @@
 ```
 
 <font color="#92cddc">".weak"</font> omogoča;; da če imamo to nekje definirano, se uporabi tista funkcija, če ne se bo uporabil <font color="#92cddc">"Default_Handler"</font>.
-<!--SR:!2024-10-23,4,270-->
+<!--SR:!2024-11-07,15,290-->
 
 [[Razvrščevalnik opravil]].
 

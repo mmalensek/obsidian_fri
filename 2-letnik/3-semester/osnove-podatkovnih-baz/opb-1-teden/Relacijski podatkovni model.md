@@ -3,7 +3,7 @@
 ---
 
 <font color="#92cddc">Relacija</font>;; dvodimenzionalna tabela s stolpci in vrsticami, je <font color="#92cddc">logična struktura</font> podatkovne baze in ne fizična.
-<!--SR:!2024-10-23,8,250-->
+<!--SR:!2024-11-12,20,250-->
 
 <font color="#92cddc">Atribut</font>;; poimenovan stolpec relacije
 <!--SR:!2024-11-03,15,290-->
@@ -21,7 +21,7 @@
 <!--SR:!2024-10-29,10,250-->
 
 <font color="#92cddc">Relacijska podatkovna baza</font>;; množica normaliziranih relacij z enoličnimi imeni
-<!--SR:!2024-10-22,1,150-->
+<!--SR:!2024-10-24,1,130-->
 
 Zakaj pravimo da je relacija <font color="#92cddc">podmnožica</font> kartezičnega produkta vseh atributov? ($r \subset x_1 \times x_2 \times ...$);; Ker s kartezičnim produktom vseh atributov, generiramo veliko več variacij relacij, kot jih pa je npr. v neki podatkovni bazi.
 <!--SR:!2024-10-26,11,270-->

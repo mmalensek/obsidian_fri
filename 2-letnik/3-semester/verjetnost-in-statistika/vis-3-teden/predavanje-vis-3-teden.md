@@ -8,7 +8,7 @@
 ### Vsebina:
 
 <font color="#92cddc">Obrazec za razbitje</font>;; Naj bo $H_i, i \in I$ razbitje gotovega dogodka, potem velja za: $$P(A) = \sum_{i\in I}P(AH_i) = \sum_{i \in I}P(H_i)P(A|H_i)$$
-<!--SR:!2024-10-23,4,270-->
+<!--SR:!2024-11-07,15,290-->
 in tudi: $$P(H_i|A) = \frac{P(H)P(A|H)}{\sum_{i = 1}^n P(H)P(A|H)}$$
 npr. Trije lovci:
 - trije lovci hkrati ustrelijo prašiča, kolikšne so verjetnosti, da ga je ubil, prvi, drugi ali tretji, če prvi zadane $0.2$, drugi $0.4$ in tretji $0.6$.
@@ -20,7 +20,7 @@ npr. Trije lovci:
 [[Bernoullijevo zaporedje neodvisnih dogodkov]].
 
 Stirlingov obrazec za aproksimacijo vrednosti fakultet;; $$n! \approx \sqrt{2\pi n}(\frac{n}{e})^n$$
-<!--SR:!2024-10-22,3,250-->
+<!--SR:!2024-10-25,2,230-->
 
 
 

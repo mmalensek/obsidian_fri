@@ -11,6 +11,6 @@ Imamo urejeno tabelo.
 #aps1-flashcards 
 
 Kaj je razlika med lower in upper bound funkcijo v c++?;; Prva predstavlja bisekcijo, ki bo vstavila element na začetku enakih, druga pa na koncu.
-<!--SR:!2024-10-23,4,270-->
+<!--SR:!2024-11-07,15,290-->
 
 ---

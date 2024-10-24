@@ -103,6 +103,7 @@ group by emp_no;
 ```
 
 Vrstni red razen `select` in `from` je;; <font color="#92cddc">poljuben</font>.
+<!--SR:!2024-10-27,4,278-->
 
 ## Stične operacije - stara sintaksa?
 

@@ -1,7 +1,7 @@
 ### [[irz]], 4.teden, 23-10-2024
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano #irz-flashcards 
+<font color="#92cddc">Status/tags:</font> #dokončano #irz-flashcards 
 
 ---
 
@@ -19,6 +19,7 @@ Regularni izrazi in njihov jezik:
 
 Vaje: Regularni izrazi: ![[vaje-irz-4-teden 2024-10-23 08.25.08.excalidraw]]
 Vaje: Regularni izrazi v avtomate: ![[vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw]]
-Končna stanja $NKA$ pretvorjenega iz $NKA_\varepsilon$ so vsa tista končna stanja, s katerih lahko samo s tihim prehodom pridemo do končnega stanja (primer 3. naloga). 
+Končna stanja $NKA$ pretvorjenega iz $NKA_\varepsilon$;; so vsa tista končna stanja, s katerih lahko samo s tihim prehodom pridemo do končnega stanja (primer 3. naloga).
+<!--SR:!2024-10-27,4,270-->
 
 ---

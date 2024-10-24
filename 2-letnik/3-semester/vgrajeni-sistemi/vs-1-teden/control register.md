@@ -5,13 +5,13 @@ Pomembna sta bita 1 -> <font color="#92cddc">SPSEL</font> in bit 0 -> <font colo
 Hočemo onemogočiti dostop do skladovnega kazalca operacijskega sistema. Procesor tako lahko ve kateri skladovni kazalec uporablja, ali od operacijskega sistema ali od kode programerja
 
 <font color="#92cddc">nPRIV</font>;; Določa priviligirano ali ne-priviligirano stanje. To omogoča <font color="#92cddc">nPriv</font> in ne sme biti dosegljiv programerju.
-<!--SR:!2024-10-23,2,210-->
+<!--SR:!2024-10-29,6,230-->
 
 <font color="#92cddc">SPSEL</font>;; Pove kateri skladovni kazalec se uporablja.
 <!--SR:!2024-10-24,3,230-->
 
 Kako sploh obstajata <font color="#92cddc">dva skladovna kazalca</font>?;; Tako, da uporabimo en multiplekser, ki deli na ===Main stack pointer=== in ===Program stack pointer===.
-<!--SR:!2024-10-23,8,250-->
+<!--SR:!2024-11-20,28,270-->
 
 Hočemo pa ločiti sklada že zaradi stabilnosti operacijskega sistema, tako da ga ne more "slab" program skreširat.
 

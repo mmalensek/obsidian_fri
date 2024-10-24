@@ -34,6 +34,6 @@ Na kaj vpliva arhitektura procesorja?;; Na vrste ukazov, tipe podatkov, s kateri
 Kaj je past?;; Poseben ukaz, ki spremeni PC na vrednost "trap handlerja" in se izvede v primeru neveljavnega ukaza.
 <!--SR:!2024-10-27,8,250-->
 Kaj je prekinitev?;; Povzroči jo nek zunanji dogodek (npr. signal miške), ki omogoča delovanje "interrupt handlerja" in s tem branje iz V/I naprav npr.
-<!--SR:!2024-10-23,8,250-->
+<!--SR:!2024-11-20,28,270-->
 
 ---

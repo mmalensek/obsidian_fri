@@ -8,7 +8,7 @@
 ### Vsebina:
 
 Ali <font color="#92cddc">obstaja neregularni jezik</font>, ki ga sprejme NKA?;; Ne, razred jezikov, sprejetih z NKA, je enak razredu jezikov, sprejetih z DKA. To dokažemo tako, da ima vsak NKA ekvivalentni DKA.
-<!--SR:!2024-10-23,4,270-->
+<!--SR:!2024-11-07,15,290-->
 
 <font color="#92cddc">Izrek</font>: Naj bo $L$ jezik, ki ga sprejme dani NKA $M$, potem obstaja DKA $M'$, ki sprejme $L$.
 

@@ -1,7 +1,7 @@
-### link do predmeta, teden predavanja, 23-10-2024
+### [[irz]], 4.teden, 23-10-2024
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledan #irz-flashcards 
+<font color="#92cddc">Status/tags:</font> #dokončano #irz-flashcards 
 
 ---
 
@@ -40,5 +40,12 @@ Uporaba končnih avtomatov:
 - nekatere probleme pri razvoju programske opreme lahko rešimo tako, da pretvorimo ustrezne regularne izraze v pripadajoče $DKA$.
 1) leksikalni analizator
 2) urejevalnik
+
+[[Lastnosti regularnih jezikov]].
+
+---
+
+Kako je povezan razred jezikov sprejet s končnim avtomatom in razred jezikov predstavljen z regularnimi izrazi?;; Sta identična.
+<!--SR:!2024-10-27,4,270-->
 
 ---

@@ -25,7 +25,7 @@ Kdaj povezava $\frac{q_i \rightarrow q_j}{a}$ obstaja?;; če DKA lahko preide iz
 - $\delta$ funkcija prehodov, $\delta : Q \times \Sigma \rightarrow Q$. (stanje v katerega DKA, preide iz stanja $q$ če prebere $a$).
 
 $\delta$ je (definiran za?);; <font color="#92cddc">totalna</font>, pomeni da mora biti definirana za čisto vsak par.
-<!--SR:!2024-10-22,1,210-->
+<!--SR:!2024-10-26,3,230-->
 
 Če je $\delta(q,a)$ končno stanje, pravimo, da je DKA <font color="#92cddc">sprejel</font> predpono vhodne besede vključno do prebranega $a$. Lahko sprejme več predpon vhodne besede.
 
@@ -47,7 +47,7 @@ Kaj velja za DKA?;; Ima končno množico stanj in končno množico prehodov med 
 Kaj je $Q$?;; Končna množica stanj.
 <!--SR:!2024-11-03,15,290-->
 Kaj je $\Sigma$?;; Vhodna abeceda.
-<!--SR:!2024-10-22,3,210-->
+<!--SR:!2024-11-01,9,230-->
 Kaj je $q_0$?;; Začetno stanje.
 <!--SR:!2024-11-03,15,290-->
 Kaj je $F$ in kaj zanj velja?;; Je množica končnih stanj in je podmnožica $Q$.

@@ -1,4 +1,4 @@
-[[predavanje-vs-3-teden]]; #vs-flashcards 
+[[predavanje-vs-4-teden]]; #vs-flashcards 
 
 Oziroma "scheduler".
 
@@ -48,6 +48,9 @@ Za Task 0, pa ne, ker ga pokličemo iz main-a in bo prvi prekinjen.
 ---
 
 Kolikokrat je poklican $taskInit$, če imamo $n$ opravil?;; $n-1$
+<!--SR:!2024-10-27,4,270-->
+Kaj vsebuje $TaskControlBlock$?;; Vsebuje dva kazalca, en ki kaže na naslov opravila in drugi na naslov njegovega sklada.
+<!--SR:!2024-10-26,3,250-->
 
 ---
 
