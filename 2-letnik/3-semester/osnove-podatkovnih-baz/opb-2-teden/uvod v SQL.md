@@ -102,10 +102,46 @@ Da bo to pravilno, moramo dodati:
 group by emp_no;
 ```
 
+Pri združevanju so $NULL$ vrednosti tretirane kot enake.
+
+Skupine pa lahko še dodatno omejimo z dodatnimi pogoji s $having$:
+
+```SQL
+group by YEAR(birth_date)
+having count(*) > 9200;
+```
+
+Poizvedbe lahko tudi gnezdimo:
+
+```SQL
+select first_name, last_name
+from employees
+where emp_no in (
+	select emp_no
+	from titles
+	where title = "manager"
+);
+```
+
+Ta izpiše vse sedanje in pretekle "manager"-je.
+
+Pravila gnezdenja SELECT stavkov:
+- uporaba ORDER_BY je nesmiselna,
+- select vgnezdenega stavka lahko zajema samo en atribut (razen v primeru EXISTS) - a se tega implementacije ne držijo
+- imena stolpcev v vgnezdenem stavku se nanašajo na tabele iz vgnezdenega ali zunanjega stavka (uporaba aliasov)
+- vgnezdeni SELECT stavek ne more biti operand v izrazu.
+
+Uporaba ANY/SOME, ALL
+- ekvivalenten $\exists, \forall$ kvantifikatorjema,
+- če je rezultat poizvedbe prazen je ALL $true$ in ANY/SOME $false$.
+
 Vrstni red razen `select` in `from` je;; <font color="#92cddc">poljuben</font>.
 <!--SR:!2024-10-27,4,278-->
 
-## Stične operacije - stara sintaksa?
+Poizvedbe po več tabelah:
+- za ločevanje med istoimenskimi stolpci uporabljamo sinonime ozr. aliase
+
+## Stične operacije
 
 - kartezični produkt 
 ``` SQL
@@ -160,7 +196,7 @@ from t1
 where t1.A IN 
 	(select t2.A from t2);
 ```
-- razlika	
+- razlika
 ```SQL
 select *
 from t1
@@ -194,6 +230,7 @@ Iskalni kriterij v SQL?;; where YEAR(birth_date)<1953 and gender = 'M'
 <!--SR:!2024-10-25,6,250-->
 Iskalni kriterij s pogojem?;; where last_name like 'B%' and birth_date like '__6_____01'
 <!--SR:!2024-10-27,8,250-->
+S katero besedo še dodatno postavimo pogoje na neko skupino?;; S $having$.
 
 
 ---
