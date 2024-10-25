@@ -8,5 +8,6 @@
 ### Vsebina:
 
 [[uvod v SQL]];
+Kako pa kreiramo tabele, začnemo transakcijo, ...? [[Stavki skupine SQL DDL]]
 
 ---

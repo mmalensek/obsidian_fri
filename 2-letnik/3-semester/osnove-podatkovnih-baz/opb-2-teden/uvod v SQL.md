@@ -141,6 +141,36 @@ Vrstni red razen `select` in `from` je;; <font color="#92cddc">poljuben</font>.
 Poizvedbe po več tabelah:
 - za ločevanje med istoimenskimi stolpci uporabljamo sinonime ozr. aliase
 
+INSERT stavek:
+```SQL
+insert into TableName [(columnList)]
+values (dataValueList)
+```
+- seznam columnList ni obvezen,
+- pri vnosu moramo vpisati najmanj vse obvezne vrednosti, razen za stolpce s privzeto vrednostjo
+npr. 
+```SQL
+insert into departments (dept_no, dept_name)
+values('d010', 'Education');
+```
+
+UPDATE stavek:
+
+DELETE stavek:
+```SQL
+delete from TableName [WHERE searchCondition]
+```
+npr. brisanje podatkov o plačah delavcev, ki niso več zaposleni
+```SQL
+delete from salaries
+where emp_no not in (
+	select emp_no
+	from salaraies
+	where to_date = '9999-01-01'
+);
+```
+
+Brisanje je zelo počasna operacija. Lahko uporabimo Drop in Truncate, a sta rahlo drugačni.
 ## Stične operacije
 
 - kartezični produkt 
