@@ -1,14 +1,20 @@
-[[predavanje-aps1-3-teden]]; #aps1-flashcards 
+[[predavanje-aps1-3-teden]], [[predavanje-aps-4-teden]]; #aps1-flashcards 
 
 ta nam definira funkcionalnost.
 
 - [[Array|Polje (Array)]],
+	- [[Dynamic Array|Dinamično polje (Dynamic Array)]].
 - [[Stack|Sklad (stack) - po principu LIFO]],
 - [[List|Seznam (List)]],
+	- [[Urejen seznam]],
+	- [[Preskočni seznam (Skip list)]].
 - [[Queue|Vrsta (Queue)]],
-- [[Dynamic Array|Dinamično polje (Dynamic Array)]],
-- [[Priority Queue|Prioritetna vrsta (Priority Queue)]],
-- [[Heap|Dvojiška kopica (Heap)]].
+	- [[Priority Queue|Prioritetna vrsta (Priority Queue)]].
+- [[Heap|Dvojiška kopica (Heap)]],
+- [[Množica (Set)]],
+- [[Slovar (Map)]],
+	- [[Zgoščena-Razpršena tabela]],
+
 
 ---
 
