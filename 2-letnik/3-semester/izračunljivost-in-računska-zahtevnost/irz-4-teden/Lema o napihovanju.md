@@ -8,3 +8,6 @@ Naj bo $L$ regularni jezik. Potem obstaja konstanta $n$ (odvisna samo od $L$), d
 - kjer $uv^{i}w$ predstavlja "napihnjenko" in ne glede na eksponent $i$, bo ta beseda še vedno vsebovana v $L$, tudi če je $0$.
 
 Formalno: $$L \ regular \rightarrow (\exists n)(\forall z)[z\in L \land|z| >= n \rightarrow (\exists u,v,w)[z = uvw \land|uv|<=n \land |v| >= 1 \land(\exists i >= 0)uv^{i}w \in L]]$$
+O dokazu:
+
+

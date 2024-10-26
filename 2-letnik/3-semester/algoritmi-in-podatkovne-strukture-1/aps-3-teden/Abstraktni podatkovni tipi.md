@@ -13,7 +13,7 @@ ta nam definira funkcionalnost.
 - [[Heap|Dvojiška kopica (Heap)]],
 - [[Množica (Set)]],
 - [[Slovar (Map)]],
-	- [[Zgoščena-Razpršena tabela]],
+	- [[Zgoščena-Razpršena tabela (Hash table)]],
 
 
 ---

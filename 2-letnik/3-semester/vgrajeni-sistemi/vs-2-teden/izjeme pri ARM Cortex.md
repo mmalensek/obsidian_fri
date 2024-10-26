@@ -27,7 +27,7 @@ Vsi podprogrami (navadni in prekinitveni) se zaključijo z ukazom (ret), ki v PC
 
 ---
 
-Cortex M7 uporablja vektorske izjeme (tako pasti kot prekinitve), vsaka izjema ima določen prekinitveni vektor ($pv$).
+Cortex M7 uporablja <font color="#92cddc">vektorske izjeme</font> (tako pasti kot prekinitve), vsaka izjema ima določen <font color="#92cddc">prekinitveni vektor</font> ($pv$).
 Odziv na izjemo: $$pc \leftarrow M[pv]$$
 Primeri:
 - $HardFault$ : $0x0000000C$ - ki se proži ob neveljavnem ukazu, torej je na naslovu $0x0000000C$ naslov $HardFault$ handlerja, ...
@@ -50,5 +50,7 @@ Tabeli teh naslovov (od $0x0000000$ do $...$) imenujemo <font color="#92cddc">ve
 
 Kako pride do hardware destacking-a?;; Vsi podprogrami se zaključijo z ukazom, ki je v r14(LR), v primeru prekinitve bo LR iz samih enic, to procesorju pove, da potrebuje narediti hardware destacking.
 <!--SR:!2024-11-03,11,284-->
+
+Kakšne izjeme uporablja ARM Cortex?;; Vektorske izjeme, kjer ima vsaka prekinitev svoj prekinitveni vektor.
 
 ---

@@ -6,4 +6,4 @@ Hrani pare ključa in pripadajoče vrednosti, kjer se vsak ključ lahko pojavi n
 - remove(ključ) - in implicitno kaj je shranjeno na tem ključu
 - get(ključ) - vrne vrednost shranjena pri tem ključu
 
-Implementacija le tega je [[Zgoščena-Razpršena tabela|zgoščena tabela]].
+Implementacija le tega je [[Zgoščena-Razpršena tabela (Hash table)|zgoščena tabela]].
