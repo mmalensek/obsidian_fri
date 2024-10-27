@@ -7,3 +7,9 @@ Hrani pare ključa in pripadajoče vrednosti, kjer se vsak ključ lahko pojavi n
 - get(ključ) - vrne vrednost shranjena pri tem ključu
 
 Implementacija le tega je [[Zgoščena-Razpršena tabela (Hash table)|zgoščena tabela]].
+
+---
+
+Kaj je primer implementacije slovarja (map)?;; Zgoščena tabela.
+
+---

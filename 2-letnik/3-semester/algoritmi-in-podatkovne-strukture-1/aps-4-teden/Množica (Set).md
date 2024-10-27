@@ -9,3 +9,9 @@ Ne vsebuje ponovitev več enakih elementov in ne predpisuje vrstnega reda. Imple
 - size()
 - union
 - intersection
+
+---
+
+Na kakšen način lahko implementiramo množico (set)?;; Lahko s preskočnim seznamom ali pa uravnoteženim drevesom.
+
+---

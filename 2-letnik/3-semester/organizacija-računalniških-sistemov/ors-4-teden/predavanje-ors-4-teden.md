@@ -1,7 +1,7 @@
 ### [[ors]], 4.teden, 24-10-2024
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano #ors-flashcards 
+<font color="#92cddc">Status/tags:</font> #dokončano #ors-flashcards 
 
 ---
 
@@ -18,6 +18,6 @@ Prekinitveni vektorji so konstante, ki pripadajo vsaki izjemi. Od $0$ naprej. Od
 
 ---
 
-Kaj je glavna razlika med RISC-V in Cortex M7?;; To, da Cortex M7 nima cause
+Kaj je glavna razlika med RISC-V in Cortex M7?;; To, da Cortex M7 nima <font color="#92cddc">cause</font> in <font color="#92cddc">tvec</font> registrov, torej ne sporoča kdo je povzročil izjemo in nima shranjenega naslova prekinitven servisnega programa.
 
 ---

@@ -15,3 +15,10 @@ Find - $O(\log n)$
 Insert - $O(\log n)$ 
 
 Ampak je to le pričakovana vrednost, medtem ko kopica je vedno $O(\log n)$. 
+
+---
+
+Na kakšen način implementiramo preskočni seznam (skip list)?;; Kot povezan seznam, kjer ima vsak element svojo "pomembnost", ki je najmanj ena in je naključno zvišana za $0.5$ za vsak nivo, kjer nato posamezne nivoje povezujemo skupaj.
+Kakšna je časovna zahtevnost preskočnega seznama?;; $O(\log n)$ - a to je samo pričakovana vrednost.
+
+---

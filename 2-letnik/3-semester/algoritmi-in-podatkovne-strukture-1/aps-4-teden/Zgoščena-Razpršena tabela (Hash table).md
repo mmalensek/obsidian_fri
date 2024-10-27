@@ -1,6 +1,7 @@
 [[Abstraktni podatkovni tipi]]; #aps1-flashcards 
 
 ![[Pasted image 20241025135547.png|inv|450]]
+
 $n$ - velikost, $H$ - kapaciteta, $\alpha = \frac{n}{H}$ - load factor
 
 Ko postane $\alpha = 1$, se zgodi rehashing, proces, ko povečam tabelo in spremenim hash vsem.
@@ -61,3 +62,10 @@ class HashTable {
 		}
 };
 ```
+
+---
+
+Kdaj se zgodi rehashing pri zgoščeni tabeli?;; Ko postane load factor $\alpha = 1$, nato podvojimo tabelo in naredimo rehashing za vse elemente.
+Kakšna je časovna in prostorska zahtevnost zgoščene tabele?;; V primeru pravilno delujočega rehashinga in upravljanja s prostorom, je povprečen čas dostopa $O(1)$, prostorska zahtevnost pa $O(n)$.
+
+---

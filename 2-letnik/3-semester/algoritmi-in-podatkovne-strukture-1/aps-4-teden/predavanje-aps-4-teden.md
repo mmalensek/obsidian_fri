@@ -1,7 +1,7 @@
 ### [[aps1]], 4-teden, 25-10-2024
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano #aps1-flashcards 
+<font color="#92cddc">Status/tags:</font> #dokončano #aps1-flashcards 
 
 ---
 
