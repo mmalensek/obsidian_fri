@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "66f4e53d818a93e9",
+        "id": "7102036b4fd29217",
         "type": "tabs",
         "children": [
           {
-            "id": "b7a30c09492c373c",
+            "id": "1b438316b4a1aa3a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Deterministični končni avtomat - DKA.md",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Stack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deterministični končni avtomat - DKA"
-            }
-          },
-          {
-            "id": "2c5f4d3466494fa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-ekstra/irz-ekstra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "irz-ekstra"
+              "title": "Stack"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -335,9 +320,29 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
+          },
+          {
+            "id": "4216310b98af66eb",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "7da9b32e124bd37b",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 23
       }
     ],
     "direction": "horizontal",
@@ -358,10 +363,14 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "2c5f4d3466494fa3",
+  "active": "1b438316b4a1aa3a",
   "lastOpenFiles": [
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Deterministični končni avtomat - DKA.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Abstraktni podatkovni tipi.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Podatkovne strukture.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/predavanje-aps1-3-teden.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Problem vstavljanja.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-ekstra/irz-ekstra.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Deterministični končni avtomat - DKA.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-ekstra",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Končni avtomat.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/predavanje-irz-2-teden.md",
@@ -371,7 +380,6 @@
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Slovar (Map).md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Množica (Set).md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Preskočni seznam (Skip list).md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Abstraktni podatkovni tipi.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Dynamic Array.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/predavanje-aps-4-teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-4-teden/predavanje-opb-4-teden.md",
@@ -387,11 +395,8 @@
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Izjeme pri RISC-V.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/Lema o napihovanju.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/Lastnosti regularnih jezikov.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-4-teden/predavanje-vs-4-teden.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Urejen seznam.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Pasted image 20241025135547.png",
     "Zgoščena",
-    "5-temp/Excalidraw/Preskočni seznam (Skip list) 2024-10-25 12.58.27.excalidraw.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_sql.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/Pasted image 20241023145557.png",
