@@ -12,5 +12,9 @@ Naloga še od prej:
 
 Porazdelitve:
 - [[Binomska porazdelitev]],
+- [[Geometrijska porazdelitev]],
+- [[Pascalova porazdelitev]],
+- [[Poissonova porazdelitev]],
+- [[Hipergeometrijska porazdelitev]].
 
 ---
