@@ -445,12 +445,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "41eeb8d94665c348",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 24
+        "currentTab": 25
       }
     ],
     "direction": "horizontal",
@@ -473,6 +483,8 @@
   },
   "active": "4f3e2fd9dcea5204",
   "lastOpenFiles": [
+    "Hipergeometrijska porazdelitev.md",
+    "5-temp/Excalidraw/Hipergeometrijska porazdelitev 2024-10-29 10.46.13.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-4-teden/predavanje-vis-4-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-5-teden/Binomska porazdelitev.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-5-teden/Geometrijska porazdelitev.md",
@@ -480,8 +492,6 @@
     "Pascalova porazdelitev.md",
     "Poissonova porazdelitev.md",
     "5-temp/Excalidraw/Poissonova porazdelitev 2024-10-29 10.33.13.excalidraw.md",
-    "5-temp/Excalidraw/Hipergeometrijska porazdelitev 2024-10-29 10.46.13.excalidraw.md",
-    "Hipergeometrijska porazdelitev.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-5-teden/vaje-vis-5-teden.md",
     "5-temp/Excalidraw/Pascalova porazdelitev 2024-10-29 10.20.47.excalidraw.md",
     "5-temp/Excalidraw/Binomska porazdelitev 2024-10-29 09.35.22.excalidraw.md",
