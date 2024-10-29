@@ -337,12 +337,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "12668cb7e38d291d",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
               "icon": "SpacedRepIcon",
               "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       }
     ],
     "direction": "horizontal",
@@ -363,7 +373,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "1b438316b4a1aa3a",
+  "active": "12668cb7e38d291d",
   "lastOpenFiles": [
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Abstraktni podatkovni tipi.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Podatkovne strukture.md",
