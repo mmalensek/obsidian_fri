@@ -4,59 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "c8d654a133e80356",
+        "id": "4d455ea3e8d20e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "8ff5ac93e755b01e",
+            "id": "c9fce5fa904ea071",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden.md",
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-5-teden/vaje-vis-5-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vaje-irz-5-teden"
+              "title": "vaje-vis-5-teden"
             }
           },
           {
-            "id": "e4e8d3e562ea5c9d",
+            "id": "44b8a2c4fbacf57a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/Lema o napihovanju.md",
+                "file": "Binomska porazdelitev.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lema o napihovanju"
+              "title": "Binomska porazdelitev"
             }
           },
           {
-            "id": "466774fd5429b788",
+            "id": "9d1111bf0f210ccf",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden 2024-10-29 07.39.10.excalidraw.md"
+                "file": "5-temp/Excalidraw/Binomska porazdelitev 2024-10-29 09.35.22.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "vaje-irz-5-teden 2024-10-29 07.39.10.excalidraw"
+              "title": "Binomska porazdelitev 2024-10-29 09.35.22.excalidraw"
             }
           },
           {
-            "id": "85c90ca1ae2a921b",
+            "id": "89913f1c81090e5c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden 2024-10-29 07.31.09.excalidraw.md"
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-4-teden/predavanje-vis-4-teden.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "vaje-irz-5-teden 2024-10-29 07.31.09.excalidraw"
+              "icon": "lucide-file",
+              "title": "predavanje-vis-4-teden"
             }
           }
         ],
@@ -413,11 +415,18 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "466774fd5429b788",
+  "active": "9d1111bf0f210ccf",
   "lastOpenFiles": [
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/Lema o napihovanju.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden 2024-10-29 07.39.10.excalidraw.md",
+    "Binomska porazdelitev.md",
+    "5-temp/Excalidraw/Binomska porazdelitev 2024-10-29 09.35.22.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-4-teden/predavanje-vis-4-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-5-teden/vaje-vis-5-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-5-teden/vaje-vis-5-teden 2024-10-29 09.16.41.excalidraw.md",
+    "4-imp/latex_sheet.pdf",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-5-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden 2024-10-29 07.39.10.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/Lema o napihovanju.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden 2024-10-29 07.31.09.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/Lema o napihovanju 2024-10-29 07.49.52.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden.md",
@@ -433,17 +442,11 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Končni avtomat.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/predavanje-irz-2-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/predavanje-irz-4-teden.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-4-teden/predavanje-vis-4-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Zgoščena-Razpršena tabela (Hash table).md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Slovar (Map).md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Množica (Set).md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Preskočni seznam (Skip list).md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Dynamic Array.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/predavanje-aps-4-teden.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-4-teden/predavanje-opb-4-teden.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-4-teden/Stavki skupine SQL DDL.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/uvod v SQL.md",
-    "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Pasted image 20241025135547.png",
@@ -452,7 +455,6 @@
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_sql.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/Pasted image 20241023145557.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-4-teden",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018141842.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018135134.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018134032.png",
