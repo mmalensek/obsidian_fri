@@ -7,6 +7,6 @@
 
 ### Vsebina:
 
-[[Lema o napihovanju]], [[Lastnosti zaprtosti za regularne jezike|lastnosti zaprtosti za regularne jezike]];
+[[Lema o napihovanju]], [[Lastnosti zaprtosti za regularne jezike|lastnosti zaprtosti za regularne jezike]], [[Odločitveni problemi in algoritmi|odločitveni problemi in algoritmi za regularne jezike]];
 
 ---

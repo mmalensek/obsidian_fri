@@ -22,4 +22,4 @@ Izrek (ki ga ne potrebujemo):
  - Closure under substitution and homomorphism
 
 Definiramo:
-- Kvocient jezikov $L_1$ in $L_2$ oziroma: $L_1/L_2$, definiramo kot $L_1/L_2 = \{x\exists y \in L_2 : xy \in L_1\}$ 
+- Kvocient jezikov $L_1$ in $L_2$, definiramo kot $L_1/L_2 = \{x\mid\exists y \in L_2 : xy \in L_1\}$.  
