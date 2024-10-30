@@ -1,6 +1,6 @@
 [[Lastnosti regularnih jezikov]]; #irz-flashcards 
 
-Je koristna, če hočemo dokazati, da dani jezik ni regularen, da nekateri regularni jeziki so / niso končni.
+Je koristna, če hočemo dokazati, da dani jezik ni regularen, da nekateri regularni jeziki so / niso končni, torej da jih lahko definiramo s končnim avtomatom.
 
 ![[Lema o napihovanju 2024-10-29 07.49.52.excalidraw]]
 
@@ -13,6 +13,7 @@ Naj bo $L$ regularni jezik. Potem obstaja konstanta $n$ (odvisna samo od $L$), d
 
 Formalno: $$L \ regular \rightarrow (\exists n)(\forall z)[z\in L \land|z| >= n \rightarrow (\exists u,v,w)[z = uvw \land|uv|<=n \land |v| >= 1 \land(\exists i >= 0)uv^{i}w \in L]]$$
 O dokazu:
+Če avtomat sprejme besedo $w$, za katero velja $|w| > n$, kjer je $n$ najmanjša beseda, ki jo avtomat sprejme oziroma, število stanj avtomata, pomeni, da se $w$ v nekem delu cikla, kjer je cikel dolg najmanj $1$, besedo zato lahko razdelimo na tri dele $w = xyz$, kjer $x$ predstavlja del besede pred ciklom, $y$ predstavlja sam cikel in $z$ zadnji del besede po ciklu do končnega stanja.
 
 ---
 

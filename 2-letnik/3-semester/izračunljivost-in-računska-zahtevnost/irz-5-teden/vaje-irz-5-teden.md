@@ -1,7 +1,7 @@
 ### [[irz]], 5.teden, 29-10-2024
 ---
 
-<font color="#92cddc">Status/tags:</font> #NEpregledano #irz-flashcards 
+<font color="#92cddc">Status/tags:</font> #dokončano #irz-flashcards 
 
 ---
 
@@ -18,5 +18,9 @@ Kako dokazati?
 1) izberemo $w\in L, |w| >= n$ - izberem dovolj dolgo besedo
 2) $w=xyz$
 3) za vsako od teh razbitij, najdemo nek $i$, da bo veljalo $\exists i,\ xy^{i}z\notin L$
+
+---
+
+Kako in s čem dokažemo, da se česa ne da narediti z avtomatom?;; Z lemo o napihovanju in sicer tako, da najprej izberemo dovolj dolgo besedo, pomeni daljšo ali enako dolgo kot $n$, ki je sprejeta z nekim avtomatom in jo nato razbijemo na $w = xyz$, kjer najdemo nek $i$, da bo veljalo $\exists i, \ xy^{i}z\notin L$.
 
 ---

@@ -1,4 +1,4 @@
-[[vaje-vis-5-teden]]; #vis-flashcards 
+[[vaje-vis-5-teden]], [[predavanje-vis-4-teden]]; #vis-flashcards 
 
 Izvajamo neodvisne slučajne poskuse, dokler se NE zgodi dogodek $A$.
 V vsakem poskusu se lahko zgodi dogodek $A$ s konstantno verjetnostjo $p = P(A)$. Slučajna spremenljivka $X$ je število poskusov, dokler se ne zgodi dogodek $A$.

@@ -1,4 +1,4 @@
-[[vaje-vis-5-teden]]; #vis-flashcards 
+[[vaje-vis-5-teden]], [[predavanje-vis-4-teden]]; #vis-flashcards 
 
 V populaciji velikosti $N$ imamo $K$ elementov z določeno lastnostjo. Izbiramo brez vračanja $n$ elementov.
 

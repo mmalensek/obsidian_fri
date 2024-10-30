@@ -47,6 +47,5 @@ Uporaba končnih avtomatov:
 
 Kako je povezan razred jezikov sprejet s končnim avtomatom in razred jezikov predstavljen z regularnimi izrazi?;; Sta identična.
 <!--SR:!2024-10-27,4,270-->
-Kaj je 
 
 ---

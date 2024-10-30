@@ -1,4 +1,4 @@
-[[vaje-vis-5-teden]]; #vis-flashcards 
+[[vaje-vis-5-teden]], [[predavanje-vis-4-teden]]; #vis-flashcards 
 
 Slučajna spremenljivka $X$ šteje število dogodkov, ki so se pojavili v določenem časovnem ali prostorskem intervalu, pri čemer se dogodki pojavljajo neodvisno in povprečno število dogodkov $\lambda$, ki se pojavijo v določenem intervalu, je konstantno.
 
