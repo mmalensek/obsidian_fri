@@ -45,12 +45,26 @@ Main bo poklical "Task 0", zato v funkciji $InitScheduler$, kjer inicializiramo 
 
 Za Task 0, pa ne, ker ga pokličemo iz main-a in bo prvi prekinjen.
 
+V $TaskFunctions$ tabeli imamo naslove vsakega od opravil, na predavanjih je bilo npr. opravilo na naslovu $0x800060f$, a dejanski naslov je $0x800060e$, saj tista zadnja enica predstavlja samo to, da naj $CPE$ uporablja 16-bitne in ne 32-bitne ukaze.
+
+Če imamo $1kb$ blok za eno opravilo, moramo sami nastaviti skladovni kazalec opravila nastaviti na;; "vrh" tega bloka, ker nam sklad narašča v smeri padajočih naslovov.
+
+Delovanje razvrščevalnika za menjavanje opravil:
+1) set context - $\_\_SAVE\_CONTEXT$
+2) temp - s funkcijo $ContextSwitch$
+3) temp - s funkcijo $ContextSwitch$
+4) load psp - s funkcijo $ContextSwitch$
+5) restore context - $\_\_RESTORE\_CONTEXT$
+
+Prekinitev z višjo prioriteto lahko prekini prekinitev z nižjo prekinitev (imamo 16 nivojev, kjer je najvišji $reset$ in $hardFault$). Kaj potem če prekinitev prekini drugo prekinitev? Zato obstaja prekinitev z najnižjo prioriteto in se je ne da povečati, to je software-ska prekinitev. Imamo nek SVC - supervisor call.
+
 ---
 
 Kolikokrat je poklican $taskInit$, če imamo $n$ opravil?;; $n-1$
 <!--SR:!2024-10-27,4,270-->
 Kaj vsebuje $TaskControlBlock$?;; Vsebuje dva kazalca, en ki kaže na naslov opravila in drugi na naslov njegovega sklada.
 <!--SR:!2024-10-26,3,250-->
+Zakaj kaže da je opravilo na naslovu, ki se konča z enico, čeprav se ne konča tako?;; Zato, ker to procesorju pove, da uporablja 16-bitne in ne 32-bitne ukaze.
 
 ---
 
