@@ -56,7 +56,7 @@ Delovanje razvrščevalnika za menjavanje opravil:
 4) load psp - s funkcijo $ContextSwitch$
 5) restore context - $\_\_RESTORE\_CONTEXT$
 
-Prekinitev z višjo prioriteto lahko prekini prekinitev z nižjo prekinitev (imamo 16 nivojev, kjer je najvišji $reset$ in $hardFault$). Kaj potem če prekinitev prekini drugo prekinitev? Zato obstaja prekinitev z najnižjo prioriteto in se je ne da povečati, to je software-ska prekinitev. Imamo nek SVC - supervisor call.
+Prekinitev z višjo prioriteto lahko prekini prekinitev z nižjo prekinitev (imamo 16 nivojev, kjer je najvišji $reset$ in $hardFault$). Kaj potem če prekinitev prekini drugo prekinitev? Zato obstaja prekinitev z najnižjo prioriteto in se je ne da povečati, to je software-ska prekinitev. Imamo nek SVC - supervisor call (tukaj mora biti popravek, ker je napačnega povedal).
 
 ---
 
