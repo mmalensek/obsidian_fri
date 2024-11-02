@@ -1,6 +1,6 @@
 [[vaje-vis-5-teden]], [[predavanje-vis-4-teden]]; #vis-flashcards 
 
-Izvajamo $n$ neodvisnih slučajnih poskusov. V vsakem poskusu se lahko zgodi dogodek $A$ s konstantno verjetnostjo $p = P(A)$. Slučajna spremenljivka $X$ - število realizacij dogodka $A$ (kolikokrat se je zgodil dogodek $A$ v $n$ poskusih).
+Binomska porazdelitev;; Izvajamo $n$ neodvisnih slučajnih poskusov. V vsakem poskusu se lahko zgodi dogodek $A$ s konstantno verjetnostjo $p = P(A)$. Slučajna spremenljivka $X$ - število realizacij dogodka $A$ (kolikokrat se je zgodil dogodek $A$ v $n$ poskusih).
 
 $X$ je binomsko porazdeljena, $X \sim B(n,p)$.
 

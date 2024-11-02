@@ -1,6 +1,6 @@
 [[vaje-vis-5-teden]], [[predavanje-vis-4-teden]]; #vis-flashcards 
 
-Izvajamo neodvisne slučajne poskuse, dokler se dogodek $A$ ne zgodi $r$-krat. Slučajna spremenljivka $X$ je število poskusov, dokler se dogodek $A$ ne zgodi $r-krat$.
+Pascalova porazdelitev;; Izvajamo neodvisne slučajne poskuse, dokler se dogodek $A$ ne zgodi $r$-krat. Slučajna spremenljivka $X$ je število poskusov, dokler se dogodek $A$ ne zgodi $r-krat$.
 
 $X$ je Pascalovo porazdeljena, $X \sim P(r, p)$
 

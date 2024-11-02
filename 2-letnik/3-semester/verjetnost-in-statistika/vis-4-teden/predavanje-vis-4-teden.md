@@ -15,11 +15,11 @@ To se uporablja pri dveh določenih vrstah slučajnih spremenljivk:
 1) <font color="#92cddc">diskretna</font> slučajna spremenljivka, katere zaloga vrednost je neka števna diskretna množica
 2) <font color="#92cddc">zvezna</font> slučajna spremenljivka, ki lahko zavzame vsako realno število znotraj določenega intervala
 
-<font color="#92cddc">Binomska porazdelitev</font>:
+[[Binomska porazdelitev]].
 
 Pričakovana vrednost $E(X)$ je posplošitev povprečne vrednosti diskretne spremenljivke $X$ in je: $$E(X) = \sum_{i = 1}^mx_ip_i = \sum_{k = 0}^n \binom{n}{k}p^kq^{n-k} = n \cdot p$$  
 Velja: $$E(X+Y) = E(X) + E(Y)$$
-<font color="#92cddc">Poissonova porazdelitev</font>;; izraža verjetnost števila dogodkov, ki se zgodijo v danem časovnem intervalu, če vemo, da se ti dogodki pojavijo s poznano povprečno frekvenco in neodvisno od časa, ko se je zgodil zadnji dogodek.
+[[Poissonova porazdelitev]];; izraža verjetnost števila dogodkov, ki se zgodijo v danem časovnem intervalu, če vemo, da se ti dogodki pojavijo s poznano povprečno frekvenco in neodvisno od časa, ko se je zgodil zadnji dogodek.
 
 	Primer: Kakšna je verjetnost, da zapelje v danem časovnem intervalu skozi križišče npr. 100 avtomobilov, kjer definiramo slučajno spremenljivko $X$, ki je enaka številu avtomobilov, ki pridejo v križišče na uro
 	Imamo dve predpostavki:
@@ -28,14 +28,13 @@ Velja: $$E(X+Y) = E(X) + E(Y)$$
 	 3) enoto zmanjšamo na sekundo in kasneje množimo z 3600, ker nočemo več avtov hkrati
 
 
-Poissonov obrazec: za velike $n$ in majhne verjetnosti $p$ (blizu 0): $$vstavi \ manjkajoče!$$
-<font color="#92cddc">Pascalova ali negativna binomska porazdelitev</font>:
+[[Pascalova porazdelitev]]:
 - npr. kolikokrat moramo vreči kocko, da z verjetnostjo $99\%$ vržemo $6$ pik na kocki.
 - ima zalogo vrednosti $m, m+1, m+2,...$ in je enak: $p_k = \binom{k-1}{m-1}p^mq^{k-m}$ za $k >= m$,
 - opisuje porazdelitev potrebnega števila poskusov, da se dogodek $A$ zgodi $m$-krat.
 - če je $m = 1$, potem je to $geometrijska$ porazdelitev $G(p)$.
 - npr 2. število obratov do muhe iz začetnega vozlišča pajka, ker ima vsak korak $\frac{1}{3}$ možnosti, da pride do muhe
 
-<font color="#92cddc">Hipergeometrijska porazdelitev</font>:
+[[Hipergeometrijska porazdelitev]] in [[Geometrijska porazdelitev|geometrijska porazdelitev]].
 
 ---

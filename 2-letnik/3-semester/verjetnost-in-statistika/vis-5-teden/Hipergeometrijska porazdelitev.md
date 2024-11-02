@@ -1,6 +1,6 @@
 [[vaje-vis-5-teden]], [[predavanje-vis-4-teden]]; #vis-flashcards 
 
-V populaciji velikosti $N$ imamo $K$ elementov z določeno lastnostjo. Izbiramo brez vračanja $n$ elementov.
+Hipergeometrijska porazdelitev;; V populaciji velikosti $N$ imamo $K$ elementov z določeno lastnostjo. Izbiramo brez vračanja $n$ elementov.
 
 $X$ je hipergeometrijsko porazdeljena: $X \sim H(K,N - K,n)$.
 Verjetnostna funkcija: $$P(X=k)=\frac{\binom{K}{k}\binom{N-K}{n-k}}{\binom{N}{n}}, \ k = 0, 1, 2, ... \min\{n,K\}$$
