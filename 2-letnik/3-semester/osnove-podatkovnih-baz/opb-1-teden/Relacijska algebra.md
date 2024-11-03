@@ -8,7 +8,6 @@ Vsebuje pet osnovnih operacij:
 	- [[kartezijski produkt]],
 	- [[unija]],
 	- [[razlika]].
-	
 
 In tudi izpeljane operacije:
 	- [[stik]] - kartezijski produkt in selekcija,

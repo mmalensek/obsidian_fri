@@ -5,6 +5,8 @@ Oznaka:
 $$R - S$$
 $R$ in $S$ se morata ujemati po atributih in njihovih podatkovnih tipih.
 
+Primer: ![[Pasted image 20241103144533.png|200]]
+
 ---
 
 #opb-flashcards
