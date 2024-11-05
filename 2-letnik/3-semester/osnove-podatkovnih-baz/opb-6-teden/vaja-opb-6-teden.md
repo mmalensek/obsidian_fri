@@ -23,7 +23,7 @@ select (select count(*) from facebook where oid < pid), (select count(*) from tw
 ```SQL
 select DATE(c.date), count(c.id)
 from cable c
-group by DATE(c.date) // c.date
+group by DATE(c.date)
 having count(c.id) > 300 
 oziroma za b)
 having count(*) = (
