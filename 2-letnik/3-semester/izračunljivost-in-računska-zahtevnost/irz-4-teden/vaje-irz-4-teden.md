@@ -14,6 +14,7 @@ Regularni izrazi in njihov jezik:
 - $R_1 + R_2$ in $L(R_1) \cup L(R_2)$
 - $R_1 R_2$ in $L(R_1)L(R_2)$
 - $R_1^*$ in $(L(R_1))^*$
+
 - $L_1L_2 = \{uv \mid u \in L_1, v \in L_2\}$
 - $L^* = \{\varepsilon\} \cup L \cup LL \cup LLL \cup ...$
 

@@ -12,7 +12,7 @@
 (povsod delamo z $\Sigma = \{0, 1\}$)
 Fürstova strategija je da najprej narediš avtomat <font color="#92cddc">za najmanjšo besedo</font>, ki jo avtomat sprejme.
 
-Če imamo dva regularna jezika, je njuna unija, stik, presek in klinova? ovojnica<font color="#92cddc"> tudi regularna.</font>
+Če imamo dva regularna jezika, je njuna unija, stik, presek in klinova ovojnica<font color="#92cddc"> tudi regularna.</font>
 
 Za primer pri peti nalogi, lahko naredimo <font color="#92cddc">kartezični produkt</font> stanj obeh avtomatov in pol pazljivo gledaš stanja.
 
