@@ -20,7 +20,7 @@ O dokazu:
 
 ---
 
-V praksi: [[vaje-irz-5-teden]]. 
+V praksi: [[2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden]]. 
 
 ---
 
