@@ -15,6 +15,8 @@ Poglej 3. primer za pretvarjanje končnih avtomatov v KNG.
 Poglej 4. primer za pretvarjanje regularnih izrazov v KNG.
 
 Primeri: ![[vaje-irz-5-teden 2024-11-06 08.21.13.excalidraw]]
-Druga ura primerov: 
+Gramatika je dvoumna, če obstaja vsaj ena beseda v jeziku, za katero obstajata dve drevesi izpeljav (10. primer).
+
+Druga ura primerov: ![[vaje-irz-5-teden 2024-11-06 09.17.42.excalidraw]] 
 
 ---

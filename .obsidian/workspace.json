@@ -8,32 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c19fab209eaadee",
+            "id": "785e6b1512ee6262",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden.md",
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/predavanje-vs-6-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vaje-irz-5-teden"
+              "title": "predavanje-vs-6-teden"
             }
           },
           {
-            "id": "032ef056bc9e03f1",
+            "id": "51588b000fe2f607",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden 2024-11-06 08.21.13.excalidraw.md"
+                "file": "Časovniki.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "vaje-irz-5-teden 2024-11-06 08.21.13.excalidraw"
+              "icon": "lucide-file",
+              "title": "Časovniki"
+            }
+          },
+          {
+            "id": "c9d1ea018794cb41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-5-teden/predavanje-vs-5-teden.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "predavanje-vs-5-teden"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -119,10 +135,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden.md"
+                "file": "Časovniki.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of vaje-irz-5-teden"
+              "title": "Outline of Časovniki"
             }
           },
           {
@@ -220,10 +236,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5c19fab209eaadee",
+  "active": "51588b000fe2f607",
   "lastOpenFiles": [
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden 2024-11-06 08.21.13.excalidraw.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/predavanje-vs-6-teden.md",
+    "Časovniki.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-5-teden/predavanje-vs-5-teden.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden 2024-11-06 09.17.42.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden 2024-11-06 08.21.13.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Deterministični končni avtomat - DKA.md",
@@ -249,17 +270,12 @@
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-2-teden/uvod v SQL.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijski_račun.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijska_algebra.pdf",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijska algebra.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/preimenovanje.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/projekcija.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/selekcija.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241103144533.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/bisekcija.gif",
     "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-5-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-5-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-ekstra",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Pasted image 20241025135547.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/Pasted image 20241023145557.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018141842.png",
