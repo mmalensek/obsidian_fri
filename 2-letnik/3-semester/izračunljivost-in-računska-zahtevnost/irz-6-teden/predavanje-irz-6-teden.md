@@ -7,6 +7,6 @@
 
 ### Vsebina:
 
-[[Myhill-Nerodejev izrek]];
+[[Myhill-Nerodejev izrek]], [[Kontekstno-neodvisne gramatike in jeziki|kontekstno-neodvisne gramatike in jeziki]];
 
 ---

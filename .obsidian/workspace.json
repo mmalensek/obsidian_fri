@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c9d1ea018794cb41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-5-teden/predavanje-vs-5-teden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "predavanje-vs-5-teden"
-            }
-          },
-          {
             "id": "cf7cce2515e457c7",
             "type": "leaf",
             "state": {
@@ -36,21 +22,33 @@
             }
           },
           {
-            "id": "c2bcef41ebbac1ea",
+            "id": "30ebae75e6939f98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myhill-Nerodejev izrek.md",
+                "file": "Kontekstno-neodvisne gramatike in jeziki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Myhill-Nerodejev izrek"
+              "title": "Kontekstno-neodvisne gramatike in jeziki"
+            }
+          },
+          {
+            "id": "3b5bdd82552a4453",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4-imp/latex_sheet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "latex_sheet"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Myhill-Nerodejev izrek.md"
+                "file": "Kontekstno-neodvisne gramatike in jeziki.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Myhill-Nerodejev izrek"
+              "title": "Outline of Kontekstno-neodvisne gramatike in jeziki"
             }
           },
           {
@@ -236,10 +234,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c2bcef41ebbac1ea",
+  "active": "30ebae75e6939f98",
   "lastOpenFiles": [
+    "4-imp/latex_sheet.pdf",
+    "Kontekstno-neodvisne gramatike in jeziki.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/predavanje-irz-6-teden.md",
-    "Myhill-Nerodejev izrek.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/Myhill-Nerodejev izrek.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-5-teden/predavanje-vs-5-teden.md",
     "5-temp/Excalidraw/Časovniki 2024-11-06 10.27.39.excalidraw.md",
     "5-temp/Excalidraw/Časovniki 2024-11-06 11.28.11.excalidraw.md",
@@ -266,13 +266,10 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/vaje-irz-2-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/Metode dokazovanja.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/dokazovanje s protislovjem.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/moč množic.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijski_račun.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijska_algebra.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241103144533.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/bisekcija.gif",
-    "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-5-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-5-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden",
