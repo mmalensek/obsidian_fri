@@ -4,61 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "894c5fa54a8d1b03",
+        "id": "6f0e09118accb81a",
         "type": "tabs",
         "children": [
           {
-            "id": "748d7a57292367d2",
+            "id": "c64be3a06e919fa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden.md",
+                "file": "predavanje-vis-6-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "predavanje-ors-6-teden"
+              "title": "predavanje-vis-6-teden"
             }
           },
           {
-            "id": "d8d5b99ed9ca8c81",
+            "id": "89234e46240b1e48",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden 2024-11-07 11.40.05.excalidraw.md"
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "predavanje-ors-6-teden 2024-11-07 11.40.05.excalidraw"
-            }
-          },
-          {
-            "id": "ddefbe9ca0e718c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/izjeme pri ARM Cortex.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "izjeme pri ARM Cortex"
-            }
-          },
-          {
-            "id": "33983145d09d78ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Prekinitve"
+              "icon": "lucide-file-text",
+              "title": "vis_prosojnice"
             }
           }
         ]
@@ -117,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -147,10 +118,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden.md"
+                "file": "predavanje-vis-6-teden.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of predavanje-ors-6-teden"
+              "title": "Outline of predavanje-vis-6-teden"
             }
           },
           {
@@ -248,12 +219,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "748d7a57292367d2",
+  "active": "c64be3a06e919fa4",
   "lastOpenFiles": [
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden 2024-11-07 11.40.05.excalidraw.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden 2024-11-07 11.30.42.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
+    "predavanje-vis-6-teden.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden 2024-11-07 12.31.07.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/izjeme pri ARM Cortex.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden 2024-11-07 12.24.56.excalidraw.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden 2024-11-07 11.40.05.excalidraw.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden 2024-11-07 11.30.42.excalidraw.md",
     "kako CPE ve, kdo zahteva prekinitev?.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/Vstop in izstop iz prekinitveno servisnega podprograma - ARM Cortex M.md",
@@ -277,17 +253,11 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Deterministični končni avtomat - DKA.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/Končni avtomat.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/predavanje-irz-2-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-1-teden/osnovni-matematični-pojmi-irz.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-3-teden/vaje-opb-3-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-ekstra/irz-kol.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-6-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijski_račun.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijska_algebra.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241103144533.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/bisekcija.gif",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-5-teden",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-5-teden",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Pasted image 20241025135547.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/Pasted image 20241023145557.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018141842.png",
