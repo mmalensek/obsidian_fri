@@ -15,6 +15,9 @@ ta nam definira funkcionalnost.
 - [[Slovar (Map)]],
 	- [[Zgoščena-Razpršena tabela (Hash table)]],
 
+---
+
+- [[Drevesa]]
 
 ---
 

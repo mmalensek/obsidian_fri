@@ -4,50 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "1c8f71b7e72da52f",
+        "id": "5757d907132f2b9d",
         "type": "tabs",
         "children": [
           {
-            "id": "6231dda341e9cbcd",
+            "id": "563eb29600192955",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-6-teden/predavanje-opb-6-teden.md",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/predavanje-aps-6-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "predavanje-opb-6-teden"
+              "title": "predavanje-aps-6-teden"
             }
           },
           {
-            "id": "1e2d3d202ab801a6",
+            "id": "03513513019d449f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-6-teden/Indeksi.md",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/Drevesa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Indeksi"
+              "title": "Drevesa"
             }
           },
           {
-            "id": "f11de6b8be8e7887",
+            "id": "13941ab98c28aa92",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_sql.pdf"
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/Drevesa 2024-11-08 12.36.14.excalidraw.md"
               },
-              "icon": "lucide-file-text",
-              "title": "uvod_v_sql"
+              "icon": "excalidraw-icon",
+              "title": "Drevesa 2024-11-08 12.36.14.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -132,10 +134,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-6-teden/predavanje-opb-6-teden.md"
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/Drevesa 2024-11-08 12.36.14.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of predavanje-opb-6-teden"
+              "title": "Outline of Drevesa 2024-11-08 12.36.14.excalidraw"
             }
           },
           {
@@ -233,12 +235,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6231dda341e9cbcd",
+  "active": "13941ab98c28aa92",
   "lastOpenFiles": [
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-6-teden/Pasted image 20241108103315.png",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/Drevesa.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/Drevesa 2024-11-08 12.36.14.excalidraw.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/predavanje-aps-6-teden.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Podatkovne strukture.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Abstraktni podatkovni tipi.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Zgoščena-Razpršena tabela (Hash table).md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_sql.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-6-teden/predavanje-opb-6-teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-6-teden/Indeksi.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-6-teden/Pasted image 20241108103315.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/predavanje-vis-6-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
     "4-imp/latex_sheet.pdf",
@@ -261,16 +270,10 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/Myhill-Nerodejev izrek.md",
     "5-temp/Excalidraw/Časovniki 2024-11-06 10.27.39.excalidraw.md",
     "5-temp/Excalidraw/Časovniki 2024-11-06 11.28.11.excalidraw.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/Časovniki.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/predavanje-vs-6-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden 2024-11-06 09.17.42.excalidraw.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden 2024-11-06 08.21.13.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-6-teden",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/relacijski_račun.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241103144533.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/bisekcija.gif",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Pasted image 20241025135547.png",
@@ -280,7 +283,6 @@
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018134032.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018133118.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018131735.png",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018131710.png",
     "Untitled.canvas"
   ]
 }

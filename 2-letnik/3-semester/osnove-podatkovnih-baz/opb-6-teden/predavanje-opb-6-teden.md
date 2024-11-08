@@ -33,7 +33,23 @@ Izolacijske ravni transakcij:
 
 Takojšnje in zapoznele omejitve:
 - kdaj se upoštevajo omejitve, na začetku ali po zaključku transakcije:
-	- initially immediate
-	- initial
+	- initially immediate - na začetku
+	- initially deferred - ob zaključku
+
+```SQL
+set constraints {all | constraintName [, ...]}
+[deffered | immediate]
+```
+
+---
+
+Bazni izvedbeni objekti:
+- večina SUPB podpira:
+	- triggerje
+	- v bazi shranjene podprograme
+	- funkcije
+
+1) <font color="#92cddc">sprožilci</font> (triggers)
+	- se prožijo pred ali po operaciji insert, delete, update
 
 ---
