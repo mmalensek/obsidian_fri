@@ -3,7 +3,7 @@
 ### Urejanje:
 Iskanje neke permutacije, da bo za zaporedne objekte veljalo <= ali >=. Algoritem je <font color="#92cddc">stabilen</font>, če se vrstni red enakih vrednosti ohranja (katerikoli algoritem, lahko narediš stabilen, če poleg nekih $x_1, x_2, ...$, hraniš tudi, njihov originalen indeks $(x_1, 3), (x_2, 5), ...$).
 
-Kr ena:
+Brezvezni:
 1. [[Permutation sort]]
 	- v najslabšem primeru je to $n!$, najboljšem $1$, v povprečju $\frac{n!}{2}$
 2. [[Random sort]]
