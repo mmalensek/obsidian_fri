@@ -34,7 +34,7 @@ Bernoullijev zakon velikih števil;
 - ...
 
 Gamma funkcija;
-- primer: kaj nam pomeni $(\frac{3}{2})!$ ?
+- pomaga nam predstaviti npr. $(\frac{3}{2})!$
 [![Graph of the absolute value of the complex gamma function (factorial  extension), hand-drawn : r/math|inv|300](https://i.imgur.com/JlcwSuq.png)
 
 ---
