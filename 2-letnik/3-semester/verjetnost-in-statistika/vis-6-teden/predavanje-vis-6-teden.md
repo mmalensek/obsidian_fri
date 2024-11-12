@@ -10,6 +10,12 @@
 Enakomerna porazdelitev;
 - predstavlja pravokotnik nad osjo grafa
 - kjer je $P(x) = 0, \ x > a, \ x < b$
+- vsi izidi na intervalu $[a,b]$ so enako verjetni
+- gostota verjetnosti $p_X(x)=\frac{1}{b-1}$
+- porazdelitvena funkcija $F_X(x)=\frac{x-a}{b-a}$
+- pričakovana vrednost $E(X) = \frac{a+b}{2}$
+- disperzija $D(X) = \frac{(b-1)^2}{12}$
+
 ![[Screenshot 2024-11-09 at 20.38.03.png|300]]
 
 Normalna porazdelitev;
@@ -18,6 +24,14 @@ Oznaka: $X \sim N(\gamma, \sigma^2)$ in
 Enačba: $f(x) = \frac{1}{\sqrt{2\pi}\sigma}e^{-\frac{1}{2\sigma^2}(x-\gamma)^2}$
 
 Eksponentna porazdelitev;
+- slučajna spremenljivka $X$ - čas med zaporednima dogodkoma, pri čemer so dogodki neodvisni in se pojavijo s konstantno stopnjo $\lambda$.
+- $\lambda$ je povprečno število dogodkov na izbrano časovno enoto
+- gostota verjetnosti $p_X(x)=\lambda e^{-\lambda x}, x ≥ 0$
+- porazdelitvena funkcija $F_X(x)  =1 - e^{-\lambda x}$
+- pričakovana vrednost $E(X) = \frac{1}{\lambda}$
+- disperzija $D(X) = \frac{1}{\lambda^2}$
+
+
 ![[Screenshot 2024-11-09 at 20.38.54.png|300]]
 
 Funkcija napake; 

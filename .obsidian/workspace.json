@@ -11,12 +11,26 @@
             "id": "8ef1833e12648a29",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf"
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/vaje-vis-7-teden.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "vis_prosojnice"
+              "icon": "lucide-file",
+              "title": "vaje-vis-7-teden"
+            }
+          },
+          {
+            "id": "2f48e97746162fc2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/vaje-vis-7-teden 2024-11-12 09.55.40.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "vaje-vis-7-teden 2024-11-12 09.55.40.excalidraw"
             }
           },
           {
@@ -90,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -119,10 +134,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/predavanje-vis-6-teden.md"
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/vaje-vis-7-teden 2024-11-12 09.55.40.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of predavanje-vis-6-teden"
+              "title": "Outline of vaje-vis-7-teden 2024-11-12 09.55.40.excalidraw"
             }
           },
           {
@@ -250,13 +265,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4fe7f2af2a472967",
+  "active": "2f48e97746162fc2",
   "lastOpenFiles": [
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/vaje-vis-7-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/vaje-vis-7-teden 2024-11-12 09.55.40.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/predavanje-vis-6-teden.md",
+    "5-temp/Excalidraw/vaje-vis-7-teden 2024-11-12 09.30.14.excalidraw.md",
+    "5-temp/Excalidraw/Geometrijska porazdelitev 2024-10-29 09.50.13.excalidraw.md",
+    "5-temp/Excalidraw/vaje-vis-7-teden 2024-11-12 09.30.46.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.54.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.03.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.35.39.png",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/predavanje-vis-6-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
     "2-letnik/4-semester",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/Drevesa 2024-11-08 12.36.14.excalidraw.md",
@@ -285,19 +306,13 @@
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden 2024-11-07 11.30.42.excalidraw.md",
     "kako CPE ve, kdo zahteva prekinitev?.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-1-teden/Prekinitve.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/Vstop in izstop iz prekinitveno servisnega podprograma - ARM Cortex M.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-3-teden/predavanje-vs-3-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/predavanje-irz-6-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/Kontekstno-neodvisne gramatike in jeziki.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241103144533.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/bisekcija.gif",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Pasted image 20241025135547.png",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/Pasted image 20241023145557.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018141842.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018135134.png",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Pasted image 20241018134032.png",
     "Untitled.canvas"
   ]
 }
