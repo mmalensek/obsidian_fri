@@ -15,9 +15,14 @@ Vaje enakomerna porazdelitev:
 Vaje eksponentna porazdelitev:
 ![[vaje-vis-7-teden 2024-11-12 09.55.40.excalidraw]]
 
+Dodatna naloga:
+![[vaje-vis-7-teden 2024-11-12 10.34.19.excalidraw]]
+
 Zveza med eksponentno in Poissonovo porazdelitvijo:
 - $\lambda$ - povprečno število stranki, ki vstopi v trgovino v $1h$
 - $X$ - število strank, ki vstopi v trgovino v $1h$, $X\sim P(\lambda)$
 - $T$ - čas prihoda strank, $T \sim \varepsilon(\lambda)$
+
+[[Diskretni slučajni vektorji]];
 
 ---
