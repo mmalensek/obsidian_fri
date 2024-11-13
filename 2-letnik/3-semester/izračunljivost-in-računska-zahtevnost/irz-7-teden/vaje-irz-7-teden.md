@@ -24,4 +24,7 @@ Primeri:
 
 Deterministični skladovni avtomat, za vsako trojko, mora biti največ en prehod, ki imajo lahko tihe prehode, če ti ne povzročijo dvoumnosti.
 
+Primer kako se gramatika pretvori v skladovni avtomat:
+![[vaje-irz-7-teden 2024-11-13 09.58.15.excalidraw]]
+
 ---

@@ -1,6 +1,10 @@
 [[predavanje-vs-6-teden]]; #vs-flashcards 
 
-Naprava za delo s časom, ki ga vsebujejo vsi računalniški sistemi. V našem STM-u je okoli 15 različnih časovnikov, ki so zgrajeni iz enakih jeder - <font color="#92cddc">časovna baza</font>.![[Časovniki 2024-11-06 10.27.39.excalidraw]]
+Naprava za delo s časom, ki ga vsebujejo vsi računalniški sistemi. V našem STM-u je okoli 15 različnih časovnikov, ki so zgrajeni iz enakih jeder - <font color="#92cddc">časovna baza</font>.
+
+Poznamo osnovne, splošno-namenske in napredne časovnike.
+
+![[Časovniki 2024-11-06 10.27.39.excalidraw]]
 
 - $TIMx\_PSC$ je delilnik ure, ki urin signal na vodilu $APB1$ deli z vrednostjo v $TIMx\_PSC$: $f_{TIM_CLK} = \frac{f_{APB1_CLK}}{TIMx\_PSC + 1}$ 
 - $TIMx\_CNT$ je prostotekoči števec, ki teče se frekvenco ure $TIM\_CLK$.
@@ -24,14 +28,13 @@ Za primer vzamemo $TIM3$:
 
 ![[Časovniki 2024-11-06 11.28.11.excalidraw]]
 
-	Imamo dva načina spreminjanja $ARR$-ja:
-	1) $CPE$ piše neposredno v $TIMx\_ARR$, kar pomeni, da se nova perioda štetja upošteva takoj
-	2) $CPE$ piše v $SHADOW \ TIMx\_ARR$ in se ob $UEV$ prepiše v $TIMx\_ARR$. 
+Imamo dva načina spreminjanja $ARR$-ja:
+1) $CPE$ piše neposredno v $TIMx\_ARR$, kar pomeni, da se nova perioda štetja upošteva takoj
+2) $CPE$ piše v $SHADOW \ TIMx\_ARR$ in se ob $UEV$ prepiše v $TIMx\_ARR$. 
 
 
-2) $TIM3\_DIER$ - kjer nam zadnji bit pove ali ob $UEV$ proži prekinitev (gleda se samo zadnji bit)
-
-3) $TIM3\_SR$ - zadnji bit predstavlja zastavico, ki se postavi ob $UEV$
+-  $TIM3\_DIER$ - kjer nam zadnji bit pove ali ob $UEV$ proži prekinitev (gleda se samo zadnji bit)
+-  $TIM3\_SR$ - zadnji bit predstavlja zastavico, ki se postavi ob $UEV$
 
 ---
 
