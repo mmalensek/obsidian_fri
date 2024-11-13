@@ -4,75 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "edda24862192e072",
+        "id": "115071d24f585cf7",
         "type": "tabs",
         "children": [
           {
-            "id": "8ef1833e12648a29",
+            "id": "296015a2e243d0a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/vaje-vis-7-teden.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-ekstra/irz-kolokvij-1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vaje-vis-7-teden"
+              "title": "irz-kolokvij-1"
             }
           },
           {
-            "id": "52199d5fa9dff1fc",
+            "id": "2a72a9a05f35c47d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "Diskretni slučajni vektorji.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.7.6"
               },
               "icon": "lucide-file",
-              "title": "Diskretni slučajni vektorji"
-            }
-          },
-          {
-            "id": "7f51b41e0f2bd0f6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "5-temp/Excalidraw/Diskretni slučajni vektorji 2024-11-12 10.48.23.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Diskretni slučajni vektorji 2024-11-12 10.48.23.excalidraw"
-            }
-          },
-          {
-            "id": "d6beeba116120b2d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/vaje-vis-7-teden 2024-11-12 10.34.19.excalidraw.md"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "2f48e97746162fc2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/vaje-vis-7-teden 2024-11-12 09.55.40.excalidraw.md"
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Release Notes 1.7.6"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -158,10 +119,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-temp/Excalidraw/Diskretni slučajni vektorji 2024-11-12 10.48.23.excalidraw.md"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-ekstra/irz-kolokvij-1.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Diskretni slučajni vektorji 2024-11-12 10.48.23.excalidraw"
+              "title": "Outline of irz-kolokvij-1"
             }
           },
           {
@@ -233,8 +194,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -278,12 +239,11 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,14 +259,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7f51b41e0f2bd0f6",
+  "active": "1c919639d052d84e",
   "lastOpenFiles": [
-    "Diskretni slučajni vektorji.md",
-    "5-temp/Excalidraw/Diskretni slučajni vektorji 2024-11-12 10.48.23.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-ekstra/irz-kolokvij-1.md",
+    "Untitled",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/vaje-vis-7-teden 2024-11-12 09.55.40.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/vaje-vis-7-teden 2024-11-12 10.34.19.excalidraw.md",
+    "5-temp/Excalidraw/Diskretni slučajni vektorji 2024-11-12 10.48.23.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/Diskretni slučajni vektorji.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/predavanje-vis-6-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/vaje-vis-7-teden.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/vaje-vis-7-teden 2024-11-12 10.34.19.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
     "5-temp/Excalidraw/vaje-vis-7-teden 2024-11-12 09.30.14.excalidraw.md",
     "5-temp/Excalidraw/Geometrijska porazdelitev 2024-10-29 09.50.13.excalidraw.md",
@@ -339,8 +301,6 @@
     "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/izjeme pri ARM Cortex.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden 2024-11-07 12.24.56.excalidraw.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden 2024-11-07 11.40.05.excalidraw.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241103144533.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/bisekcija.gif",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Pasted image 20241025135547.png",
