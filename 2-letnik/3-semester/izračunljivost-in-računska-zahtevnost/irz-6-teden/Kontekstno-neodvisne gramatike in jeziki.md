@@ -8,7 +8,7 @@ Te se pojavljajo npr. pri definiranju programskih jezikov, ...
 - $V$ končna množica vmesnih simbolov,
 - $T$ končna množica končnih simbolov,
 - $P$ končna množica produkcij oblike $... \Rightarrow ...$, kjer je na levi strani poljuben vmesni simbol iz $V$ in na desni strani poljubna beseda iz jezika $(V\ \cup \ T)^*$,
-- $S$ je poseben vmesni simbol, imenovan začetni simbol.
+- $S$ je poseben vmesni simbol, imenovan začetni simbol (start symbol).
 
 <font color="#92cddc">Definicija</font>: Naj bo $A \Rightarrow \beta$ produkcija in $\alpha, \gamma \in (V \ U \ T)^*$ poljubni besedi.
 - To produkcijo uporabimo na $\alpha A \gamma$ tako, da v tej besedi zamenjamo $A$ z $\beta$. Takrat rečemo, da smo iz $\alpha A \gamma$ neposredno izpeljali z uporabo produkcije.

@@ -3,5 +3,6 @@
   "newFileFolderPath": "Temp",
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "./",
-  "promptDelete": false
+  "promptDelete": false,
+  "spellcheck": false
 }
