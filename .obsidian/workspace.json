@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Časovniki"
             }
+          },
+          {
+            "id": "84713a28e154c5f8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/Časovniki 2024-11-13 11.22.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Časovniki 2024-11-13 11.22.32.excalidraw"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -135,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/Časovniki.md"
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/Časovniki 2024-11-13 11.22.32.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Časovniki"
+              "title": "Outline of Časovniki 2024-11-13 11.22.32.excalidraw"
             }
           },
           {
@@ -259,7 +272,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,11 +289,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc0ab90d703a37ef",
+  "active": "84713a28e154c5f8",
   "lastOpenFiles": [
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-7-teden/predavanje-vs-7-teden.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/Časovniki.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/Časovniki 2024-11-13 11.22.32.excalidraw.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/predavanje-vs-6-teden.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/Časovniki 2024-11-13 10.42.27.excalidraw.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/Časovniki 2024-11-13 10.34.50.excalidraw.md",
+    "5-temp/Excalidraw/Časovniki 2024-11-06 10.27.39.excalidraw.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-7-teden/predavanje-vs-7-teden.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-7-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-ekstra/irz-kolokvij-1.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden.md",
@@ -309,10 +327,6 @@
     "1-letnik",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/Drevesa.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/predavanje-aps-6-teden.md",
-    "().md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Podatkovne strukture.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/Abstraktni podatkovni tipi.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Zgoščena-Razpršena tabela (Hash table).md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_sql.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-6-teden/Pasted image 20241108103315.png",

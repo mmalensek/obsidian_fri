@@ -2,11 +2,21 @@
 
 Naprava za delo s časom, ki ga vsebujejo vsi računalniški sistemi. V našem STM-u je okoli 15 različnih časovnikov, ki so zgrajeni iz enakih jeder - <font color="#92cddc">časovna baza</font>.
 
-Poznamo osnovne, splošno-namenske in napredne časovnike.
+Imamo:
+- osnovne, - ima samo časovno bazo
+- splošno-namenske, - imajo tudi vezje za generiranje in zajemanje signalov
+- napredne časovnike.
 
 ![[Časovniki 2024-11-06 10.27.39.excalidraw]]
 
-- $TIMx\_PSC$ je delilnik ure, ki urin signal na vodilu $APB1$ deli z vrednostjo v $TIMx\_PSC$: $f_{TIM_CLK} = \frac{f_{APB1_CLK}}{TIMx\_PSC + 1}$ 
+- $TIMx\_PSC$ je delilnik ure, ki urin signal na vodilu $APB1$ deli z vrednostjo v $TIMx\_PSC$: $f_{TIM\_CLK} = \frac{f_{APB1_CLK}}{TIMx\_PSC + 1}$ 
+
+![[Časovniki 2024-11-13 10.34.50.excalidraw]]
+
+- perioda $UEV$ je odvisna od:
+	- $TIM\_CLK$; hitrejši je ta, krajša je perioda štetja
+	- $ARR$; ...
+
 - $TIMx\_CNT$ je prostotekoči števec, ki teče se frekvenco ure $TIM\_CLK$.
 - $TIMx\_ARR$ (Auto Reload Register) je register s katerim se primerja vrednost prostotekočega števca, ko $TIM\_CNT$ doseže vrednost zapisano v $TIM\_ARR$ registru, se proži <font color="#92cddc">dogodek</font> $UEV$ (update event).
 - ta dogodek pomeni, da se postavi zastavica in lahko se proži prekinitev, če jo omogočimo in $TIM\_CNT$ se resetira.
@@ -15,7 +25,7 @@ Poznamo osnovne, splošno-namenske in napredne časovnike.
 
 - lahko merimo absolutni čas, tako da beremo $TIM\_CNT$, pri čemer je natančnost določena s $f_{TIM\_CLK}$ 
 - lahko pa periodično prožimo dogodke na vsake $ARR$ časa, kjer je: $$t_{periode} = (TIDx\_ARR + 1) \cdot \frac{1}{f_{TIM\_CLK}}$$
-Časovniki so, kot vse ostale periferne naprave, pomnilniško preslikani, torej so CPE vidni kot 32-bitne pomnilniške besede, čeprav se uporablja samo spodnjih 16.
+Časovniki so, kot vse ostale periferne naprave, pomnilniško preslikani, torej so CPE vidni kot 32-bitne pomnilniške besede, čeprav se uporablja samo spodnjih 16 bitov.
 
 Poleg omenjenih treh registrov imajo še množico drugih kontrolnih in statusnih registrov, ki so prav tako pomnilniško preslikani, npr:
 - $TIMx\_CR1$ (control register 1, jih je lahko več, odvisno od zahtevnosti časovnika), v katerem nastavljamo osnovne lastnosti posameznega časovnika
@@ -43,3 +53,9 @@ Postopek inicializacije časovnika npr. $TIM3$:
 1) v $ARR$ in $PSC$ vpišemo željene vrednosti
 2) nastavim bite v $CR1$, omogočim časovnik
 3) po potrebi omogočim tudi prekinitve
+
+---
+
+### Izhodni primerjalni način - output compare mode
+
+![[Časovniki 2024-11-13 11.22.32.excalidraw]]
