@@ -20,4 +20,13 @@ Zveza med izpeljivostjo in robovi.
 ### Dvoumnost in bivstvena dvoumnost
 - ali obstaja več kot eno drevo izpeljav
 
+### Normalne oblike kontekstno-neodvisnih gramatik
+
+
+### Normalna oblika Chomskega in Greibachove
+
+
+### Bistveno dvoumni kontekstno-neodvisni jeziki
+
+
 ---

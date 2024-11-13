@@ -1,6 +1,6 @@
 {
-  "theme": "moonstone",
-  "cssTheme": "Vanilla AMOLED",
+  "theme": "system",
+  "cssTheme": "Things",
   "interfaceFontFamily": "",
   "enabledCssSnippets": [
     "Colored Sidebar Items",
