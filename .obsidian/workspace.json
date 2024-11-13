@@ -22,15 +22,29 @@
             }
           },
           {
-            "id": "2a72a9a05f35c47d",
+            "id": "2e117f8a209239e0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.6"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
+              "title": "vaje-irz-7-teden"
+            }
+          },
+          {
+            "id": "7ccef6f02be91467",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden 2024-11-13 08.32.07.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "vaje-irz-7-teden 2024-11-13 08.32.07.excalidraw"
             }
           }
         ],
@@ -90,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -119,10 +134,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-ekstra/irz-kolokvij-1.md"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of irz-kolokvij-1"
+              "title": "Outline of vaje-irz-7-teden"
             }
           },
           {
@@ -243,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,8 +277,10 @@
   },
   "active": "1c919639d052d84e",
   "lastOpenFiles": [
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden 2024-11-13 08.32.07.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-ekstra/irz-kolokvij-1.md",
-    "Untitled",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/vaje-vis-7-teden 2024-11-12 09.55.40.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/vaje-vis-7-teden 2024-11-12 10.34.19.excalidraw.md",
     "5-temp/Excalidraw/Diskretni slučajni vektorji 2024-11-12 10.48.23.excalidraw.md",
@@ -299,8 +317,6 @@
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden 2024-11-07 12.31.07.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-2-teden/izjeme pri ARM Cortex.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden 2024-11-07 12.24.56.excalidraw.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Pasted image 20241103144533.png",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-3-teden/bisekcija.gif",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-4-teden/Pasted image 20241025135547.png",
