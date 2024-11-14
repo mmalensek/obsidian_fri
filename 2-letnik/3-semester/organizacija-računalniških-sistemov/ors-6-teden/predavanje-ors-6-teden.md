@@ -46,4 +46,31 @@ Ampak: GPIO pinov je npr. v našem sistemu $11 \cdot 16 = 176$, kar je preveč z
 
 $MUX_i$ izbira, kateri izmed GPIO pinov z indeksom $i$ gre na $EXTI_i$.
 
+Želimo si, da bi programsko nastavljali izbirne bite na multipleskerjih.  Zato izbiralni vhod v $MUX-e$ so vezani na bite v registrih, ki so pomnilniško preslikani. Potrebujemo $16\times 4$ bitne registre, ker je ravno $2 \times 32$ bitni register, da se ne bi omejili imamo v sistemu $4\times 32$-bitne registre.
+
+![[predavanje-ors-6-teden 2024-11-14 10.41.00.excalidraw]]
+
+Še $EXTI$:
+- ima 16 vhodnih linij, ki prekinjajo 16 vhodov na $NVIC$
+- pogledamo detajle za eno linijo (npr. $EXTI13$)
+	1) možnost: ali želimo detektirati prvo ali zadnjo fronto na pinu?
+	2) možnost: ali sploh želim odzivati na spremembo pina?
+	3) možnost: da si zapomnemo prekinitveno zahtevo (zahteva je na čakanju - pending),
+	4) možnost: da pobrišem prekinitveno zahtevo čakanju.
+
+![[predavanje-ors-6-teden 2024-11-14 10.49.57.excalidraw]]
+
+- $RTSR$ - $0$ ne ozdiva na prvo fronto; $1$ se odzivamo na prvo fronto
+- $FTSR$ - enako samo da za zadnjo fronto
+- $IMR$ - $0$ maskira prekinitev;  $1$ omogoči prekinitev
+
+Še $NVIC$:
+- programsko nastavljiv prekinitveni krmilnik, kjer lahko za vsak vhod nastavljamo:
+	1) ali se odzivamo na ta vhod - za 240 vhodov potrebujemo 240 bitov, torej $8\times 32$-bitnih registrov,
+	2) za vsak vhod lahko nastavim enega od 256-ih prioritetnih nivojev (višja številka predstavlja nižjo prioriteto).
+
+- prvi bit $ISER0$ (interrupt set enable register) omogoča $IRQ0$, drugi $IRQ1$, ...
+- ...
+- prvi bit 
+
 ---
