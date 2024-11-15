@@ -7,6 +7,8 @@
 
 ### Vsebina:
 
+### Range query, point update
+
 1) Recimo da nas zanima kolikokrat se najmanjša vrednost pojavi na nekem območju.
 
 ![[predavanje-aps-7-teden 2024-11-15 12.23.45.excalidraw]]
@@ -25,8 +27,16 @@
 	- ...
 
 3) iščemo najmanjše število ≥ x
-	- 
+	- imamo nek merge sort, kjer shranjujemo posamezne korake
+	- izgradnja:
+		- čas: $O(n\log n)$
+		- prostor: $O(n \log n)$
+	- poizvedba:
+		- čas: $O(\log^2 n)$ 
 
 ![[predavanje-aps-7-teden 2024-11-15 12.40.06.excalidraw]]
+
+
+[[Uravnotežena drevesa]];
 
 ---

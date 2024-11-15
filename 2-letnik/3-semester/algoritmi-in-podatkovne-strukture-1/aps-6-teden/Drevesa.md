@@ -30,3 +30,7 @@ Obhodi:
 - premi (pre-order) - $F, B, A, D, C, E, G, I, H$
 - obratni (post-order) - $A, C, E, D, B, H, I, G, F$
 - nivojski (level) - $F, B, G, A, D, I, C, E, H$ 
+
+### Uravnotežena drevesa
+
+![[Uravnotežena drevesa]]
