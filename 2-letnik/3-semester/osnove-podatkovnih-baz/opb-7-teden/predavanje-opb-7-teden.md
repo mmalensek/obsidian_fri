@@ -9,6 +9,6 @@
 
 Query-by-example si predstavljal kot relacijski račun, kjer pokažemo, kakšen rezultat si želimo.
 
-[[Diski in diskovna polja]];
+[[Diski in diskovna polja]], [[Upravljanje z diskom in pomnilnikom]];
 
 ---

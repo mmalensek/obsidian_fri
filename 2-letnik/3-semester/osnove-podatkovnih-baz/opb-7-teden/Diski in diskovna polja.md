@@ -61,7 +61,7 @@ RAID z <font color="#6425d0">redundanco podatkov</font>
 
 - večinoma redundanten disk na podlagi paritetni bit, kjer če en disk odpove lahko na podlagi paritet se novo vstavljeni disk postavi.
 
-- RAID 0 - porazdeljen in brez redundancem, MTTF pada linearno s številom diskov v polju.
-- RAID 1 - zrcaljenje - kar se piše na en disk se kopira na drugega (izraba prostora samo 50%).
-- RAID 4 in 5, na 4 so vsi paritetni biti na enem disku, v 5 pa so porazdeljeni
-- ... RAID 5 in 6 sta največkrat uporabljena v praksi
+- RAID 0 - porazdeljen in brez redundancem, MTTF pada linearno s številom diskov v polju,
+- RAID 1 - zrcaljenje - kar se piše na en disk se kopira na drugega (izraba prostora samo 50%),
+- RAID 4 in 5, na 4 so vsi paritetni biti na enem disku, v 5 pa so porazdeljeni,
+- ... RAID 5 in 6 sta največkrat uporabljena v praksi (6 je neobčutljiv na odpoved dveh diskov).
