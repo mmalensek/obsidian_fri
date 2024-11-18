@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "1206f045f8e193a8",
+        "id": "e22b0bf36d567792",
         "type": "tabs",
         "children": [
           {
-            "id": "2d18ce19c009fa42",
+            "id": "2c717628610df2f5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "4-imp/latex_sheet.pdf"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "latex_sheet"
+              "icon": "lucide-file",
+              "title": "vaje-irz-3-teden"
+            }
+          },
+          {
+            "id": "56f7b41001eda6e4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden 2024-10-16 09.21.57.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "vaje-irz-3-teden 2024-10-16 09.21.57.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -105,10 +119,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4-imp/latex_sheet.pdf"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden 2024-10-16 09.21.57.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of latex_sheet"
+              "title": "Outline of vaje-irz-3-teden 2024-10-16 09.21.57.excalidraw"
             }
           },
           {
@@ -246,19 +260,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1c919639d052d84e",
+  "active": "56f7b41001eda6e4",
   "lastOpenFiles": [
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/predavanje-aps-7-teden.md",
-    "Uravnotežena drevesa.md",
-    "Splay drevo.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden 2024-10-16 08.31.56.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/vaje-irz-2-teden.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/2-3 drevo.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/AVL drevo.md",
     "Splay/lomljeno drevo.md",
+    "4-imp/latex_sheet.pdf",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/predavanje-aps-7-teden.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/Uravnotežena drevesa.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/Splay drevo.md",
     "Splay",
-    "B-drevo.md",
-    "2-3 drevo.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/B-drevo.md",
     "5-temp/Excalidraw/2-3 drevo 2024-11-15 14.52.32.excalidraw.md",
-    "Rdeče-črno drevo.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/Rdeče-črno drevo.md",
     "5-temp/Excalidraw/Rdeče-črno drevo 2024-11-15 14.43.49.excalidraw.md",
-    "AVL drevo.md",
     "5-temp/Excalidraw/Uravnotežena drevesa 2024-11-15 14.22.09.excalidraw.md",
     "5-temp/Excalidraw/Uravnotežena drevesa 2024-11-15 13.52.29.excalidraw.md",
     "5-temp/Excalidraw/Uravnotežena drevesa 2024-11-15 13.19.57.excalidraw.md",
@@ -273,15 +291,11 @@
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/upravljanje_z_diskom_in_pomnilnikom.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-7-teden/Diski in diskovna polja.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/diski_in_diskovna_polja.pdf",
-    "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-7-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/predavanje-vis-7-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/Screenshot 2024-11-14 at 19.41.25.png",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-7-teden/predavanje-ors-7-teden.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-7-teden/predavanje-ors-7-teden 2024-11-14 12.34.19.excalidraw.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-7-teden/predavanje-ors-7-teden 2024-11-14 12.42.09.excalidraw.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-6-teden/predavanje-ors-6-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-7-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-7-teden",
