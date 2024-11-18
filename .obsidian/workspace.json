@@ -11,10 +11,12 @@
             "id": "2d18ce19c009fa42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "4-imp/latex_sheet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "latex_sheet"
             }
           }
         ]
@@ -102,9 +104,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "4-imp/latex_sheet.pdf"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of latex_sheet"
             }
           },
           {
