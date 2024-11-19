@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "96eb2e6b0f397a0b",
+        "id": "adf4d8642c095027",
         "type": "tabs",
         "children": [
           {
-            "id": "3474754c560d2b1c",
+            "id": "66631b8529cd7ef4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "vaje-irz-4-teden"
-            }
-          },
-          {
-            "id": "417772d5f077a786",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -119,11 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw"
+              "title": "Outline"
             }
           },
           {
@@ -142,8 +122,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -185,8 +165,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -205,8 +185,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -215,8 +195,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -225,12 +205,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
             "id": "bcc02fe57cc10e68",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "32bd460ccd811ecb",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -261,8 +251,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "417772d5f077a786",
+  "active": "1c919639d052d84e",
   "lastOpenFiles": [
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden 2024-11-13 08.32.07.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-6-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden 2024-11-06 09.17.42.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden 2024-11-06 08.21.13.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden 2024-10-29 07.39.10.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden 2024-10-29 07.31.09.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw.md",
+    "2-letnik/4-semester",
+    "3-letnik",
+    "1-letnik",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden 2024-10-23 08.25.08.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden.md",
@@ -282,24 +284,12 @@
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/Rdeče-črno drevo.md",
     "5-temp/Excalidraw/Rdeče-črno drevo 2024-11-15 14.43.49.excalidraw.md",
     "5-temp/Excalidraw/Uravnotežena drevesa 2024-11-15 14.22.09.excalidraw.md",
-    "5-temp/Excalidraw/Uravnotežena drevesa 2024-11-15 13.52.29.excalidraw.md",
-    "5-temp/Excalidraw/Uravnotežena drevesa 2024-11-15 13.19.57.excalidraw.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/Drevesa.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/predavanje-aps-7-teden 2024-11-15 12.40.06.excalidraw.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/predavanje-aps-7-teden 2024-11-15 12.26.18.excalidraw.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/predavanje-aps-7-teden 2024-11-15 12.23.45.excalidraw.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/predavanje-aps-6-teden.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-7-teden/predavanje-opb-7-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-7-teden/Upravljanje z diskom in pomnilnikom.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/upravljanje_z_diskom_in_pomnilnikom.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/diski_in_diskovna_polja.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-7-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis_prosojnice.pdf",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/Screenshot 2024-11-14 at 19.41.25.png",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-7-teden",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-7-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.54.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.03.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.35.39.png",
