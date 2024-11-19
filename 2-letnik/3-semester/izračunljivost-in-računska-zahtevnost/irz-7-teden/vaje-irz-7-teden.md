@@ -19,7 +19,7 @@ Funkcija prehodov $\sigma : Q\times (\Sigma \cup \{\epsilon\})\times \Gamma \rig
 
 Trenutni opis: $(stanje, \ preostanek \ vhoda, vsebina \ sklada)$
 
-Primeri:
+Primeri: 
 ![[vaje-irz-7-teden 2024-11-13 08.32.07.excalidraw]]
 
 Deterministični skladovni avtomat, za vsako trojko, mora biti največ en prehod, ki imajo lahko tihe prehode, če ti ne povzročijo dvoumnosti.
