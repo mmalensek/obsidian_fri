@@ -4,51 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "adf4d8642c095027",
+        "id": "1802035b8ad6c19f",
         "type": "tabs",
         "children": [
           {
-            "id": "66631b8529cd7ef4",
+            "id": "884ec7cd54450fb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden.md",
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-8-teden/predavanje-vs-8-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vaje-irz-7-teden"
+              "title": "predavanje-vs-8-teden"
             }
           },
           {
-            "id": "5d8a7ac82d8f5045",
+            "id": "cd0e666f7881ee0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden.md",
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/Časovniki.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vaje-irz-8-teden"
-            }
-          },
-          {
-            "id": "c5663f7373a34b2b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw"
+              "title": "Časovniki"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -134,10 +121,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw.md"
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/Časovniki.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw"
+              "title": "Outline of Časovniki"
             }
           },
           {
@@ -265,10 +252,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c5663f7373a34b2b",
+  "active": "cd0e666f7881ee0a",
   "lastOpenFiles": [
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-7-teden/predavanje-vs-7-teden.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-8-teden/predavanje-vs-8-teden.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-8-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden",
     "tet.md",
@@ -295,14 +286,10 @@
     "Splay/lomljeno drevo.md",
     "4-imp/latex_sheet.pdf",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/predavanje-aps-7-teden.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/Uravnotežena drevesa.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/Splay drevo.md",
     "Splay",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/B-drevo.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/upravljanje_z_diskom_in_pomnilnikom.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/diski_in_diskovna_polja.pdf",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-7-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/Screenshot 2024-11-14 at 19.41.25.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.54.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.03.png",

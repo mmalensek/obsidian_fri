@@ -58,6 +58,8 @@ Postopek inicializacije časovnika npr. $TIM3$:
 
 ### Izhodni primerjalni način - output compare mode
 
+Vsak $CCRx$ lahko krmili pine od $1$ do $4$. 
+
 ![[Časovniki 2024-11-13 11.22.32.excalidraw]]
 
 ### Pulzno-širinski način
