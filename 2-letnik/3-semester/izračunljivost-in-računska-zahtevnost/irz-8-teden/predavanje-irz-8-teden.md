@@ -7,6 +7,6 @@
 
 ### Vsebina:
 
-[[Skladovni avtomati]]
+[[Skladovni avtomati (stack automata)]]
 
 ---
