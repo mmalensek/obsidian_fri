@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "1802035b8ad6c19f",
+        "id": "69dd1b97011803b4",
         "type": "tabs",
         "children": [
           {
-            "id": "884ec7cd54450fb4",
+            "id": "6023db017f52a6a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-8-teden/predavanje-vs-8-teden.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/predavanje-irz-8-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "predavanje-vs-8-teden"
+              "title": "predavanje-irz-8-teden"
             }
           },
           {
-            "id": "cd0e666f7881ee0a",
+            "id": "9d14242532e1bd0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/Časovniki.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/Skladovni avtomati.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Časovniki"
+              "title": "Skladovni avtomati"
+            }
+          },
+          {
+            "id": "4498bf61b0544c7f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "irz_prosojnice"
             }
           }
         ],
@@ -121,10 +133,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/Časovniki.md"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/Skladovni avtomati.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Časovniki"
+              "title": "Outline of Skladovni avtomati"
             }
           },
           {
@@ -252,12 +264,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cd0e666f7881ee0a",
+  "active": "e3681eed52612b9c",
   "lastOpenFiles": [
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-7-teden/predavanje-vs-7-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/Skladovni avtomati 2024-11-20 13.21.14.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/Skladovni avtomati.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/predavanje-irz-8-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-8-teden/predavanje-vs-8-teden.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-8-teden",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/Časovniki.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-6-teden/Časovniki 2024-11-20 12.24.52.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-7-teden/predavanje-vs-7-teden.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-8-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden.md",
@@ -270,7 +289,6 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden 2024-11-06 08.21.13.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden 2024-10-29 07.39.10.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden 2024-10-29 07.31.09.excalidraw.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw.md",
     "2-letnik/4-semester",
     "3-letnik",
@@ -280,16 +298,10 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden 2024-10-16 09.21.57.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden 2024-10-16 08.31.56.excalidraw.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/vaje-irz-2-teden.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/2-3 drevo.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/AVL drevo.md",
-    "Splay/lomljeno drevo.md",
     "4-imp/latex_sheet.pdf",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/predavanje-aps-7-teden.md",
     "Splay",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/upravljanje_z_diskom_in_pomnilnikom.pdf",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/diski_in_diskovna_polja.pdf",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/Screenshot 2024-11-14 at 19.41.25.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.54.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.03.png",

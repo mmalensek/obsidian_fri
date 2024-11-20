@@ -63,6 +63,14 @@ Vsak $CCRx$ lahko krmili pine od $1$ do $4$.
 ![[Časovniki 2024-11-13 11.22.32.excalidraw]]
 
 ### Pulzno-širinski način
+
 ![[Časovniki 2024-11-13 12.36.25.excalidraw]]
+
+
+### Input capture mode
+
+Ideja: ne vem
+
+![[Časovniki 2024-11-20 12.24.52.excalidraw]]
 
 ---
