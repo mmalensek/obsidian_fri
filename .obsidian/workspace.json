@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "69dd1b97011803b4",
+        "id": "50e21ec9eadc1aad",
         "type": "tabs",
         "children": [
           {
-            "id": "9d14242532e1bd0b",
+            "id": "273d2cd529f9a6a5",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw.md"
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden/predavanje-ors-8-teden.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw"
+              "icon": "lucide-file",
+              "title": "predavanje-ors-8-teden"
             }
           }
         ]
@@ -75,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -104,10 +107,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw.md"
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden/predavanje-ors-8-teden.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw"
+              "title": "Outline of predavanje-ors-8-teden"
             }
           },
           {
@@ -235,8 +238,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d14242532e1bd0b",
+  "active": "273d2cd529f9a6a5",
   "lastOpenFiles": [
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-7-teden/predavanje-ors-7-teden.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-7-teden/predavanje-ors-7-teden 2024-11-21 10.56.08.excalidraw.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden/predavanje-ors-8-teden.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-7-teden/predavanje-ors-7-teden 2024-11-21 10.32.33.excalidraw.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/Skladovni avtomati (stack automata).md",
@@ -261,17 +270,12 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden 2024-11-06 09.17.42.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-6-teden/vaje-irz-5-teden 2024-11-06 08.21.13.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden 2024-10-29 07.39.10.excalidraw.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden 2024-10-29 07.31.09.excalidraw.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw.md",
     "2-letnik/4-semester",
     "3-letnik",
     "1-letnik",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-4-teden/vaje-irz-4-teden 2024-10-23 08.25.08.excalidraw.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden 2024-10-16 09.21.57.excalidraw.md",
     "4-imp/latex_sheet.pdf",
     "Splay",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/upravljanje_z_diskom_in_pomnilnikom.pdf",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/Screenshot 2024-11-14 at 19.41.25.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.54.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.03.png",
