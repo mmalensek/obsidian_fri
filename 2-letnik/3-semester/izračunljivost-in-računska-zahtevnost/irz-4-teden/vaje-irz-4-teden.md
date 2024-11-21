@@ -18,8 +18,8 @@ Regularni izrazi in njihov jezik:
 - $L_1L_2 = \{uv \mid u \in L_1, v \in L_2\}$
 - $L^* = \{\varepsilon\} \cup L \cup LL \cup LLL \cup ...$
 
-Vaje: Regularni izrazi: ![[vaje-irz-4-teden 2024-10-23 08.25.08.excalidraw]]
-Vaje: Regularni izrazi v avtomate: ![[vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw]]
+Vaje: Regularni izrazi: ![[vaje-irz-4-teden 2024-10-23 08.25.08.excalidraw|600]]
+Vaje: Regularni izrazi v avtomate: ![[vaje-irz-4-teden 2024-10-23 09.09.41.excalidraw|600]]
 Končna stanja $NKA$ pretvorjenega iz $NKA_\varepsilon$;; so vsa tista končna stanja, s katerih lahko samo s tihim prehodom pridemo do končnega stanja (primer 3. naloga).
 <!--SR:!2024-10-27,4,270-->
 
