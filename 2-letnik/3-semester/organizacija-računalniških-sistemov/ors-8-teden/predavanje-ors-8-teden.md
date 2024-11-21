@@ -7,8 +7,6 @@
 
 ### Vsebina:
 
-[[predavanje-ors-7-teden]];
-
-
+[[predavanje-ors-7-teden]], [[DMA krmilniki]];
 
 ---
