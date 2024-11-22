@@ -7,6 +7,6 @@
 
 ### Vsebina:
 
-
+[[Požrešni algoritmi (greedy)]]
 
 ---
