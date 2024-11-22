@@ -1,6 +1,6 @@
 [[predavanje-opb-8-teden]], [[organizacija_datotek_in_indeksi.pdf|pdf o tej temi]];
 
-<font color="#6425d0">Osnovni koncept:</font>
+### Organizacija datotek
 - uporabnik zahteva nek zapis od SUPB:
 	- SUPB naredi preslikavo logičnega zapisa v fizični
 	- in ga na to prepiše v primarni pomnilnik oziroma medpomnilnik.
@@ -35,3 +35,26 @@
 			- v primeru kolizije se uporabi dodatna hash funkcija, ki vrača drugačen naslov, ki razvršča v dodatni prostor
 
 
+<font color="#8064a2">Dinamične razpršene datoteke:</font>
+- razširljivo razprševanje (extendible hashing)
+- primer: ![[Screenshot 2024-11-22 at 10.39.34.png|300]]
+
+### Indeksi in indeksiranje
+
+...
+
+<font color="#8064a2">Drevesno indeksiranje:</font>
+- ISAM (indexed sequential access method)
+- B+ drevesna struktura (kle velik manjka)
+
+<font color="#8064a2">Stiskanje ključev:</font>
+- npr. imamo atribut "priimek" rezervirano 500 char, a redko bomo uporabili več kot 10 char
+
+<font color="#8064a2">Bitni indeks:</font>
+- uporabimo takrat ko ni veliko možnosti za vrednost nekega atributa npr. pozicija v službi.
+
+<font color="#8064a2">Stični indeks:</font>
+- uporablja se za tabele, ki imajo skupna polja
+
+<font color="#8064a2">Gruče:</font>
+- označuje skupino relacij, ki so fizično shranjene skupaj, imajo nekatere stolpce enake in se pogosto uporabljajo skupaj
