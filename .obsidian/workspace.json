@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bb274d1aadfca27",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "d7f44a5b39a3b8b4",
             "type": "leaf",
             "state": {
@@ -44,32 +34,9 @@
               "icon": "lucide-file",
               "title": "Požrešni algoritmi (greedy)"
             }
-          },
-          {
-            "id": "a5b3bc454cd2f305",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "5-temp/Excalidraw/Požrešni algoritmi (greedy) 2024-11-22 12.44.13.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Požrešni algoritmi (greedy) 2024-11-22 12.44.13.excalidraw"
-            }
-          },
-          {
-            "id": "0489eaa98ff334fa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "5-temp/Excalidraw/Požrešni algoritmi (greedy) 2024-11-22 12.28.34.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Požrešni algoritmi (greedy) 2024-11-22 12.28.34.excalidraw"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,9 +120,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/Požrešni algoritmi (greedy).md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Požrešni algoritmi (greedy)"
             }
           },
           {
@@ -283,12 +252,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2bb274d1aadfca27",
+  "active": "2195955b6f6eaeef",
   "lastOpenFiles": [
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/predavanje-aps-8-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/Požrešni algoritmi (greedy).md",
     "5-temp/Excalidraw/Požrešni algoritmi (greedy) 2024-11-22 12.44.13.excalidraw.md",
     "5-temp/Excalidraw/Požrešni algoritmi (greedy) 2024-11-22 12.28.34.excalidraw.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/predavanje-aps-8-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/predavanje-aps-6-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/organizacija_datotek_in_indeksi.pdf",

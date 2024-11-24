@@ -28,3 +28,9 @@ Kako se tega lotit?
 
 Ideje:
 - potrebujemo najmanj toliko učilnic kolikor je $max$ predavanj naenkrat
+
+
+### Problem <font color="#f020c7">datotek na traku (files on tape):</font>
+
+### Problem <font color="#8064a2">menjave kovancev:</font>
+- imamo nek nabor vrednosti kovancev, blagajnik mora meti vedno zadosti kovancev za poljubno vrednost vrnjene gotovinem koliko je najmanj kovancev?
