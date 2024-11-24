@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "ed9c0766277e0ffe",
+        "id": "ce862fa07ddb86c0",
         "type": "tabs",
         "children": [
           {
-            "id": "d7f44a5b39a3b8b4",
+            "id": "dfd3d6c66b0e31e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/predavanje-aps-8-teden.md",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/predavanje-aps-7-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "predavanje-aps-8-teden"
-            }
-          },
-          {
-            "id": "714418cdf851eb32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/Požrešni algoritmi (greedy).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Požrešni algoritmi (greedy)"
+              "title": "predavanje-aps-7-teden"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,10 +106,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/Požrešni algoritmi (greedy).md"
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/predavanje-aps-7-teden.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Požrešni algoritmi (greedy)"
+              "title": "Outline of predavanje-aps-7-teden"
             }
           },
           {
@@ -254,8 +239,8 @@
   },
   "active": "2195955b6f6eaeef",
   "lastOpenFiles": [
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/predavanje-aps-8-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/Požrešni algoritmi (greedy).md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/predavanje-aps-8-teden.md",
     "5-temp/Excalidraw/Požrešni algoritmi (greedy) 2024-11-22 12.44.13.excalidraw.md",
     "5-temp/Excalidraw/Požrešni algoritmi (greedy) 2024-11-22 12.28.34.excalidraw.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/predavanje-aps-6-teden.md",
