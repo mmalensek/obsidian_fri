@@ -12,7 +12,7 @@
 
 Ta porazdelitev je samo nek teoretični model in je diskretno, npr. pomeni da pri metu kocke ne moremo dobiti $2\frac{1}{2}$.
 
-![[vaje-vis-4-teden 2024-10-22 09.23.31.excalidraw]]
+![[vaje-vis-4-teden 2024-10-22 09.23.31.excalidraw|600]]
 
 <font color="#92cddc">Porazdelitvena funkcija</font>;; $F_X(x)$ je kumulativna verjetnost, vseh $X$ do $x$. Funkcija $F_X$ je zvezna z desne strani, oziroma $\lim_{x\rightarrow a^+} F_X(x) = F_X(a)$.
 <!--SR:!2024-10-24,1,230-->
