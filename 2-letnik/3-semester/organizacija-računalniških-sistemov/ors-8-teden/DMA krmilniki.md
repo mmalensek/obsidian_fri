@@ -33,4 +33,4 @@ Imamo $DMA1$ in $DMA2$, ki sta popolnoma enaka, le da drugi zna tudi prenašati 
 
 Kako povezati kanale (naprave) na stream-e?
 - programer lahko nastavi, kateri kanal gre na kateri stream.
-- imamo 8 - 128/1 MUX-ov, za vsak stream en MUX
+- imamo 8 - 128

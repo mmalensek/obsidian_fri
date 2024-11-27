@@ -4,77 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "f2b643f1c441b24a",
+        "id": "26f046f2a03e8f7a",
         "type": "tabs",
         "children": [
           {
-            "id": "e3a1fb502d4d7f2b",
+            "id": "2e841d9c18026dc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-9-teden/predavanje-vs-9-teden.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-9-teden/predavanje-irz-9-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "predavanje-vs-9-teden"
-            }
-          },
-          {
-            "id": "382f3927e204b437",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden/predavanje-ors-8-teden.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "predavanje-ors-8-teden"
-            }
-          },
-          {
-            "id": "eb20f5506f259bf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden/DMA krmilniki.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DMA krmilniki"
-            }
-          },
-          {
-            "id": "aad7273c1585d5d5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden/DMA krmilniki 2024-11-27 11.28.51.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "DMA krmilniki 2024-11-27 11.28.51.excalidraw"
-            }
-          },
-          {
-            "id": "65b2001ead8c4df8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "5-temp/Excalidraw/DMA krmilniki 2024-11-21 12.19.39.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "DMA krmilniki 2024-11-21 12.19.39.excalidraw"
+              "title": "predavanje-irz-9-teden"
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "909108d13a1ca402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cefe59ce9f69ab3e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "irz_prosojnice"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -160,10 +125,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden/DMA krmilniki 2024-11-27 11.28.51.excalidraw.md"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-9-teden/predavanje-irz-9-teden.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DMA krmilniki 2024-11-27 11.28.51.excalidraw"
+              "title": "Outline of predavanje-irz-9-teden"
             }
           },
           {
@@ -291,8 +256,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aad7273c1585d5d5",
+  "active": "2e841d9c18026dc7",
   "lastOpenFiles": [
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-9-teden/predavanje-irz-9-teden.md",
     "5-temp/Excalidraw/DMA krmilniki 2024-11-21 12.19.39.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden/DMA krmilniki 2024-11-27 11.28.51.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden/DMA krmilniki.md",
@@ -322,14 +289,11 @@
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-7-teden/predavanje-aps-7-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/Požrešni algoritmi (greedy).md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/predavanje-aps-8-teden.md",
-    "5-temp/Excalidraw/Požrešni algoritmi (greedy) 2024-11-22 12.44.13.excalidraw.md",
-    "5-temp/Excalidraw/Požrešni algoritmi (greedy) 2024-11-22 12.28.34.excalidraw.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/organizacija_datotek_in_indeksi.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-8-teden/Screenshot 2024-11-22 at 10.39.34.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-8-teden",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/Screenshot 2024-11-14 at 19.41.25.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.54.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.03.png",
