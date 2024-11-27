@@ -21,4 +21,8 @@ Imamo "pravila":
 
 ![[vaje-vis-8-teden 2024-11-26 10.21.44.excalidraw]]
 
+### Enostavni slučajni vzorec
+
+![[vaje-vis-8-teden 2024-11-26 10.43.12.excalidraw]]
+
 ---
