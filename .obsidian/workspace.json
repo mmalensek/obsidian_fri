@@ -50,6 +50,18 @@
             }
           },
           {
+            "id": "aad7273c1585d5d5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden/DMA krmilniki 2024-11-27 11.28.51.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "DMA krmilniki 2024-11-27 11.28.51.excalidraw"
+            }
+          },
+          {
             "id": "65b2001ead8c4df8",
             "type": "leaf",
             "state": {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -148,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden/DMA krmilniki.md"
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden/DMA krmilniki 2024-11-27 11.28.51.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of DMA krmilniki"
+              "title": "Outline of DMA krmilniki 2024-11-27 11.28.51.excalidraw"
             }
           },
           {
@@ -279,9 +291,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb20f5506f259bf5",
+  "active": "aad7273c1585d5d5",
   "lastOpenFiles": [
     "5-temp/Excalidraw/DMA krmilniki 2024-11-21 12.19.39.excalidraw.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden/DMA krmilniki 2024-11-27 11.28.51.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-8-teden/DMA krmilniki.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-8-teden/predavanje-vs-8-teden.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-9-teden/predavanje-vs-9-teden.md",
@@ -311,7 +324,6 @@
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/predavanje-aps-8-teden.md",
     "5-temp/Excalidraw/Požrešni algoritmi (greedy) 2024-11-22 12.44.13.excalidraw.md",
     "5-temp/Excalidraw/Požrešni algoritmi (greedy) 2024-11-22 12.28.34.excalidraw.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-6-teden/predavanje-aps-6-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/organizacija_datotek_in_indeksi.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-8-teden/Screenshot 2024-11-22 at 10.39.34.png",
