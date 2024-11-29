@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grafi.md",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,21 +36,19 @@
             }
           },
           {
-            "id": "f370d712fa59e3c9",
+            "id": "5b70391962add96c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "seznam povezav.md",
-                "mode": "source",
-                "source": false
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi 2024-11-29 13.40.14.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "seznam povezav"
+              "icon": "excalidraw-icon",
+              "title": "Grafi 2024-11-29 13.40.14.excalidraw"
             }
           },
           {
-            "id": "ec068743ccda6b64",
+            "id": "184982180eba0636",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -60,21 +58,9 @@
               "icon": "excalidraw-icon",
               "title": "seznam povezav 2024-11-29 12.47.42.excalidraw"
             }
-          },
-          {
-            "id": "ea45a8b403deec6c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "5-temp/Excalidraw/Grafi 2024-11-29 12.21.32.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Grafi 2024-11-29 12.21.32.excalidraw"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,10 +146,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5-temp/Excalidraw/seznam povezav 2024-11-29 12.47.42.excalidraw.md"
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of seznam povezav 2024-11-29 12.47.42.excalidraw"
+              "title": "Outline of Grafi"
             }
           },
           {
@@ -291,11 +277,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec068743ccda6b64",
+  "active": "25df8367159d3bc0",
   "lastOpenFiles": [
-    "seznam povezav.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi 2024-11-29 13.40.14.excalidraw.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi.md",
     "5-temp/Excalidraw/seznam povezav 2024-11-29 12.47.42.excalidraw.md",
-    "Grafi.md",
+    "seznam povezav.md",
     "5-temp/Excalidraw/Grafi 2024-11-29 12.21.32.excalidraw.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/predavanje-aps-9-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/predavanje-aps-8-teden.md",
@@ -327,7 +314,6 @@
     "2-letnik/3-semester/verjetnost-in-statistika/R-project.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-8-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-5-teden/vaje-vis-5-teden.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-5-teden/Hipergeometrijska porazdelitev.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-8-teden/Screenshot 2024-11-22 at 10.39.34.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/Screenshot 2024-11-14 at 19.41.25.png",
