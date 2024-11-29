@@ -35,8 +35,26 @@ Za števnost razmerja na vsaki strani označimo <font color="#4bacc6">minimalno 
 
 Med opazovanim parom entitet/tipov je <font color="#4bacc6">lahko več razmerij</font>. Npr. študent je izbral nič ali več predmetov in študent je opravil nič ali več predmetov.
 
-Kdaj je entitetni tip močan ali šibek?
+Kdaj je entitetni tip <font color="#4bacc6">močan ali šibek</font>?
 Je močen, ko ima dovolj svojih atributov, da ga je možno enolično identificirati in šibek če velja obratno.
 
+Razširjena ER notacija:
+- <font color="#4bacc6">specializacija</font>; entitetni tip je posebna vrsta drugega entitetnega tipa
+- <font color="#4bacc6">generalizacija</font>; entitetni tip je posplošitev več podobnih entitetnih tipov
+- <font color="#4bacc6">agregacija</font>; predstavlja razmerje, v katerem je en entitetni tip neka celota, drugi pa njen del
+- <font color="#4bacc6">kompozicija</font>; kadar je povezava tako močna, da entitetni tip, ki predstavlja del, ne more obstajati brez entitetnega tipa
+
+Metoda konceptualnega načrtovanja:
+1) identificiraj entitetne tipe
+2) indentificiraj povezave
+3) z entitetne tipe poveži atribute
+4) atributom določi domene
+5) določi kandidate za ključe, izberi primarni ključ
+6) po potrebi uporabi elemente razširjenega diagrama entiteta-razmerje
+7) preveri, če obstajajo odvečni elementi
+8) preveri če model zdrži transakcije
+9) preveri model z uporabnikom
+
+---
 
 
