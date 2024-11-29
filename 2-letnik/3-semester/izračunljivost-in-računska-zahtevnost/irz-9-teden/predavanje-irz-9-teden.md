@@ -20,4 +20,23 @@ Le, da tu velja, da je $DSA$ po sposobnosti sprejemanja <font color="#4bacc6">š
 
 Lema o napihovanju za $KNJ$ pravi, da vsaka zadosti dolga beseda iz $KNJ$ jezika $L$ vsebuje dve kratki podbesedi, ki sta si blizu in ki ju lahko končno mnogokrat ponovimo (obe enako mnogokrat)m a bo nova beseda še vedno v jeziku $L$.
 
+S tem lahko dokažemo, da obstaja formalni jezik, ki ni $KNJ$.
+
+Razred kontekstno-neodvisnih jezikov je <font color="#4bacc6">zaprt</font> za operacije:
+- unija,
+- stik,
+- Kleeneovo zaprtje,
+- substitucija (in homomorfizem) in
+- inverzni homomorfizem
+
+<font color="#8064a2">Ni zaprt</font> za operaciji:
+- presek,
+- komplement.
+
+Toda KNJ <font color="#4bacc6">je zaprt</font> za presek z regularnim jezikom.
+
+<font color="#4bacc6">Obstajata</font> odločitvena algoritma za ugotavljanje, ali je KNJ - prazen in končen.
+
+
+
 ---
