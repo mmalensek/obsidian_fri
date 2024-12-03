@@ -4,59 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "67a30459f90689f5",
+        "id": "f7dc4d82ca135a92",
         "type": "tabs",
         "children": [
           {
-            "id": "6fdcbec0667a6e14",
+            "id": "82b11f93684999b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/predavanje-aps-9-teden.md",
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "predavanje-aps-9-teden"
+              "title": "vaje-opb-10-teden"
             }
           },
           {
-            "id": "25df8367159d3bc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ors"
-            }
-          },
-          {
-            "id": "5b70391962add96c",
+            "id": "cab6394f015192bd",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi 2024-11-29 13.40.14.excalidraw.md"
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Grafi 2024-11-29 13.40.14.excalidraw"
-            }
-          },
-          {
-            "id": "184982180eba0636",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "5-temp/Excalidraw/seznam povezav 2024-11-29 12.47.42.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "seznam povezav 2024-11-29 12.47.42.excalidraw"
+              "title": "vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw"
             }
           }
         ],
@@ -145,10 +119,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors.md"
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ors"
+              "title": "Outline of vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw"
             }
           },
           {
@@ -276,11 +250,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2195955b6f6eaeef",
+  "active": "cab6394f015192bd",
   "lastOpenFiles": [
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi 2024-11-29 13.40.14.excalidraw.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden",
     "5-temp/Excalidraw/seznam povezav 2024-11-29 12.47.42.excalidraw.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi 2024-11-29 13.40.14.excalidraw.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi.md",
     "seznam povezav.md",
     "5-temp/Excalidraw/Grafi 2024-11-29 12.21.32.excalidraw.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/predavanje-aps-9-teden.md",
@@ -309,11 +287,7 @@
     "2-letnik/3-semester/verjetnost-in-statistika/vis-8-teden/vaje-vis-8-teden 2024-11-26 10.21.44.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-8-teden/vaje-vis-8-teden 2024-11-26 09.27.24.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-8-teden/normalna.pdf",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-5-teden/Geometrijska porazdelitev.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/R-project.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-8-teden",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-5-teden/vaje-vis-5-teden.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-8-teden/Screenshot 2024-11-22 at 10.39.34.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/Screenshot 2024-11-14 at 19.41.25.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.54.png",
