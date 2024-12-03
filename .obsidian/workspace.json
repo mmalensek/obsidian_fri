@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi.md",
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Grafi"
+              "title": "ors"
             }
           },
           {
@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -146,10 +145,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi.md"
+                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Grafi"
+              "title": "Outline of ors"
             }
           },
           {
@@ -279,8 +278,8 @@
   },
   "active": "2195955b6f6eaeef",
   "lastOpenFiles": [
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi 2024-11-29 13.40.14.excalidraw.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi 2024-11-29 13.40.14.excalidraw.md",
     "5-temp/Excalidraw/seznam povezav 2024-11-29 12.47.42.excalidraw.md",
     "seznam povezav.md",
     "5-temp/Excalidraw/Grafi 2024-11-29 12.21.32.excalidraw.md",
