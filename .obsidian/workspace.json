@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "57d3249e2cabcdaf",
+        "id": "5ede72175fe01885",
         "type": "tabs",
         "children": [
           {
-            "id": "e9e898e62e210133",
+            "id": "13d4a48fca663c82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-10-teden/vaje-vis-10-teden.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "vaje-vis-10-teden"
-            }
-          },
-          {
-            "id": "44df684e6ca3751e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-10-teden/vaje-vis-10-teden 2024-12-03 09.19.38.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "vaje-vis-10-teden 2024-12-03 09.19.38.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,11 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-10-teden/vaje-vis-10-teden 2024-12-03 09.19.38.excalidraw.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of vaje-vis-10-teden 2024-12-03 09.19.38.excalidraw"
+              "title": "Outline"
             }
           },
           {
@@ -251,10 +232,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "44df684e6ca3751e",
+  "active": "2195955b6f6eaeef",
   "lastOpenFiles": [
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-10-teden/vaje-vis-10-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-10-teden/vaje-vis-10-teden 2024-12-03 09.19.38.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-10-teden/vaje-vis-10-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-10-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw.md",
