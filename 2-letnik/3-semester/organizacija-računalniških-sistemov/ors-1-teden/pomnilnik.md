@@ -2,7 +2,7 @@
 
 Za implementacijo pomnilnika so značilni D flip flopi.
 
-![[pomnilnik 2024-10-07 18.37.32.excalidraw]]
+![[pomnilnik 2024-10-07 18.37.32.excalidraw|200]]
 
 | <font color="#4bacc6">$D$</font> | <font color="#92cddc">$CLK$</font> | $\overline{Q}$ |
 | :------------------------------: | ---------------------------------- | -------------- |
