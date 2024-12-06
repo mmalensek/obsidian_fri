@@ -11,10 +11,14 @@
             "id": "06e9556f9803ca64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-10-teden/predavanje-aps-10-teden.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "predavanje-aps-10-teden"
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -101,9 +106,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-10-teden/predavanje-aps-10-teden.md"
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of predavanje-aps-10-teden"
             }
           },
           {
@@ -233,6 +240,10 @@
   },
   "active": "06e9556f9803ca64",
   "lastOpenFiles": [
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-10-teden/predavanje-aps-10-teden 2024-12-06 12.18.16.excalidraw.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-10-teden/predavanje-aps-10-teden.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-10-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/načrtovanje_podatkovnih_baz.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Načrtovanje podatkovnih baz.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.49.44.png",
@@ -264,14 +275,11 @@
     "5-temp/Excalidraw/seznam povezav 2024-11-29 12.47.42.excalidraw.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi 2024-11-29 13.40.14.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi.md",
     "seznam povezav.md",
     "5-temp/Excalidraw/Grafi 2024-11-29 12.21.32.excalidraw.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/predavanje-aps-9-teden.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-8-teden/predavanje-aps-8-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-9-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-8-teden/Screenshot 2024-11-22 at 10.39.34.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/Screenshot 2024-11-14 at 19.41.25.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.54.png",
