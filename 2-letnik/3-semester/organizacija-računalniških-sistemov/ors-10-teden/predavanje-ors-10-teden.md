@@ -21,6 +21,11 @@ Kako bi dodali še 4 pomnilniške besede?
 - dekodirnik bi spremenili v $3/8$, 
 - dodali bi "spodaj" še 4 enote,
 
-Z dodajanjem pomnilniških besed se veča dekodirnik in strašno podaljšujejo bitne linije.
+Z dodajanjem pomnilniških besed se veča dekodirnik in strašno podaljšujejo bitne linije. A to ne bo šlo.
+
+Kaj pa s povečanjem pomnilniških besed?
+Tudi ne, <font color="#4bacc6">edini</font> način je, da ga narediš kot neko široko matriko.
+
+
 
 ---
