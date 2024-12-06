@@ -45,15 +45,32 @@ Razširjena ER notacija:
 - <font color="#4bacc6">kompozicija</font>; kadar je povezava tako močna, da entitetni tip, ki predstavlja del, ne more obstajati brez entitetnega tipa
 
 Metoda konceptualnega načrtovanja:
-1) identificiraj entitetne tipe
-2) indentificiraj povezave
-3) z entitetne tipe poveži atribute
-4) atributom določi domene
-5) določi kandidate za ključe, izberi primarni ključ
-6) po potrebi uporabi elemente razširjenega diagrama entiteta-razmerje
-7) preveri, če obstajajo odvečni elementi
-8) preveri če model zdrži transakcije
-9) preveri model z uporabnikom
+-  <font color="#76923c">identificiraj entitetne tipe</font>
+- <font color="#76923c"> indentificiraj povezave</font>
+-  <font color="#76923c">identificiraj in z entitetne tipe poveži atribute</font>
+	-  atribute delimo na:
+		- sestavljene,
+		- več-vrednostne,
+		- izpeljane.
+-  <font color="#76923c">atributom določi domene:</font>
+	- določi množico možnih vrednosti
+-  <font color="#76923c">določi kandidate za ključe, izberi primarni ključ:</font>
+	- če je kandidatov več, kaj potem?
+		- tisti za katerega je najmanj verjetno, da se bodo njegove vrednosti spreminjale
+		- tisti z najmanjšo dolžino znakov (za alfanumerične kandidate)
+		- tisti z najmanjšo maksimalno vrednostjo (za numerične kandidate)
+-  <font color="#76923c">po potrebi uporabi elemente razširjenega diagrama entiteta-razmerje</font>
+-  <font color="#76923c">preveri, če obstajajo odvečni elementi</font>
+	- gledamo samo povezave $1-1$, kar je že tako redko
+- <font color="#76923c"> preveri če model zdrži transakcije</font>
+	- npr. na prosojnicah je primer za drugo transakcijo, da jo ne zdrži, ker lahko pogledamo na katero smer je vpisan študent, samo če je že opravljal kakšen izpit, torej moramo dodati neko novo direktno povezavo do predmeta ali smeri, ...
+-  <font color="#76923c">preveri model z uporabnikom</font>
+
+### Logično načrtovanje podatkovnih baz
+
+V logičnem modelu bojo v atribute vključeni tudi tuji ključi, da vemo kateri je tuji ključ je relacija predstavljena s puščico, kjer glava puščice kaže izkod izhaja tuji ključ.
+
+
 
 ---
 
