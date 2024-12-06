@@ -70,6 +70,55 @@ Metoda konceptualnega načrtovanja:
 
 V logičnem modelu bojo v atribute vključeni tudi tuji ključi, da vemo kateri je tuji ključ je relacija predstavljena s puščico, kjer glava puščice kaže izkod izhaja tuji ključ.
 
+### Funkcionalne odvisnosti
+
+So odvisnosti, kjer ma neka množica atributov takšno pomembnost da funkcionalno določa neko drugo.
+
+### Normalizacija
+
+Postopek s katero preverimo ali so relacije, ki smo jih dobili, pravilno razbite, da ne pride do nepotrebnih povezav, ... 
+
+<font color="#8064a2">Ažurne anomalije:</font>
+- pri dodajanju:
+	- npr. če želimo dodati podatke o novih zaposlenih, moramo vpisati tudi naziv oddelka
+- pri brisanju:
+	- če zbrišemo n-terico zaposlenega, ki je predstavljal zadnjega v nekem oddelku, bomo pobrisali celotni oddelek
+- pri spreminjanju:
+	- moramo spremeniti vse n-terice, ...
+
+<font color="#8064a2">Prva normalna oblika:</font>
+- nima ponavljajočih atributov (imamo več atributov v enem stolpcu)
+- ima definiran primarni ključ in določene funkcionalne odvisnosti
+![[Screenshot 2024-12-06 at 10.41.45.png|400]]
+
+<font color="#8064a2">Druga normalna oblika:</font>
+- je v prvi normalni obliki
+- nima parcialnih odvisnosti - torej noben atribut, ki ni del ključa, ni funkcionalno odvisen le od dela primarnega ključa, temveč od celotnega ključa, relacijo drugače razbijemo
+![[Screenshot 2024-12-06 at 10.42.37.png|400]]
+
+<font color="#8064a2">Tretja normalna oblika:</font>
+- je v drugi normalni obliki
+- ne vsebuje tranzitivnih funkcionalnih odvisnosti - med atributi ki niso del primarnega ključa, niso odvisnosti
+![[Screenshot 2024-12-06 at 10.45.43.png|350]]
+
+<font color="#8064a2">Četrta normalna oblika:</font>
+- je v tretji normalni obliki
+- v relaciji ne obstajajo atributi, ki bi bili odvisni od vrednosti primarnega ključa
+- npr. če imamo izrednega študenta, je od njegove vpisne številke odvisna šolnina
+![[Screenshot 2024-12-06 at 10.49.44.png| 350]]
+
+Včasih <font color="#92d050">zavestno</font> uporabljamo relacije, ki <font color="#92d050">ne ustrezajo</font> najvišjim normalnim oblikam, a prve in druge normalne oblike ne kršimo nikoli.
+
+### Metoda logičnega načrtovanja
+
+- za entitetne tipe kreiraj relacije
+	- posebnost so rekurzivne povezave, npr. stornacija računa
+	- kaj storiti z nadtipi in podtipi?
+- preveri relacijo z normalizacijo
+- preveri relacije z vidika transakcij
+- preveri omejitve integritete
+- preveri model z uporabnikom
+- preveri možnost za razširitve
 
 
 ---
