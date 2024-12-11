@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a4c1194699a784a",
+            "id": "39cc3fa7be261cf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden.md",
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-11-teden/predavanje-vs-11-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vaje-irz-11-teden"
-            }
-          },
-          {
-            "id": "d69c871ca4e10d8a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden 2024-12-11 08.22.01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "vaje-irz-11-teden 2024-12-11 08.22.01.excalidraw"
+              "title": "predavanje-vs-11-teden"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -120,10 +106,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden 2024-12-11 08.22.01.excalidraw.md"
+                "file": "2-letnik/3-semester/vgrajeni-sistemi/vs-11-teden/predavanje-vs-11-teden.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of vaje-irz-11-teden 2024-12-11 08.22.01.excalidraw"
+              "title": "Outline of predavanje-vs-11-teden"
             }
           },
           {
@@ -251,8 +237,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d69c871ca4e10d8a",
+  "active": "2195955b6f6eaeef",
   "lastOpenFiles": [
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden 2024-12-11 09.48.46.excalidraw.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-11-teden/predavanje-vs-11-teden.md",
+    "2-letnik/3-semester/vgrajeni-sistemi/vs-11-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden 2024-12-11 08.22.01.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden",
@@ -287,12 +276,9 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-10-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-10-teden/vaje-vis-10-teden 2024-12-03 09.19.38.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-10-teden/vaje-vis-10-teden.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-10-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw.md",
     "5-temp/Excalidraw/seznam povezav 2024-11-29 12.47.42.excalidraw.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi 2024-11-29 13.40.14.excalidraw.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-8-teden/Screenshot 2024-11-22 at 10.39.34.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/Screenshot 2024-11-14 at 19.41.25.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.54.png",
