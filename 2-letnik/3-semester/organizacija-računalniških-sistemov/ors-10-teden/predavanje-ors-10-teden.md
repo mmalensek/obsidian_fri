@@ -21,6 +21,8 @@ Kako bi dodali še 4 pomnilniške besede?
 - dekodirnik bi spremenili v $3/8$, 
 - dodali bi "spodaj" še 4 enote,
 
+Spodaj pa so še ekstra SRAM celice, ki nam predstavlja <font color="#9bbb59">tipalni ojačevalnik</font>, ki dobro znajo zaznavati napetost na bitnih linijah (BL) in trajno hranijo informacijo prebrano iz DRAM celice.
+
 Z dodajanjem pomnilniških besed se veča dekodirnik in strašno podaljšujejo bitne linije. A to ne bo šlo.
 
 Kaj pa s povečanjem pomnilniških besed?
