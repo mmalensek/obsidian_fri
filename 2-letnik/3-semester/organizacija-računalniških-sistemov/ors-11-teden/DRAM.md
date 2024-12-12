@@ -22,4 +22,8 @@ Ideja: vzdolž banke ($z$ os) tvorimo $N$-bitne pomnilniške besede.
 Predpostavimo polje $4\times 4$ celic:
 ![[DRAM 2024-12-12 10.54.59.excalidraw]]
 
-Ko aktivirmo en WL (= aktiviramo vrstico, odpremo vrstico) preberemo v tipalnem ojačevalniku vse bite v tej vrstici in jih hranimo v tipalnih ojačevalnikih (register vrstice).
+Ko aktivirmo en WL (= aktiviramo vrstico, odpremo vrstico) preberemo v tipalnem ojačevalniku vse bite v tej vrstici in jih hranimo v tipalnih ojačevalnikih (register vrstice). Dostop do podatkov v registru vrstice je hitreje kot dostop iz vrstice DRAM polja, kar nas sili, da do podatkov shranjenih v DRAM-ih dostopoamo po zaporednih besedah (64, ker se ob zgrešitvi v L3 pomnilniku prenese cel 64 bajtov dolg blok).
+
+### Časovni potek branja
+
+![[DRAM 2024-12-12 12.23.38.excalidraw]]
