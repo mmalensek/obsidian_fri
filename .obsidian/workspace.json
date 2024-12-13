@@ -4,36 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "9d09c6d5921c0b03",
+        "id": "3ea6fc3daf91303c",
         "type": "tabs",
         "children": [
           {
-            "id": "52685127d2dc9325",
+            "id": "64169ee87aaf5de7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-11-teden/predavanje-opb-11-teden.md",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-11-teden/predavanje-aps-11-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "predavanje-opb-11-teden"
+              "title": "predavanje-aps-11-teden"
             }
           },
           {
-            "id": "e8a0200be6db1839",
+            "id": "98b013c2780ac4ee",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/načrtovanje_podatkovnih_baz.pdf"
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-11-teden/predavanje-aps-11-teden 2024-12-13 12.31.51.excalidraw.md"
               },
-              "icon": "lucide-file-text",
-              "title": "načrtovanje_podatkovnih_baz"
+              "icon": "excalidraw-icon",
+              "title": "predavanje-aps-11-teden 2024-12-13 12.31.51.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -118,10 +120,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-11-teden/predavanje-opb-11-teden.md"
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-11-teden/predavanje-aps-11-teden 2024-12-13 12.31.51.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of predavanje-opb-11-teden"
+              "title": "Outline of predavanje-aps-11-teden 2024-12-13 12.31.51.excalidraw"
             }
           },
           {
@@ -249,10 +251,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2195955b6f6eaeef",
+  "active": "98b013c2780ac4ee",
   "lastOpenFiles": [
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/načrtovanje_podatkovnih_baz.pdf",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-11-teden/predavanje-aps-11-teden.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-11-teden/predavanje-aps-11-teden 2024-12-13 12.31.51.excalidraw.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-11-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-11-teden/predavanje-opb-11-teden.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/načrtovanje_podatkovnih_baz.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-11-teden/Screenshot 2024-12-13 at 09.58.27.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Načrtovanje podatkovnih baz.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb.md",
@@ -287,10 +292,8 @@
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/predavanje-opb-10-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-10-teden/predavanje-ors-10-teden 2024-12-05 10.32.28.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-10-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-10-teden/predavanje-irz-10-teden.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-10-teden/predavanje-vs-10-teden.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-9-teden/predavanje-vs-9-teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-8-teden/Screenshot 2024-11-22 at 10.39.34.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/Screenshot 2024-11-14 at 19.41.25.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.54.png",
