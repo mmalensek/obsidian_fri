@@ -26,6 +26,8 @@ Proces, s katerim izdelamo opis implementacije PB na sekundarnem pomnilnem medij
 	- ocena velikosti podatkovne baze
 3. <font color="#92d050">načrt uporabniških pogledov</font>
 4. <font color="#92d050">načrt varnostnih mehanizmov</font>
-
+5. <font color="#92d050">udvedba nadzorovane redundance</font>
+	- denormalizacija
+	- razbitje relacij
 
 ---
