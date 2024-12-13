@@ -27,3 +27,18 @@ Ko aktivirmo en WL (= aktiviramo vrstico, odpremo vrstico) preberemo v tipalnem 
 ### Časovni potek branja
 
 ![[DRAM 2024-12-12 12.23.38.excalidraw]]
+
+---
+
+Ne smemo takoj spet odpreti nove vrstice, ker potrebujemo najprej spet zapisati nazaj. Vse skupaj to traja okoli $100ns$ medtem ko procesor dela s $\frac{1}{3}ns$, torej je še vedno veliko počasnejši in potrebujemo predpomnilnik.
+
+---
+
+### Izboljšave tega DRAM-a
+1. vpeljemo CLK v DRAM
+2. vpeljemo eksplozijske prenose - z enim naslovom stolpca prenesemo več zaporednih stolpcev
+3. več bank - zato, da ko iz ene berem iz druge lahko že odpiram novo vrstico in nekako prikrijem zamike in skrajšam čas dostopa
+
+Temu rečemo sinhroni dinamični RAM (SDRAM)
+
+---
