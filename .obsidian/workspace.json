@@ -8,17 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed41895c3c1b1fa6",
+            "id": "221a181fe8880fe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-12-teden/vaje-vis-12-teden.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-12-teden/vaje-irz-12-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vaje-vis-12-teden"
+              "title": "vaje-irz-12-teden"
+            }
+          },
+          {
+            "id": "850d5206b85f2149",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-12-teden/vaje-irz-12-teden 2024-12-18 08.26.28.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "vaje-irz-12-teden 2024-12-18 08.26.28.excalidraw"
             }
           }
         ]
@@ -77,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -106,10 +119,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-12-teden/vaje-vis-12-teden.md"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-12-teden/vaje-irz-12-teden.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of vaje-vis-12-teden"
+              "title": "Outline of vaje-irz-12-teden"
             }
           },
           {
@@ -237,10 +250,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3681eed52612b9c",
+  "active": "221a181fe8880fe2",
   "lastOpenFiles": [
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-12-teden/vaje-opb-12-teden 2024-12-17 07.39.13.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-12-teden/vaje-irz-12-teden 2024-12-18 08.26.28.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-12-teden/vaje-irz-12-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-12-teden/vaje-vis-12-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-12-teden",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-12-teden/vaje-opb-12-teden 2024-12-17 07.39.13.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-12-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-12-teden/vaje-opb-12-teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-12-teden",
@@ -271,15 +287,12 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden 2024-12-11 08.22.01.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-11-teden/vaje-vis-11-teden.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-11-teden",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-10-teden/predavanje-aps-10-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-10-teden/predavanje-aps-10-teden 2024-12-06 12.18.16.excalidraw.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-9-teden/Grafi.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.49.44.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.45.43.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.42.37.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.41.45.png",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/predavanje-opb-10-teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-8-teden/Screenshot 2024-11-22 at 10.39.34.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-7-teden/Screenshot 2024-11-14 at 19.41.25.png",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-6-teden/Screenshot 2024-11-09 at 20.38.54.png",
