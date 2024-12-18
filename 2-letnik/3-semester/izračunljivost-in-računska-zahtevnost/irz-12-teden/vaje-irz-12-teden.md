@@ -23,6 +23,6 @@ Izreki o razvrščanju jezikov po določljivosti.
 ### Prevedba iz jezika $L_1$ v jezik $L_2$ 
 To je funkcija $f : \Sigma^* \rightarrow \Sigma^*$
 - $f$ je izračunljiva
-- 
+- ...
 
 ---
