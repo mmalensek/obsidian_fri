@@ -39,6 +39,6 @@ Ne smemo takoj spet odpreti nove vrstice, ker potrebujemo najprej spet zapisati 
 2. vpeljemo eksplozijske prenose - z enim naslovom stolpca prenesemo več zaporednih stolpcev
 3. več bank - zato, da ko iz ene berem iz druge lahko že odpiram novo vrstico in nekako prikrijem zamike in skrajšam čas dostopa
 
-Temu rečemo sinhroni dinamični RAM (SDRAM)
+Temu rečemo sinhroni dinamični RAM ([[SDRAM]]).
 
 ---
