@@ -4,35 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "672b8b4111b13d73",
+        "id": "28f2bde7b99965ff",
         "type": "tabs",
         "children": [
           {
-            "id": "be498bdd49c567eb",
+            "id": "8ce0d82f8ceef90b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-11-teden/DRAM.md",
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-12-teden/predavanje-aps-12-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DRAM"
+              "title": "predavanje-aps-12-teden"
             }
           },
           {
-            "id": "d31a9ddbcc51b26b",
+            "id": "53a715309c662b29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-12-teden/SDRAM.md",
-                "mode": "source",
-                "source": false
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-12-teden/predavanje-aps-12-teden 2024-12-20 12.21.24.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "SDRAM"
+              "icon": "excalidraw-icon",
+              "title": "predavanje-aps-12-teden 2024-12-20 12.21.24.excalidraw"
             }
           }
         ],
@@ -92,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -121,10 +120,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-12-teden/SDRAM.md"
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-12-teden/predavanje-aps-12-teden 2024-12-20 12.21.24.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of SDRAM"
+              "title": "Outline of predavanje-aps-12-teden 2024-12-20 12.21.24.excalidraw"
             }
           },
           {
@@ -252,10 +251,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2195955b6f6eaeef",
+  "active": "53a715309c662b29",
   "lastOpenFiles": [
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-11-teden/DRAM.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-12-teden/predavanje-aps-12-teden.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-12-teden/predavanje-aps-12-teden 2024-12-20 12.21.24.excalidraw.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-12-teden",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/poizvedovanje_xml_z_xquery.pdf",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-12-teden/predavanje-opb-12-teden.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_xml.pdf",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-12-teden/SDRAM.md",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-11-teden/DRAM.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-12-teden/predavanje-ors-12-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-11-teden/predavanje-ors-11-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-12-teden",
@@ -276,21 +281,15 @@
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-11-teden/predavanje-aps-11-teden.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-11-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-11-teden/predavanje-opb-11-teden.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/načrtovanje_podatkovnih_baz.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-11-teden/Screenshot 2024-12-13 at 09.58.27.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Načrtovanje podatkovnih baz.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb.md",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-11-teden",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-10-teden/predavanje-ors-10-teden 2024-12-05 12.33.44.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-10-teden/predavanje-ors-10-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-11-teden/DRAM 2024-12-12 12.23.38.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-11-teden/DRAM 2024-12-12 10.54.59.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilnik.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-11-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/predavanje-irz-11-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden.md",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-11-teden/predavanje-vs-11-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden 2024-12-11 09.48.46.excalidraw.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.49.44.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.45.43.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.42.37.png",
