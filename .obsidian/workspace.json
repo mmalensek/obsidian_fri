@@ -11,12 +11,12 @@
             "id": "adeed34fe596d13a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw.md"
               },
-              "icon": "lucide-file-text",
-              "title": "irz_prosojnice"
+              "icon": "excalidraw-icon",
+              "title": "vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw"
             }
           }
         ]
@@ -75,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -104,10 +105,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of irz_prosojnice"
+              "title": "Outline of vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw"
             }
           },
           {
@@ -235,8 +236,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2195955b6f6eaeef",
+  "active": "adeed34fe596d13a",
   "lastOpenFiles": [
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/predavanje-irz-8-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-12-teden/predavanje-irz-12-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/predavanje-irz-11-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-12-teden/vaje-irz-12-teden.md",
@@ -251,7 +257,6 @@
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-12-teden/predavanje-ors-12-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-11-teden/predavanje-ors-11-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-12-teden",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-12-teden/predavanje-vs-12-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-12-teden/vaje-irz-12-teden 2024-12-18 08.26.28.excalidraw.md",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-12-teden",
@@ -270,10 +275,6 @@
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Načrtovanje podatkovnih baz.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-10-teden/predavanje-ors-10-teden 2024-12-05 12.33.44.excalidraw.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-10-teden/predavanje-ors-10-teden.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-11-teden/DRAM 2024-12-12 12.23.38.excalidraw.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-11-teden/DRAM 2024-12-12 10.54.59.excalidraw.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilnik.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.49.44.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.45.43.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.42.37.png",
