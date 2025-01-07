@@ -4,49 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6aaf7ea4aabc4cb1",
+        "id": "8ce1638a5c66370e",
         "type": "tabs",
         "children": [
           {
-            "id": "adeed34fe596d13a",
+            "id": "269802b6741d4c79",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-9-teden/vaje-irz-9-teden 2024-11-27 08.23.24.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "vaje-irz-9-teden 2024-11-27 08.23.24.excalidraw"
-            }
-          },
-          {
-            "id": "742453de0fdbb0f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden/vaje-vis-13-teden.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "vaje-vis-13-teden"
-            }
-          },
-          {
-            "id": "2e503c873d8b6638",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden/vaje-vis-13-teden 2025-01-07 09.21.59.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "vaje-vis-13-teden 2025-01-07 09.21.59.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -131,11 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden/vaje-vis-13-teden 2025-01-07 09.21.59.excalidraw.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Outline of vaje-vis-13-teden 2025-01-07 09.21.59.excalidraw"
+              "title": "Outline"
             }
           },
           {
@@ -263,11 +231,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2e503c873d8b6638",
+  "active": "269802b6741d4c79",
   "lastOpenFiles": [
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-9-teden/vaje-irz-9-teden 2024-11-27 08.23.24.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden/vaje-vis-13-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden/vaje-vis-13-teden 2025-01-07 09.21.59.excalidraw.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-9-teden/vaje-irz-9-teden 2024-11-27 08.23.24.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-9-teden/vaje-irz-9-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden.md",
