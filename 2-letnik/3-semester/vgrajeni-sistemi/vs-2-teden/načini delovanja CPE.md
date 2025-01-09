@@ -2,7 +2,7 @@
 [[Programski model ARM Cortex-M]];
 
 Na kaj delimo delovanje CPE?;; Delimo na <font color="#92cddc">THREAD (NEpriviligirani)</font> in <font color="#92cddc">HANDLER (ali priviligirani način)</font> mode.
-<!--SR:!2024-11-03,15,290-->
+<!--SR:!2025-03-09,59,310-->
 
 Thread:
 - uporablja Process Stack Pointer (PSP)

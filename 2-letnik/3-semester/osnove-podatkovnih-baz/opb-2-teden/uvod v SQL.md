@@ -136,7 +136,7 @@ Uporaba ANY/SOME, ALL
 - če je rezultat poizvedbe prazen je ALL $true$ in ANY/SOME $false$.
 
 Vrstni red razen `select` in `from` je;; <font color="#92cddc">poljuben</font>.
-<!--SR:!2024-10-27,4,278-->
+<!--SR:!2025-01-24,15,298-->
 
 Poizvedbe po več tabelah:
 - za ločevanje med istoimenskimi stolpci uporabljamo sinonime ozr. aliase

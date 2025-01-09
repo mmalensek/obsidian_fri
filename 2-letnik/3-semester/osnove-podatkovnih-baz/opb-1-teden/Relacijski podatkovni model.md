@@ -21,7 +21,7 @@
 <!--SR:!2024-10-29,10,250-->
 
 <font color="#92cddc">Relacijska podatkovna baza</font>;; množica normaliziranih relacij z enoličnimi imeni
-<!--SR:!2024-10-24,1,130-->
+<!--SR:!2025-01-11,2,150-->
 
 Zakaj pravimo da je relacija <font color="#92cddc">podmnožica</font> kartezičnega produkta vseh atributov? ($r \subset x_1 \times x_2 \times ...$);; Ker s kartezičnim produktom vseh atributov, generiramo veliko več variacij relacij, kot jih pa je npr. v neki podatkovni bazi.
 <!--SR:!2024-10-26,11,270-->
