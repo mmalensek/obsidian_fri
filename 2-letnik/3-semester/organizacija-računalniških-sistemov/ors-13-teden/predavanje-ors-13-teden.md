@@ -16,4 +16,22 @@ Programi nič ne vedo o tem, koliko je dejansko fizičnega pomnilnika v sistemu,
 
 Programi se lahko izvajajo ne glede na količino fizičnega pomnilnika.
 
----
+<font color="#4bacc6">Navidezne naslove moramo preslikovati v fizične.</font>
+
+S tem upravlja - <font color="#8064a2">Memory Management Unit</font> - ki mora biti blizu ozr. del procesorja, zato da lahko dela z enako hitrostjo kot CPE.
+
+<font color="#4bacc6">Programi na Linuxu</font>
+
+Polovica naslovov je rezervirana za externe linkane kode, npr. ko uporabiš -lm, da se doda matematična knjižnica, 
+
+<font color="#4bacc6">Kako preslikujemo navidezne v fizične naslove?</font>
+1. preslikavo dela MMU: dobi navidezni naslov od CPE in 
+2. potrebuje preslikovalno tabelo: za njo skrbi OS
+3. ta bo v RAM-u, začetni naslov preslikovalne tabele se za vsak program na arhitekturah Intel hrani v registru $cr3$
+4. kako velika naj bo ta tabela? Ne more hraniti vseh $2^{64}$ naslovov. Bolje je da ena preslikava za en blok naslovov, ki imajo skupnih npr. zgornjih n bitov (takemu bloku pravimo stran - page)
+
+Zgled: Intel Architecture - 32
+
+Preslikovanje (odstranjevanje, paging)
+
+
