@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3ff2bc73ab902012",
+        "id": "a07c4e2d45e78e14",
         "type": "tabs",
         "children": [
           {
-            "id": "e088075bdd9888bd",
+            "id": "6a4c3ea1023e4a60",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw.md"
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw"
+              "title": "vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw"
             }
           }
         ]
@@ -105,10 +105,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw.md"
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw"
+              "title": "Outline of vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw"
             }
           },
           {
@@ -236,8 +236,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e088075bdd9888bd",
+  "active": "6a4c3ea1023e4a60",
   "lastOpenFiles": [
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-12-teden/vaje-opb-12-teden 2024-12-17 07.39.13.excalidraw.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Načrtovanje podatkovnih baz.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-12-teden/vaje-opb-12-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-12-teden/vaje-irz-12-teden.md",
@@ -258,19 +264,13 @@
     "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden/vaje-vis-13-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden/vaje-vis-13-teden 2025-01-07 09.21.59.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/predavanje-irz-8-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/predavanje-irz-11-teden.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-12-teden/predavanje-aps-12-teden.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-12-teden/predavanje-aps-12-teden 2024-12-20 12.21.24.excalidraw.md",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-12-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/poizvedovanje_xml_z_xquery.pdf",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-12-teden/predavanje-opb-12-teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_xml.pdf",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-11-teden/DRAM.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-11-teden/predavanje-ors-11-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-12-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-12-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-12-teden",
