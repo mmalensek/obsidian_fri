@@ -32,21 +32,9 @@
               "icon": "lucide-file",
               "title": "vaje-vis-14-teden"
             }
-          },
-          {
-            "id": "8f13072f717a360d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden/vaje-vis-14-teden 2025-01-14 09.17.58.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "vaje-vis-14-teden 2025-01-14 09.17.58.excalidraw"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,10 +120,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden/vaje-vis-14-teden 2025-01-14 09.17.58.excalidraw.md"
+                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden/vaje-vis-14-teden.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of vaje-vis-14-teden 2025-01-14 09.17.58.excalidraw"
+              "title": "Outline of vaje-vis-14-teden"
             }
           },
           {
@@ -265,8 +253,8 @@
   },
   "active": "2195955b6f6eaeef",
   "lastOpenFiles": [
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden/vaje-vis-14-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden/vaje-vis-14-teden 2025-01-14 09.17.58.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden/vaje-vis-14-teden.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-12-teden/vaje-opb-12-teden 2024-12-17 07.39.13.excalidraw.md",
