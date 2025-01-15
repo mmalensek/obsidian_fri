@@ -4,33 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "a07c4e2d45e78e14",
+        "id": "cda3bc101e11c072",
         "type": "tabs",
         "children": [
           {
-            "id": "6a4c3ea1023e4a60",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw"
-            }
-          },
-          {
-            "id": "b062f44c2cd186cf",
+            "id": "5bd9cd1a17ca7c66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden/vaje-vis-14-teden.md",
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-14-teden/vaje-irz-14-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vaje-vis-14-teden"
+              "title": "vaje-irz-14-teden"
+            }
+          },
+          {
+            "id": "17e7fb6866c7f6e2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-14-teden/vaje-irz-14-teden 2025-01-15 08.19.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "vaje-irz-14-teden 2025-01-15 08.19.46.excalidraw"
             }
           }
         ],
@@ -120,10 +120,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden/vaje-vis-14-teden.md"
+                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-14-teden/vaje-irz-14-teden 2025-01-15 08.19.46.excalidraw.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of vaje-vis-14-teden"
+              "title": "Outline of vaje-irz-14-teden 2025-01-15 08.19.46.excalidraw"
             }
           },
           {
@@ -251,11 +251,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2195955b6f6eaeef",
+  "active": "17e7fb6866c7f6e2",
   "lastOpenFiles": [
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden/vaje-vis-14-teden 2025-01-14 09.17.58.excalidraw.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden/vaje-vis-14-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-14-teden/vaje-irz-14-teden.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-14-teden/vaje-irz-14-teden 2025-01-15 08.19.46.excalidraw.md",
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-14-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden 2024-12-03 07.35.46.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden/vaje-vis-14-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden/vaje-vis-14-teden 2025-01-14 09.17.58.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-12-teden/vaje-opb-12-teden 2024-12-17 07.39.13.excalidraw.md",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-10-teden/vaje-opb-10-teden.md",
@@ -280,15 +283,12 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden 2024-12-11 08.22.01.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-9-teden/vaje-irz-9-teden 2024-11-27 08.23.24.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden/vaje-vis-13-teden.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden/vaje-vis-13-teden 2025-01-07 09.21.59.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/predavanje-irz-8-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-12-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/poizvedovanje_xml_z_xquery.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/uvod_v_xml.pdf",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-12-teden",
-    "2-letnik/3-semester/vgrajeni-sistemi/vs-12-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-11-teden/Screenshot 2024-12-13 at 09.58.27.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.49.44.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.45.43.png",
