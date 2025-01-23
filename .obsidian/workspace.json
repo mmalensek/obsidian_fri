@@ -4,35 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "313fb9f64c63e074",
+        "id": "e08b57a08e0d066c",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba82de696b64eeb",
+            "id": "c7191843be7cc341",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-10-teden/vaje-vis-10-teden 2024-12-03 09.19.38.excalidraw.md"
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/zapiski_za_izpit.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "vaje-vis-10-teden 2024-12-03 09.19.38.excalidraw"
-            }
-          },
-          {
-            "id": "1940777922336e6c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden/vaje-vis-13-teden 2025-01-07 09.21.59.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "vaje-vis-13-teden 2025-01-07 09.21.59.excalidraw"
+              "icon": "lucide-file",
+              "title": "zapiski_za_izpit"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,10 +106,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden/vaje-vis-13-teden 2025-01-07 09.21.59.excalidraw.md"
+                "file": "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/zapiski_za_izpit.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of vaje-vis-13-teden 2025-01-07 09.21.59.excalidraw"
+              "title": "Outline of zapiski_za_izpit"
             }
           },
           {
@@ -248,12 +237,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1940777922336e6c",
+  "active": "c7191843be7cc341",
   "lastOpenFiles": [
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/Algoritmi za sortiranje.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/zapiski_za_izpit.md",
+    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-1-teden/predavanje-aps1-1-teden.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-10-teden/vaje-vis-10-teden 2024-12-03 09.19.38.excalidraw.md",
+    "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden/vaje-vis-13-teden 2025-01-07 09.21.59.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden/vaje-vis-13-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-12-teden/vaje-vis-12-teden.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-11-teden/vaje-vis-11-teden.md",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-10-teden/vaje-vis-10-teden 2024-12-03 09.19.38.excalidraw.md",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-10-teden/vaje-vis-10-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-14-teden/predavanje-ors-14-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-14-teden",
@@ -276,10 +269,6 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-12-teden/vaje-irz-12-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-9-teden/vaje-irz-9-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-10-teden/vaje-irz-10-teden.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-13-teden/predavanje-ors-13-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-13-teden/vaje-irz-13-teden 2025-01-09 08.23.11.excalidraw.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-12-teden/SDRAM.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-13-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-13-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden",
