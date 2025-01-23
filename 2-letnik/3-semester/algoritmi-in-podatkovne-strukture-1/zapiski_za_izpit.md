@@ -6,4 +6,7 @@
 4. <font color="#4bacc6">counting sort: </font>ko imaš nabor različnih možnosti, ki ni velik (npr. poštne številke), kjer za vsako vrednost preštejemo kolikokrat se uporabi in jo na koncu temu primerno večkrat vnesemo v urejen seznam. Časovna zahtevnost je linearna ozr. $O(n + m)$, kjer je $m$ največja možna vrednost, neugodna pa je prostorska zahtevnost.
 5. <font color="#4bacc6">bucket/bin sort</font> (mi pogledamo <font color="#4bacc6">radix sort</font>): osnovna ideja je, da razdeliš elemente seznama v koše glede na njihovo vrednost in rekurzivno dobimo nekaj podobnega $quicksortu$. Pogledamo si $radix \ sort$ ozr. <font color="#4bacc6">korensko urejanje</font>, kjer razporejamo elemente v koše glede na števke v primeru števil (in črke v primeru nizov). Nize lahko razdelimo v koše glede na njihovo prvo črko, nato pa posamezen koš uredimo po enakem postopku, samo da sedaj delimo v koše glede na drugo črko itd. Ko so koši urejeni, rezultate enostavno zložimo nazaj skupaj (poglej si animacijo). Časovna zahtevnost je tako $O(nd)$, če je $d$ dolžina največjega niza, enako pa velja za prostorsko zahtevnost (v resnici, je zraven še faktor $a$ - velikost abecede, samo da je ta konstanten v večini primerov).
 
-Zakaj to delamo? Da lahko implementiramo, <font color="#4bacc6">binary search</font> (dvojiško iskanje - <font color="#4bacc6">bisekcija</font>) seveda: s časovno zahtevnostjo $O(\log n)$ 
+Zakaj to delamo? Da lahko implementiramo, <font color="#4bacc6">binary search</font> (dvojiško iskanje - <font color="#4bacc6">bisekcija</font>) seveda: s časovno zahtevnostjo $O(\log n)$. 
+
+### Abstraktni podatkovni tipi
+
