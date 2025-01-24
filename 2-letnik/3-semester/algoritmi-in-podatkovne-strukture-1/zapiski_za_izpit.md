@@ -37,4 +37,5 @@ Zakaj to delamo? Da lahko implementiramo, <font color="#4bacc6">binary search</f
 	1. vsota: pripravimo si tabelo kumulativnih vsot od začetka tabele in ju za poljubna elementa samo odštejemo.
 	2. minimum: s statičnim drevesom, kjer imamo v vsakem korenu poddrevesa najmanjšo vrednost tega poddrevesa.
 4. <font color="#4bacc6">uravnotežena drevesa:</font>
-	1. AVL drevo: 
+	1. AVL drevo: v vsakem vozlišču se višina levefga in desnega poddrevesa razlikuje kvečjemu za 1, to pomeni, da je višina drevesa $O(\log n)$. 
+	2. rdeče-črno drevo:
