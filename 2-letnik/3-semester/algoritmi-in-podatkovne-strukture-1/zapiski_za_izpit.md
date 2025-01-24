@@ -21,4 +21,20 @@ Zakaj to delamo? Da lahko implementiramo, <font color="#4bacc6">binary search</f
 9. <font color="#4bacc6">preskočni seznam (skip list):</font> vsako vozlišče ima svojo "višino", ki je izbrana naključno. Vsak nov nivo pa je dodan z verjetnostjo $p$, ki je običajno $0.5$. Pričakovana prostorska zahtevnost je linearna $O(n)$, časovna zahtevnost vstavljanja ali iskanja posameznega elementa pa $O(\log n)$. 
 10. <font color="#4bacc6">množica (set):</font> hrani množico elementov, ki ne predpisuje vrstnega reda elementov.
 11. <font color="#4bacc6">slovar (map):</font> hrani pare - ključ, vrednost - pri tem pa se vsak ključ lahko pojavi največ enkrat, vsakemu ključu pa je prirejena neka vrednost.
-12. <font color="#4bacc6">zgoščena/razpršena tabela (hash map):</font> temelji na zgoščevalni funkciji, ki preslika ključ kot indeks v tabelo določene velikosti, preslikavi različnih elementov v enako vrednost pravimo $trk$, katerih želimo čim manj, a vseeno jih potrebujemo obvladovati z veriženjem. Običajno merimo zasedenost tabele kot razmerje med številom vnesenih elementov in kapaciteto tabele, $\alpha = \frac{n}{H}$, ko ta faktor preseže vrednost 1 
+12. <font color="#4bacc6">zgoščena/razpršena tabela (hash map):</font> temelji na zgoščevalni funkciji, ki preslika ključ kot indeks v tabelo določene velikosti, preslikavi različnih elementov v enako vrednost pravimo $trk$, katerih želimo čim manj, a vseeno jih potrebujemo obvladovati z veriženjem. Običajno merimo zasedenost tabele kot razmerje med številom vnesenih elementov in kapaciteto tabele, $\alpha = \frac{n}{H}$, ko ta faktor preseže določeno vrednost (če bi bilo to ena, bi pomenilo, da vedno pride do trka) lahko izvedemo ponovno zgoščevanje, kjer alociramo npr. dvakrat večjo tabelo in izračunamo nove vrednosti. V primeru da iščemo element, ki ne obstaja je pričakovana časovna zahtevnost enaka pričakovani dolžini seznama, torej $\alpha$, če poskrbimo da bo ta faktor neka konstantna vrednost, bo torej pričakovana časovna zahtevnost $O(1)$.
+
+### Drevesne strukture
+
+1. <font color="#4bacc6">vrste dreves: </font>
+	1. dvojiška, kjer ima vsako vozlišče dva otroka, bolj splošno je $k$-tiško drevo,
+	2. polno, ima v vsakem vozlišču maksimalno število otrok ali nobenega, npr. v dvojiškem drevesu ni vozlišča z le enim otrokom.
+	3. popolno, so polna drevesa in vsebujejo maksimalno število vozlišč glede na višino drevesa
+	4. urejena in neurejena
+	5. iskalna, ki so urejena drevesa, v katerih velja, da vsebuje prvi otrok v svojem poddrevesu najmanjše vrednosti, drugi malo večje itd.
+	6. črkovna/znakovna drevesa (trie)
+2. <font color="#4bacc6">predstavitev dreves:</font> povezave do otrok in do starša ponavadi hranimo kot kazalce do njih, elemente vstavljamo rekurzivno, izbrišemo pa jih, če nima otrok ga preprosto odstranimo, če ima samo enega otroka, ga preprosto zamenjamo z njim, če ima pa oba otroka, pa ga zamenjamo z naslednjim večjim vozliščem (to je vozlišče, ki je najbolj levo v desnem poddrevesu, tega pa le preprosto odstranimo, saj zagotovo nima otroka), včasih lahko tudi pogoljufamo in se delamo da tega vozlišča preprosto ni.
+3. <font color="#4bacc6">poizvedba na območjih (na statičnih drevesih):</font>
+	1. vsota: pripravimo si tabelo kumulativnih vsot od začetka tabele in ju za poljubna elementa samo odštejemo.
+	2. minimum: s statičnim drevesom, kjer imamo v vsakem korenu poddrevesa najmanjšo vrednost tega poddrevesa.
+4. <font color="#4bacc6">uravnotežena drevesa:</font>
+	1. AVL drevo: 
