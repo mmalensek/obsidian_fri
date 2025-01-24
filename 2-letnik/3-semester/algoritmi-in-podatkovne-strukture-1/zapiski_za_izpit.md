@@ -45,4 +45,35 @@ Zakaj to delamo? Da lahko implementiramo, <font color="#4bacc6">binary search</f
 
 ### Požrešni algoritmi 
 
-Pri požrešnem pristopu reševanja se na vsakem koraku odločimo za izbiro, ki v tistem trenutku zgleda najbolj obetavno, vendar takšni algoritmi ne delujejo pri vseh problemih, le pri "enostavnejših". Dokazovanje pravilnosti požrešnih algoritmov s 
+Pri požrešnem pristopu reševanja se na vsakem koraku odločimo za izbiro, ki v tistem trenutku zgleda najbolj obetavno, vendar takšni algoritmi ne delujejo pri vseh problemih, le pri "enostavnejših". Dokazovanje pravilnosti požrešnih algoritmov s prednostjo - dokažemo, da je po vsakem koraku rešitev vsaj tako dobra kot katerakoli druga, - zamenjava, dokažemo, da lahko z določenimi spremembami pretvorimo predpostavljeno boljšo rešitev v tako, ki bi jo našla tudi požrešna metoda, -struktura, dokažemo, da neko strukturno lastnost optimalne rešitve, ki predstavlja mejo in dokažemo, da jo požrešna rešitev res doseže.
+
+
+### Grafi
+
+1. <font color="#4bacc6">grafi glede na lastnosti:</font>
+	1. neusmerjeni in usmerjeni
+	2. neuteženi in uteženi
+	3. enostavni - taki, ki ne vsebujejo zank, ki povezujejo vozlišče s samim seboj in vzporednih povezav med istimi pari vozlišč.
+	4. gosti - katerih število vozlišč je velikostnega reda, ki je blizu maksimalnemu številu možnih povezav in redki - katerih število povezav je linearno odvisno od števila vozlišč
+2. <font color="#4bacc6">drugi termini v povezavi z grafi:</font>
+	1. stopnja vozlišča, predstavlja število povezav, ki vključujejo to vozlišče, v usmerjenih grafih ločimo vzhodni in izhodno stopnjo
+	2. dve dvozlišči sta sosednji, če ju povezuje katera izmed povezav v grafu
+3. <font color="#4bacc6">ločimo:</font>
+	1. drevesa, ki so v resnici aciklični povezani neusmerjeni grafi
+	2. polne grafe, ki vsebujejo vse možne povezave
+	3. regularne grafe, v katerih imajo vsa vozlišča enako stopnjo
+	4. dvodelne grafe, ki so sestavljeni iz dveh skupin vozlišč, povezave pa potekajo samo med obema skupinama
+4. <font color="#4bacc6">premiki med sosednjimi vozlišči:</font>
+	1. sprehod - poljubno zaporedje vozlišč, rečemo da če obstaja sprehod med dvema vozliščema, da sta povezani
+	2. obhod - sprehod, ki se začne in konča v istem vozlišču
+	4. steza - sprehod brez ponovljenih povezav
+	5. pot - sprehod brez ponovljeniv vozlišč
+	6. cikel - obhod brez ponovljenih vmesnih vozlišč (z izjemo začetnega in končnega, ki sta enaka)
+5. <font color="#4bacc6">implementacija:</font> imamo tri pogoste implementacije grafov, glede na funkcionalnost, ki jo potrebujemo:
+	1. edge list - najbolj enostavna predstavitev, kjer vse povezave shranimo v seznam
+	2. adjacency list - za vsako vozlišče hrani seznam njegovih sosedov, uporabno kadar se premikamo po grafih od enega vozlišča k drugemu
+	3. adjacency matrix - namenjena učinkovitemu preverjanju sosednosti dveh vozlišč, sestavimo matriko $M$, kjer na mestu $M_{x,y}$ hranimo informacijo o prisotnosti ali teži povezave med vozliščema $x$ in $y$.
+6. <font color="#4bacc6">preiskovanje grafov:</font>
+	1. v širino (breadth-first search), najprej obiščemo začetno vozlišče, nato njegove sosede, njihove sosede itd.
+	2. v globino (depth-first search), najprej obišče zaćetno vozlišče, nato izvede preiskovanje v globino na prvem otroku, ko se to zaključi in če drugi otrok še ni bil obiskan, izvede preiskovanje v globino še iz drugega otroka itd.
+7. <font color="#4bacc6">topološko urejanje:</font> topološki vrstni red vozlišč v usmerjenem grafu je tak vrstni red, da vse povezave v frafu kažejo od zgodnejšega proti kasnejšemu 
