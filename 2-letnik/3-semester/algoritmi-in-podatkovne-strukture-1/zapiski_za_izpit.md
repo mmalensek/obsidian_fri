@@ -38,4 +38,11 @@ Zakaj to delamo? Da lahko implementiramo, <font color="#4bacc6">binary search</f
 	2. minimum: s statičnim drevesom, kjer imamo v vsakem korenu poddrevesa najmanjšo vrednost tega poddrevesa.
 4. <font color="#4bacc6">uravnotežena drevesa:</font>
 	1. AVL drevo: v vsakem vozlišču se višina levefga in desnega poddrevesa razlikuje kvečjemu za 1, to pomeni, da je višina drevesa $O(\log n)$. 
-	2. rdeče-črno drevo:
+	2. rdeče-črno drevo: uporablja barvanje vozlišč z rdečo in črno barvo, s pravili kot so: prazna vozlišča so črna, rdeča vozlišče nima rdečih otrok, poti od vsakega vozlišča do praznih potomcev vključujejo enako število črnih vozlišč
+	3. 2-3 drevo: vsako vozlišče ima dva ali tri otroke
+	4. B-drevo: posplošitev 2-3 drevesa. V B-drevesu reda $m$ imajo vozlišča največ $m$ otrok, notranja vozlišča pa vsaj $m/2$. Vsi list pa se nahajajo na enaki globini.
+
+
+### Požrešni algoritmi 
+
+Pri požrešnem pristopu reševanja se na vsakem koraku odločimo za izbiro, ki v tistem trenutku zgleda najbolj obetavno, vendar takšni algoritmi ne delujejo pri vseh problemih, le pri "enostavnejših". Dokazovanje pravilnosti požrešnih algoritmov s 
