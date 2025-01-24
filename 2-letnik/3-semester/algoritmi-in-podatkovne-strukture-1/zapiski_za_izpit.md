@@ -76,4 +76,9 @@ Pri požrešnem pristopu reševanja se na vsakem koraku odločimo za izbiro, ki 
 6. <font color="#4bacc6">preiskovanje grafov:</font>
 	1. v širino (breadth-first search), najprej obiščemo začetno vozlišče, nato njegove sosede, njihove sosede itd.
 	2. v globino (depth-first search), najprej obišče zaćetno vozlišče, nato izvede preiskovanje v globino na prvem otroku, ko se to zaključi in če drugi otrok še ni bil obiskan, izvede preiskovanje v globino še iz drugega otroka itd.
-7. <font color="#4bacc6">topološko urejanje:</font> topološki vrstni red vozlišč v usmerjenem grafu je tak vrstni red, da vse povezave v frafu kažejo od zgodnejšega proti kasnejšemu 
+7. <font color="#4bacc6">topološko urejanje:</font> topološki vrstni red vozlišč v usmerjenem grafu je tak vrstni red, da vse povezave v frafu kažejo od zgodnejšega proti kasnejšemu vozlišču v topološkem vrstnem redu.
+8. <font color="#4bacc6">kritična pot:</font> najdaljša pot v uteženem usmerjenem acikličnem grafu
+
+
+### Najkrajše poti
+
