@@ -97,6 +97,35 @@ Začnemo najprej z <font color="#4bacc6">disjunktnimi množicami</font> (disjoin
 
 V tem primeru bi bila časovna zahtevnosti $O(nm)$, kjer je $m$ število povezav in $n$ število vozlišč.
 
-Jo pa izboljšamo tako, da za vsako še nedodano vozlišče vzdržujemo njegovo razdaljo do že zgrajenega drevesa, te so vse na začetku enake $\infty$ (razen za začetno vozlišče), ki ima razdaljo $0$. Na vsakem koraku poiščemo vozlišče z najmanjšo razdaljo, ga dodamo v drevo in posodobimo radalje do drevesa vseh njegovih sosedov. To lahko hranimo v prioritetni vrsti, tako kot pri Dijkstri in je na koncu časovna zahtevnost $O(m\log n)$.
+Jo pa izboljšamo tako, da za vsako še nedodano vozlišče vzdržujemo njegovo razdaljo do že zgrajenega drevesa, te so vse na začetku enake $\infty$ (razen za začetno vozlišče), ki ima razdaljo $0$. Na vsakem koraku poiščemo vozlišče z najmanjšo razdaljo, ga dodamo v drevo in posodobimo radalje do drevesa vseh njegovih sosedov. To lahko hranimo v prioritetni vrsti, tako kot pri Dijkstri in je na koncu časovna zahtevnost $O(m\log n)$. - tega uporabiš, če je graf gost.
 
-<font color="#4bacc6">Kruskalov algoitem:</font> je prav tako požrešni algoritem, ki začne z množico vozlišč in dodaja povezave od manjših proti večjim povezavam glede na uteži. Pravzaprav postopoma pretvarja gozd z več manjšimi drevesi v eno veliko drevo.
+<font color="#4bacc6">Kruskalov algoitem:</font> je prav tako požrešni algoritem, ki začne z množico vozlišč in dodaja povezave od manjših proti večjim povezavam glede na uteži. Pravzaprav postopoma pretvarja gozd z več manjšimi drevesi v eno veliko drevo. Doda vsako povezavo $(x,y)$, če njena vključitev ne ustvari cikla. - tega uporabiš, če je graf redek. Zahtevnost: $O(m \log n)$.
+
+<font color="#4bacc6">Steinerjevo drevo v grafu:</font> Problem minimalnega vpetega drevesa posplošimo tako, da zahtevamo, da je med seboj povezana samo neka izbrama podmnožica vozlišč (ki jim rečemo terminali $t$), če velja: 
+1. $t = n$ imamo opravka s problemom minimalnega vpetega drevesa
+2. $t = 2$ imamo vpravka s problemom najkrajše poti
+
+
+### Deli in vladaj
+
+Gre za idejo, da problem razdelimo na več manjših podproblemov, te pa rešimo rekurzivno po enakem postopku, nato pa združimo dobljene rezultate manjših problemov v rešitve večjega problema.
+
+Krovni izrek: nam poda rešitve rekurzivne enačbe $T(n) = aT(n/b) + f(n)$ pri konstantah $a \geq 1, b > 1$ za tri skupin enačb glede na razmerje med $c = \log_b a$ in funkcijo $f(n)$, kjer velikostni red funkcije $f(n)$ primerjamo z $n^c$ in ločimo tri primere:
+1. $f(n) = O(n^{c-\varepsilon}) \Rightarrow T(n) = \Theta(n^c)$, torej je čas za združevanje manjši od $n^c$ in je velikost rekurzivnega drevesa $n^c$ prevladujoča vrednost.
+2. $f(n) = O(n^{c}) \Rightarrow T(n) = \Theta(n^c \log n)$, funkciji sta "enaki",
+3. $f(n) = O(n^{c+\varepsilon}) \Rightarrow T(n) = \Theta(f(n))$, če je čas za združevanje večji, potem je to prevladujoča vrednost.
+
+Pogosto so odločitveni problemi lažji od optimizacijskih, npr. ali je neka konkretna meja $v$ sprejemljiva, ...? 
+
+
+### Dinamično programirane
+
+Je algoritmični pristop, ki je podobno deli in vladaj, le da velja:
+- posamezen podproblem lahko rešujemo neodvisno od drugih podproblemob
+- optimalna rešitev problema vsebuje optimalne rešitve podproblemov
+- podproblemi se ponavljajo in prekrivajo (npr. fibonaccijevo zaporedje)
+
+Pogosto uporabimo memoizacijo, torej funkcija za vsak možen argument funkcije izvledna največ enkrat.
+
+
+
