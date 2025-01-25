@@ -89,3 +89,14 @@ Pri požrešnem pristopu reševanja se na vsakem koraku odločimo za izbiro, ki 
 
 ### Vpeta drevesa
 
+Začnemo najprej z <font color="#4bacc6">disjunktnimi množicami</font> (disjoint-set), ki hranijo množico disjunktnih množic, kjer je časovna zahtevnost, potem ko uporabimo združevanje po velikosti in stiskanje poti, operacije $O(m \times \log n)$.
+
+<font color="#4bacc6">Minimalno vpeto drevo:</font> (vpeto drevo grafa, je takšno da vključuje vsa vozlišča grafa in podmnožico njegovih povezav, ta je minimalen, ki ima najmanjšo vsoto uteži povezav). Prerez grafa je razbitje vozlišč grafa na dve disjunktni množici, povezavam pa prerezne povezave. Prerezna lastnost pravi, da je najmanjša prerezna povezava vedno del nekega minimalnega vpetega drevesa.
+
+<font color="#4bacc6">Primov algoritem:</font> je požrešen algoritem, ki gradi vpeto drevo s širjenjem od izhodiščnega vozlišča navzven proti sosedom. Za izhodišče uporabimo poljubno vozlišče, saj morajo biti vsa del minimalnega vpetega drevesa, ko si ogledamo prerez grafa A (ki vključuje vsa vozlišča do sedaj zgrajenega drevesa) in B (ki vsebuje preostala), iz prerezne lastnosti sledi, da je najmanjša povezava med A in B del nekega minimalnega vpetega drevesa, zato jo lahko dodamo v drevo in ponovimo z razmislekom.
+
+V tem primeru bi bila časovna zahtevnosti $O(nm)$, kjer je $m$ število povezav in $n$ število vozlišč.
+
+Jo pa izboljšamo tako, da za vsako še nedodano vozlišče vzdržujemo njegovo razdaljo do že zgrajenega drevesa, te so vse na začetku enake $\infty$ (razen za začetno vozlišče), ki ima razdaljo $0$. Na vsakem koraku poiščemo vozlišče z najmanjšo razdaljo, ga dodamo v drevo in posodobimo radalje do drevesa vseh njegovih sosedov. To lahko hranimo v prioritetni vrsti, tako kot pri Dijkstri in je na koncu časovna zahtevnost $O(m\log n)$.
+
+<font color="#4bacc6">Kruskalov algoitem:</font> je prav tako požrešni algoritem, ki začne z množico vozlišč in dodaja povezave od manjših proti večjim povezavam glede na uteži. Pravzaprav postopoma pretvarja gozd z več manjšimi drevesi v eno veliko drevo.
