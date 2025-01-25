@@ -84,4 +84,8 @@ Pri požrešnem pristopu reševanja se na vsakem koraku odločimo za izbiro, ki 
 
 1. <font color="#4bacc6">neuteženi grafi:</font> tukaj nimamo problema, saj že poznamo metodo iskanja v širino (BFS), ki potrebuje le malenkostni dodatek.
 2. <font color="#4bacc6">dijkstrov algoritem:</font> poglej visualizacijo, prostorska zahtevnost algoritma je $O(\log n)$, časovna pa je odvisna od iskanja najmanjše potencialne razdalje $O(n^2)$ in posodabljanja sosedov $O(e)$, ker je $e = O(n^2)$, je časovna zahtevnost  implementacije algoritma (če uporabimo prioritetno vrsto, drugače pa je $O(n^2)$) $O(e\log n)$. A to se uporabi, samo če je graf dovolj redek, če je graf gost in vsebuje skoraj vse možne povezave ($e = n^2$), je časovna zahtevnost še slabša.
-3. <font color="#4bacc6">negativne uteži:</font>
+3. <font color="#4bacc6">negativne uteži:</font> imajo smisel samo na usmerjenih grafih.
+
+
+### Vpeta drevesa
+
