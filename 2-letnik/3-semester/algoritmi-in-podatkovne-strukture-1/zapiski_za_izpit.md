@@ -129,3 +129,9 @@ Pogosto uporabimo memoizacijo, torej funkcija za vsak možen argument funkcije i
 
 
 
+### Računska geometrija
+
+To je področje algoritmov in podatkovnih struktur, ki se ukvarja z učinkovitim reševanjem geometrijskih problemov.
+
+
+
