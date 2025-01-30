@@ -11,12 +11,14 @@
             "id": "c7191843be7cc341",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden 2024-10-16 08.31.56.excalidraw.md"
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/predavanje-opb-1-teden.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "vaje-irz-3-teden 2024-10-16 08.31.56.excalidraw"
+              "icon": "lucide-file",
+              "title": "predavanje-opb-1-teden"
             }
           }
         ]
@@ -104,10 +106,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden 2024-10-16 08.31.56.excalidraw.md"
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/predavanje-opb-1-teden.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of vaje-irz-3-teden 2024-10-16 08.31.56.excalidraw"
+              "title": "Outline of predavanje-opb-1-teden"
             }
           },
           {
@@ -237,6 +239,7 @@
   },
   "active": "c7191843be7cc341",
   "lastOpenFiles": [
+    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden 2024-10-16 08.31.56.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/vaje-irz-2-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw.md",
@@ -262,7 +265,6 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden 2024-12-11 09.48.46.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden 2024-10-29 07.39.10.excalidraw.md",
-    "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/zapiski_za_izpit.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-14-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-14-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-14-teden",
