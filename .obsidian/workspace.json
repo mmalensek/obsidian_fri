@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "predavanje-opb-1-teden"
             }
+          },
+          {
+            "id": "472d2db1b69d80a4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -106,7 +120,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/predavanje-opb-1-teden.md"
+                "file": "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/predavanje-opb-1-teden.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of predavanje-opb-1-teden"
@@ -237,8 +254,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7191843be7cc341",
+  "active": "2195955b6f6eaeef",
   "lastOpenFiles": [
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski račun.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/predavanje-opb-1-teden.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijska algebra.md",
+    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski podatkovni model.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden 2024-10-16 08.31.56.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/vaje-irz-2-teden.md",
@@ -261,10 +282,6 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-14-teden/vaje-irz-14-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden 2024-12-11 08.22.01.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-12-teden/vaje-irz-12-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-11-teden/vaje-irz-11-teden 2024-12-11 09.48.46.excalidraw.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-5-teden/vaje-irz-5-teden 2024-10-29 07.39.10.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-14-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-14-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-14-teden",
