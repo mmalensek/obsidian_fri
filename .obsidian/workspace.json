@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09f0ec8396269983",
+        "id": "1df9c2f6cc8b6bbe",
         "type": "tabs",
         "children": [
           {
-            "id": "d455b4ce23491001",
+            "id": "20071bb41dacbf94",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav 2024-10-10 10.27.35.excalidraw.md"
+                "file": "2-letnik/4-semester/algoritmi-in-podatkovne-strukture-2/aps-1-teden/predavanje-aps2-1-teden.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "pomnilniško preslikane vzhodno-izhodne naprav 2024-10-10 10.27.35.excalidraw"
+              "icon": "lucide-file",
+              "title": "predavanje-aps2-1-teden"
             }
           }
         ]
@@ -105,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav 2024-10-10 10.27.35.excalidraw.md",
+                "file": "2-letnik/4-semester/algoritmi-in-podatkovne-strukture-2/aps-1-teden/predavanje-aps2-1-teden.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of pomnilniško preslikane vzhodno-izhodne naprav 2024-10-10 10.27.35.excalidraw"
+              "title": "Outline of predavanje-aps2-1-teden"
             }
           },
           {
@@ -239,8 +241,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d455b4ce23491001",
+  "active": "2195955b6f6eaeef",
   "lastOpenFiles": [
+    "2-letnik/4-semester/algoritmi-in-podatkovne-strukture-2/aps2.md",
+    "2-letnik/4-semester/algoritmi-in-podatkovne-strukture-2/aps-1-teden/predavanje-aps2-1-teden.md",
+    "2-letnik/4-semester/algoritmi-in-podatkovne-strukture-2/aps-1-teden",
+    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav 2024-10-10 10.27.35.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav 2024-10-07 18.11.02.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-2-teden/GPIO.md",
@@ -264,9 +270,6 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/Skladovni avtomati (stack automata).md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/predavanje-irz-8-teden.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden 2024-11-13 09.58.15.excalidraw.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-13-teden/vaje-irz-13-teden 2025-01-09 08.23.11.excalidraw.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden 2024-11-13 08.32.07.excalidraw.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-14-teden/vaje-irz-14-teden 2025-01-15 08.19.46.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-14-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-14-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-14-teden",
@@ -276,7 +279,6 @@
     "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz_prosojnice.pdf",
     "2-letnik/3-semester/algoritmi-in-podatkovne-strukture-1/aps-12-teden",
-    "2-letnik/3-semester/osnove-podatkovnih-baz/opb-prosojnice/poizvedovanje_xml_z_xquery.pdf",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-11-teden/Screenshot 2024-12-13 at 09.58.27.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.49.44.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.45.43.png",
