@@ -43,6 +43,7 @@ Wadlerjev zakon...
 ```
 
 ### in še boolovih izrazov
+
 npr. 
 ```
      η | b₁ ↪ false
@@ -56,11 +57,40 @@ npr.
 Kjer je to napisano kratkostično (tako kot npr. v javi), kjer se ne izračuna vrednost $b_2$, to predstavlja manj računanja, je pa to dobro v primeru...
 
 ```java
-if(int i < a.length && a[i] > 0) {...}
+if(i < a.length && a[i] > 0) {...}
 ```
 
 kjer želiš, da se preverita oba pogoja.
 
 ### Operacijska semantika ukazov
+...
 
+### Denotacijska semantika
+(matematični pomen programov)
 
+### Ekvivalenca programov
+Programa sta ekvivalentna, če se v vseh kontekstih obnašata enako, vedno lahko enega zamenjamo z drugim.
+
+Del programske kode, ki ga primerjamo je $evalvacijski \ kontekst$. 
+
+npr. 
+
+```
+i := 1 ;
+s := 0 ;
+while i < 101 do
+  s := s + i ;
+  i := i + 1
+done
+```
+
+in
+
+```
+s := 5050
+```
+
+nista ekvivalentna, saj v drugem primeru, ne postavimo $i = 101$.
+
+### Prevajalnik
+...
