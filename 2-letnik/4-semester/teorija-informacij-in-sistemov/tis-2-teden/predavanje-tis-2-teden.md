@@ -76,8 +76,35 @@ sledi: $\frac{H(A)}{log \ r} \leq L$
 
 Kdaj pa sploh velja ta enakost? Če za verjetnosti velja $p_i = r^{-li}$.
 
-V splošnem je $li = -log \ r \cdot p_i$ zaokroženo navzgor  
+V splošnem je $li = -log \ r \cdot p_i$ zaokroženo navzgor
+
+$H_r(A) \leq L < H_r(A) + 1$ (to vse velja le za trenutne kode)
 
 Zakaj to velja?
 ![[predavanje-tis-2-teden 2025-02-26 12.45.02.excalidraw]]
 
+Mera za to koliko blizu minimalne dolžine ..., je učinkovitost koda $\eta = \frac{H_r(A)}{L}$. 
+
+Če imamo blok znakov $A^m = y$, velja da je $H_r(A^m) = m \cdot H_r(A)$.
+
+Ko gre $m$ proti <font color="#4bacc6">neskončnosti</font> velja: $$\lim_{m\rightarrow\infty} \frac{L_m}{m}= H_r(A)$$
+Več kot bomo znakov pakirali skupej, bližje bomo prišli entropiji, to je <font color="#4bacc6">prvi Shannonov zakon</font>.
+
+
+Praktične vidike, tega teorema sledi v poglavju:
+### Stiskanje
+### 1. Shannonov kod
+- znake razvrstimo po padajočih verjetnostih,
+- izračunamo povprečne dolžine $l_i$ in $P_i$
+- $P_i$ pretvorimo v bazo $r$
+- kodno besede predstavlja prvih $l_i$ znakov za decimalnim ločilom
+
+![[predavanje-tis-2-teden 2025-02-26 13.38.04.excalidraw]]
+
+### 2. (Shannon) Fanojev kod
+- znake razvrstimo po padajočih verjetnostih,
+- znake razdelimo v $r$ skupin, katere so čimbolj uravnotežene po verjetnostih,
+- vsaki skupini dodelimo en znak abecede koda,
+- postopek ponovimo za vsako skupino če je potrebno
+
+![[predavanje-tis-2-teden 2025-02-26 13.54.43.excalidraw]]
