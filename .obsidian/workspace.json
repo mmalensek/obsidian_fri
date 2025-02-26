@@ -4,39 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "35e1a9186aff3fa3",
+        "id": "e905fd363e9b7951",
         "type": "tabs",
         "children": [
           {
-            "id": "c09f18cbaaba907e",
+            "id": "8498866b5d844151",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/4-semester/operacijski-sistemi/os-1-teden/predavanje-os-1-teden.md",
+                "file": "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "predavanje-os-1-teden"
+              "title": "vaje-ppj-2-teden"
             }
           },
           {
-            "id": "43f83d8093f94727",
+            "id": "2b93efdc573f57ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/predavanje-ppj-2-teden.md",
-                "mode": "source",
-                "source": false
+                "file": "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden 2025-02-26 09.59.03.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "predavanje-ppj-2-teden"
+              "icon": "excalidraw-icon",
+              "title": "vaje-ppj-2-teden 2025-02-26 09.59.03.excalidraw"
+            }
+          },
+          {
+            "id": "5a06476b75413d8c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden 2025-02-26 09.24.08.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "vaje-ppj-2-teden 2025-02-26 09.24.08.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "42b90c525f19d2f7",
@@ -122,13 +132,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/predavanje-ppj-2-teden.md",
+                "file": "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of predavanje-ppj-2-teden"
+              "title": "Outline of vaje-ppj-2-teden"
             }
           },
           {
@@ -256,10 +266,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2195955b6f6eaeef",
+  "active": "8498866b5d844151",
   "lastOpenFiles": [
-    "2-letnik/4-semester/principi-programskih-jezikov/ppj.md",
+    "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden 2025-02-26 09.59.03.excalidraw.md",
+    "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden.md",
+    "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden 2025-02-26 09.24.08.excalidraw.md",
     "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/predavanje-ppj-2-teden.md",
+    "2-letnik/4-semester/principi-programskih-jezikov/ppj.md",
     "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden",
     "2-letnik/4-semester/operacijski-sistemi/os.md",
     "2-letnik/4-semester/operacijski-sistemi/os-1-teden/predavanje-os-1-teden.md",
@@ -284,9 +297,6 @@
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw copy.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-7-teden/vaje-irz-7-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-10-teden/vaje-irz-10-teden.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-14-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-14-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-14-teden",
