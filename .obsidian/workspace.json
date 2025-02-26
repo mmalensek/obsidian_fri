@@ -13,36 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden.md",
+                "file": "2-letnik/4-semester/teorija-informacij-in-sistemov/tis-2-teden/predavanje-tis-2-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vaje-ppj-2-teden"
+              "title": "predavanje-tis-2-teden"
             }
           },
           {
-            "id": "2b93efdc573f57ba",
+            "id": "667cda2ea57ff67d",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden 2025-02-26 09.59.03.excalidraw.md"
+                "file": "2-letnik/4-semester/teorija-informacij-in-sistemov/tis-2-teden/predavanje-tis-2-teden 2025-02-26 11.35.58.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "vaje-ppj-2-teden 2025-02-26 09.59.03.excalidraw"
-            }
-          },
-          {
-            "id": "5a06476b75413d8c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden 2025-02-26 09.24.08.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "vaje-ppj-2-teden 2025-02-26 09.24.08.excalidraw"
+              "title": "predavanje-tis-2-teden 2025-02-26 11.35.58.excalidraw"
             }
           }
         ]
@@ -132,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden.md",
+                "file": "2-letnik/4-semester/teorija-informacij-in-sistemov/tis-2-teden/predavanje-tis-2-teden.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of vaje-ppj-2-teden"
+              "title": "Outline of predavanje-tis-2-teden"
             }
           },
           {
@@ -268,10 +256,15 @@
   },
   "active": "8498866b5d844151",
   "lastOpenFiles": [
-    "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden 2025-02-26 09.59.03.excalidraw.md",
+    "2-letnik/4-semester/teorija-informacij-in-sistemov/tis-2-teden/predavanje-tis-2-teden 2025-02-26 11.35.58.excalidraw.md",
+    "2-letnik/4-semester/teorija-informacij-in-sistemov/tis-2-teden/predavanje-tis-2-teden.md",
+    "2-letnik/4-semester/teorija-informacij-in-sistemov/tis-2-teden/predavanje-tis-2-teden 2025-02-26 11.22.18.excalidraw.md",
     "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden.md",
-    "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden 2025-02-26 09.24.08.excalidraw.md",
     "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/predavanje-ppj-2-teden.md",
+    "2-letnik/4-semester/teorija-informacij-in-sistemov/tis.md",
+    "2-letnik/4-semester/teorija-informacij-in-sistemov/tis-2-teden",
+    "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden 2025-02-26 09.59.03.excalidraw.md",
+    "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden/vaje-ppj-2-teden 2025-02-26 09.24.08.excalidraw.md",
     "2-letnik/4-semester/principi-programskih-jezikov/ppj.md",
     "2-letnik/4-semester/principi-programskih-jezikov/ppj-2-teden",
     "2-letnik/4-semester/operacijski-sistemi/os.md",
@@ -293,17 +286,12 @@
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-1-teden/Relacijski podatkovni model.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden 2024-10-16 08.31.56.excalidraw.md",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-3-teden/vaje-irz-3-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-2-teden/vaje-irz-2-teden.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden.excalidraw.md",
-    "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-8-teden/vaje-irz-8-teden 2024-11-20 08.23.44.excalidraw copy.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-14-teden",
     "2-letnik/3-semester/vgrajeni-sistemi/vs-14-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-14-teden",
     "2-letnik/3-semester/verjetnost-in-statistika/vis-14-teden",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-13-teden",
     "2-letnik/3-semester/izračunljivost-in-računska-zahtevnost/irz-13-teden",
-    "2-letnik/3-semester/verjetnost-in-statistika/vis-13-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-11-teden/Screenshot 2024-12-13 at 09.58.27.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.49.44.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.45.43.png",
