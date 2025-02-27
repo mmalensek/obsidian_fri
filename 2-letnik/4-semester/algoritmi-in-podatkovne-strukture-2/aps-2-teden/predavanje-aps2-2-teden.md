@@ -18,3 +18,17 @@ Obravnavamo naslednje metode:
 - sestopanje (backtracking)
 - gola sila (brute force)
 - naravna inteligenca
+
+### Deli in vladaj:
+### Quicksort - hitro urejanje
+Določi eno komponento kot pivot $p$ in vse ostale komponente razdeli v tri tabele, te manjše od $p$, enake kot $p$ in večje od $p$.
+
+Izbira delilnega elementa:
+Lahko določimo, da je $p$ prvi ali zadnji element, element, ki leži na sredi tabele. Lahko je $p$ naključno izbran
+
+Lahko pa ga tudi izračunamo iz večih komponent tabele $t$ npr. $p = \frac{1}{2}(t[0] + t[n])$ ali pa $p = mediana \ t$. V tem primeru je možno ta je tabela $t_2$ prazna.
+
+Dve različici, pri prvi je $t_2$ samo en element, pri drugi pa je $t_2$ tabela vseh elementov enakih $p$
+
+Časovna zahtevnost:
+
