@@ -35,7 +35,8 @@
               "title": "predavanje-os-2-teden"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,13 +122,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/4-semester/operacijski-sistemi/os-1-teden/predavanje-os-1-teden.md",
+                "file": "2-letnik/4-semester/operacijski-sistemi/os-2-teden/predavanje-os-2-teden.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of predavanje-os-1-teden"
+              "title": "Outline of predavanje-os-2-teden"
             }
           },
           {
@@ -255,10 +256,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "485167a881fb07be",
+  "active": "bab2aabc5fb7e281",
   "lastOpenFiles": [
-    "2-letnik/4-semester/operacijski-sistemi/os-2-teden/predavanje-os-2-teden.md",
     "2-letnik/4-semester/operacijski-sistemi/os-1-teden/predavanje-os-1-teden.md",
+    "2-letnik/4-semester/operacijski-sistemi/os-2-teden/predavanje-os-2-teden.md",
     "2-letnik/4-semester/algoritmi-in-podatkovne-strukture-2/aps-2-teden/predavanje-aps2-2-teden.md",
     "2-letnik/4-semester/operacijski-sistemi/os-2-teden",
     "2-letnik/4-semester/algoritmi-in-podatkovne-strukture-2/aps2_prosojnice.pdf",
