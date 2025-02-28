@@ -11,6 +11,13 @@ Torej ima RISC instruction set več prihodnosti, ...
 ### Terminal
 Naprava s tipkovnico in zaslonom, ki je še "neumnejša" od računalnika, saj le znake prikazuje na zaslon in jih posreduje do "mainframe"-a preko neke povezave.
 
+- standardni vhod - deskriptor 0
+- standardni izhod - deskriptor 1
+- standardni izhod za napake - deskriptor 2
+
+Danes se uporablja emulator terminala, ki je program, ki oponaša tekstovni terminal in se izvaja v oknu, ki je v grafičnem okolju.
+
+Najdemo tudi v imeniku `/dev/pts/0` kjer "pts" pomeni pseudoterminal.
 ### Lupina
 Program, ki uporabniku nudi osnovni uporabniški vmesnik za uporabo in delo z operacijskim sistemom.
 
