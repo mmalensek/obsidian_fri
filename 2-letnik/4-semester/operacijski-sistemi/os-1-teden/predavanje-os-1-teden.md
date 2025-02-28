@@ -1,3 +1,4 @@
+[[os]]
 ### Procesorska arhitektura
 - Intel 80x86, AMD
 	- CISC

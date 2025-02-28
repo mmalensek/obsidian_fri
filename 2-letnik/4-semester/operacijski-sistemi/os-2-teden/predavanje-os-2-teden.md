@@ -1,4 +1,4 @@
-[[predavanje-os-1-teden]];
+[[os]], [[predavanje-os-1-teden]];
 
 ### Operacijski sistemi
 Kaj sploh je? Nabor programske opreme, ki nadzoruje izvajanje programov, povezuje uporabnika s strojno opremo in deluje kot vmesnik med programi in strojno opremo.
@@ -44,3 +44,22 @@ Poznamo več vrst:
 	- ostale funkcionalnosi pa so izvedene preko procesov (v uporabniškem načinu, <font color="#ff0000">medsebojni klici pa so časovno zahtevnejši</font>)
 	- <font color="#92d050">omogoča pa boljšo prilagodljivost, porazdeljenost, varnost in enostavnejšo implementacije</font>
 	- npr. Mach
+
+- <font color="#4bacc6">hibridno jedro:</font>
+	- zasnova je mikro jedrna, izvedba pa monolitna
+	- npr. iOS, macOS
+
+- še ostali ne uporabljeni v praksi: <font color="#4bacc6">nano jedro, piko jedro, exokernel, unikernel</font>, ...
+
+### Sistemski klici
+Je mehanizem, ki omogoča uporabniškim programov, poklicati storitve jedra (ki ima večji privilegij od uporabniških programov). To je npr. sistemski klic read. Za uporabnika je to podobno navadnemu klicu funkcije, a v resnici je veliko bolj robusten.
+
+Vsak klic ima svojo številko, npr. 1 je sistemski klic $exit$, te številke so odvisne od OS-a in arhitekture procesorja. Številka sistemskega klica je enaka indeksu handler-ja v tabeli.
+
+Klici lahko sprejmejo tudi argumente.
+
+Nekatere arhitekture ponujajo namenski strojni ukaz za sistemski klic in tudi za vrnitev iz njega npr. v Intel je to $sysenter$ in $sysexit$, pri ARM-u pa je to $svc$ in vračanje pa s pomočno link registra.
+
+Primer: `write(1, "Juhu\n", 5)` nam predstavlja sistemski klic št. 4, deskriptor 1, niz dolžine 5, kjer so registri eax=4, ebx=1, ecx=@”Juhu”, edx=5, int 0x80.
+
+Sistemski klici služijo kot zaščito sistema, preverja številko klica, podane argumente klica, ali ima proces dovoljenje za uporabo danih virov, ...
