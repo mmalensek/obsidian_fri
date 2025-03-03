@@ -252,11 +252,10 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "bab2aabc5fb7e281",
+  "active": "2195955b6f6eaeef",
   "lastOpenFiles": [
     "2-letnik/4-semester/operacijski-sistemi/os-1-teden/predavanje-os-1-teden.md",
     "2-letnik/4-semester/operacijski-sistemi/os-2-teden/predavanje-os-2-teden.md",
