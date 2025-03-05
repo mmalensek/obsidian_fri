@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "75dad5e2452146b2",
+        "id": "fd0f466e43d67b56",
         "type": "tabs",
         "children": [
           {
-            "id": "93a0aee79998f109",
+            "id": "65aba373cb37bec1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/4-semester/principi-programskih-jezikov/ppj-3-teden/predavanje-ppj-3-teden.md",
+                "file": "2-letnik/4-semester/algoritmi-in-podatkovne-strukture-2/aps-3-teden/vaje-aps2-3-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "predavanje-ppj-3-teden"
+              "title": "vaje-aps2-3-teden"
             }
           }
         ]
@@ -107,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/4-semester/principi-programskih-jezikov/ppj-3-teden/predavanje-ppj-3-teden.md",
+                "file": "2-letnik/4-semester/algoritmi-in-podatkovne-strukture-2/aps-3-teden/vaje-aps2-3-teden.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of predavanje-ppj-3-teden"
+              "title": "Outline of vaje-aps2-3-teden"
             }
           },
           {
@@ -237,11 +237,14 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "2195955b6f6eaeef",
   "lastOpenFiles": [
+    "2-letnik/4-semester/algoritmi-in-podatkovne-strukture-2/aps-3-teden/vaje-aps2-3-teden.md",
+    "2-letnik/4-semester/algoritmi-in-podatkovne-strukture-2/aps-3-teden",
     "2-letnik/4-semester/principi-programskih-jezikov/ppj-3-teden/predavanje-ppj-3-teden.md",
     "2-letnik/4-semester/principi-programskih-jezikov/ppj-3-teden",
     "2-letnik/4-semester/operacijski-sistemi/os-2-teden/predavanje-os-2-teden.md",
@@ -276,8 +279,6 @@
     "2-letnik/4-semester/algoritmi-in-podatkovne-strukture-2/aps-1-teden",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav 2024-10-10 10.27.35.excalidraw.md",
     "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-1-teden/pomnilniško preslikane vzhodno-izhodne naprav 2024-10-07 18.11.02.excalidraw.md",
-    "2-letnik/3-semester/organizacija-računalniških-sistemov/ors-14-teden",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-11-teden/Screenshot 2024-12-13 at 09.58.27.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.49.44.png",
     "2-letnik/3-semester/osnove-podatkovnih-baz/opb-9-teden/Screenshot 2024-12-06 at 10.45.43.png",
