@@ -108,3 +108,65 @@ Praktične vidike, tega teorema sledi v poglavju:
 - postopek ponovimo za vsako skupino če je potrebno
 
 ![[predavanje-tis-2-teden 2025-02-26 13.54.43.excalidraw]]
+
+### 3. Huffmanov kod
+- združevanje: 
+	- vzamemo $r$ najmanj verjetnih znakov in jih združimo v nov znak
+	- postopek ponavljamo dokler ne ostane en sam sestavljeni znak (katerega verjetnost je $1$)
+- razdruževanje: 
+	- sestavljeni znak razstavimo na $r$ znakov in vsakemu priredimo en znak kodne abecede
+	- postopek ponavljamo, dokler imamo sestavljene znake
+	- kodne besede - preberemo oznake vej od korena proti listom
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ć
