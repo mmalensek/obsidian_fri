@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "vaje-os-3-teden"
             }
+          },
+          {
+            "id": "a038c34c237e1715",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,7 +254,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee192783be5d18e5",
+  "active": "2195955b6f6eaeef",
   "lastOpenFiles": [
     "2-letnik/4-semester/operacijski-sistemi/os-3-teden/vaje-os-3-teden.md",
     "2-letnik/4-semester/operacijski-sistemi/os-3-teden",
