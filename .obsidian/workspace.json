@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2-letnik/4-semester/operacijski-sistemi/os-3-teden/vaje-os-3-teden.md",
+                "file": "2-letnik/4-semester/teorija-informacij-in-sistemov/tis-2-teden/predavanje-tis-2-teden.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vaje-os-3-teden"
-            }
-          },
-          {
-            "id": "a038c34c237e1715",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "predavanje-tis-2-teden"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2-letnik/4-semester/operacijski-sistemi/os-3-teden/vaje-os-3-teden.md",
+                "file": "2-letnik/4-semester/teorija-informacij-in-sistemov/tis-2-teden/predavanje-tis-2-teden.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of vaje-os-3-teden"
+              "title": "Outline of predavanje-tis-2-teden"
             }
           },
           {
