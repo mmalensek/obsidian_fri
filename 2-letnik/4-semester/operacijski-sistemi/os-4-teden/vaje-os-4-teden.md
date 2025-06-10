@@ -8,3 +8,5 @@ users, group, others
 Kjer - predstavlja navadno datoteko.
 
 dodamo pravice kot "chmod"
+
+$$NWI$$
